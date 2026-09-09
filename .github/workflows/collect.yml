@@ -1,0 +1,97 @@
+name: collect
+
+# Daily collection. 05:00 UTC = 08:00 Africa/Cairo, so the snapshot is waiting
+# before the working day starts. Cron in GitHub Actions is always UTC.
+#
+# workflow_dispatch is what the dashboard's "Collect now" button triggers.
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/collect.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Collect
+        env:
+          # --- TikTok Discovery: hashtags (advertiser token) ---
+          TIKTOK_ACCESS_TOKEN: ${{ secrets.TIKTOK_ACCESS_TOKEN }}
+          TIKTOK_ADVERTISER_ID: ${{ secrets.TIKTOK_ADVERTISER_ID }}
+          # --- TikTok Discovery: CML sounds + keywords (account token) ---
+          TIKTOK_ACCOUNT_TOKEN: ${{ secrets.TIKTOK_ACCOUNT_TOKEN }}
+          TIKTOK_BUSINESS_ID: ${{ secrets.TIKTOK_BUSINESS_ID }}
+          # --- Optional extras ---
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          GOOGLE_TRENDS_API_KEY: ${{ secrets.GOOGLE_TRENDS_API_KEY }}
+          # --- Configuration (safe to keep in the clear) ---
+          COUNTRY_CODE: ${{ vars.COUNTRY_CODE || 'EG' }}
+          DATE_RANGE: ${{ vars.DATE_RANGE || '7DAY' }}
+          IG_COMPETITORS: ${{ vars.IG_COMPETITORS }}
+          TREND_SEED_TERMS: ${{ vars.TREND_SEED_TERMS }}
+          CREATOR_LOOKUP_LIMIT: ${{ vars.CREATOR_LOOKUP_LIMIT || '20' }}
+        run: node scripts/collect.js
+
+      - name: Commit snapshot
+        run: |
+          git config user.name  "trend-radar"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No data change — nothing to commit."
+            exit 0
+          fi
+          git commit -m "data: snapshot $(date -u +%Y-%m-%d)"
+          # Another run may have pushed while we were collecting.
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "### Collection run" >> "$GITHUB_STEP_SUMMARY"
+          if [ -f data/latest.json ]; then
+            node -e '
+              const d = require("./data/latest.json");
+              const s = d.summary || {};
+              const rows = [
+                ["Date", d.date], ["Market", d.country],
+                ["Days of history", d.daysOfHistory],
+                ["Tracked", s.tracked], ["New today", s.newToday],
+                ["Rising", s.rising], ["Act now", s.actNow],
+                ["Crossovers", s.crossovers], ["Fell off", s.droppedOut],
+              ];
+              console.log("| Metric | Value |\n| --- | --- |");
+              for (const [k, v] of rows) console.log(`| ${k} | ${v ?? "—"} |`);
+              console.log("\n#### Sources");
+              console.log("| Source | Status | Rows | Note |\n| --- | --- | --- | --- |");
+              for (const h of d.health || []) {
+                console.log(`| ${h.source} | ${h.status} | ${h.count} | ${(h.note||"").replace(/\|/g,"/")} |`);
+              }
+            ' >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "No data/latest.json was produced." >> "$GITHUB_STEP_SUMMARY"
+          fi
