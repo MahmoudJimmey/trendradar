@@ -1,0 +1,4240 @@
+{
+  "generatedAt": "2026-09-09T13:24:28.932Z",
+  "date": "2026-09-09",
+  "country": "EG",
+  "dateRange": "7DAY",
+  "sample": true,
+  "daysOfHistory": 9,
+  "summary": {
+    "formats": 4,
+    "formatsSpiking": 2,
+    "formatsActionable": 2,
+    "tracked": 58,
+    "sounds": 9,
+    "hashtags": 10,
+    "newToday": 3,
+    "rising": 11,
+    "actNow": 9,
+    "tooLate": 3,
+    "crossovers": 5,
+    "verticalFit": 8,
+    "commercialSafeSounds": 9,
+    "droppedOut": 2
+  },
+  "health": [
+    {
+      "source": "sample-generator",
+      "status": "ok",
+      "count": 19,
+      "note": "Example data — run scripts/collect.js with credentials to replace",
+      "at": "2026-09-09T13:24:28.932Z"
+    },
+    {
+      "source": "tiktok-sounds",
+      "status": "skipped",
+      "count": 0,
+      "note": "TIKTOK_ACCOUNT_TOKEN / TIKTOK_BUSINESS_ID not set",
+      "at": "2026-09-09T13:24:28.932Z"
+    },
+    {
+      "source": "tiktok-hashtags",
+      "status": "skipped",
+      "count": 0,
+      "note": "TIKTOK_ACCESS_TOKEN / TIKTOK_ADVERTISER_ID not set",
+      "at": "2026-09-09T13:24:28.932Z"
+    },
+    {
+      "source": "instagram-audio",
+      "status": "ok",
+      "count": 8,
+      "note": "sample — names only; Meta publishes no metrics, rank or country filter for audio",
+      "at": "2026-09-09T13:24:28.932Z"
+    },
+    {
+      "source": "youtube",
+      "status": "ok",
+      "count": 6,
+      "note": "sample — Shorts flagged by duration, not by a platform field",
+      "at": "2026-09-09T13:24:28.932Z"
+    }
+  ],
+  "sections": {
+    "formats": [
+      {
+        "key": "fmt:80s",
+        "label": "80s",
+        "phrase": "80s",
+        "weight": 135,
+        "baseline": 0,
+        "peakBefore": 0,
+        "lift": 17,
+        "breadth": 5,
+        "sources": [
+          "hashtags",
+          "sounds",
+          "keywords",
+          "searchDemand",
+          "videos"
+        ],
+        "daysSeen": 1,
+        "isNew": true,
+        "firstSeen": "2026-09-09",
+        "archetypes": [
+          "era",
+          "challenge"
+        ],
+        "archetypeLabels": [
+          "Era / decade",
+          "Challenge"
+        ],
+        "relevance": 0,
+        "verticals": [],
+        "score": 83.3,
+        "status": "unseen",
+        "examples": [
+          {
+            "text": "80schallenge",
+            "source": "hashtags",
+            "ref": "tag:9010"
+          },
+          {
+            "text": "Neon Nights (80s Edit) Retro Cairo",
+            "source": "sounds",
+            "ref": "sound:71255"
+          }
+        ],
+        "isRTL": false,
+        "isSeed": true,
+        "cluster": {
+          "hashtags": [
+            {
+              "label": "#80schallenge",
+              "rank": 4,
+              "stage": "emerging",
+              "views": 48100000
+            },
+            {
+              "label": "#تحدي_الثمانينات",
+              "rank": 16,
+              "stage": "emerging",
+              "views": 11400000
+            }
+          ],
+          "sounds": [
+            {
+              "label": "Neon Nights (80s Edit)",
+              "artist": "Retro Cairo",
+              "rank": 8,
+              "stage": "emerging",
+              "songClipId": "clip_71255"
+            }
+          ],
+          "keywords": [
+            "تحدي الثمانينات"
+          ],
+          "queries": [
+            {
+              "label": "تحدي الثمانينات",
+              "traffic": "10000+"
+            }
+          ],
+          "creators": [
+            {
+              "handle": "@example-creator-d",
+              "profileUrl": null,
+              "uses": 4,
+              "examples": [],
+              "placeholder": true,
+              "via": [
+                "#80schallenge",
+                "Neon Nights (80s Edit)"
+              ]
+            },
+            {
+              "handle": "@example-creator-g",
+              "profileUrl": null,
+              "uses": 3,
+              "examples": [],
+              "placeholder": true,
+              "via": [
+                "#80schallenge",
+                "Neon Nights (80s Edit)"
+              ]
+            },
+            {
+              "handle": "@example-creator-b",
+              "profileUrl": null,
+              "uses": 2,
+              "examples": [],
+              "placeholder": true,
+              "via": [
+                "#80schallenge",
+                "Neon Nights (80s Edit)"
+              ]
+            },
+            {
+              "handle": "@example-creator-e",
+              "profileUrl": null,
+              "uses": 4,
+              "examples": [],
+              "placeholder": true,
+              "via": [
+                "#تحدي_الثمانينات"
+              ]
+            },
+            {
+              "handle": "@example-creator-h",
+              "profileUrl": null,
+              "uses": 3,
+              "examples": [],
+              "placeholder": true,
+              "via": [
+                "#تحدي_الثمانينات"
+              ]
+            },
+            {
+              "handle": "@example-creator-c",
+              "profileUrl": null,
+              "uses": 2,
+              "examples": [],
+              "placeholder": true,
+              "via": [
+                "#تحدي_الثمانينات"
+              ]
+            },
+            {
+              "handle": "@example-creator-a",
+              "profileUrl": null,
+              "uses": 4,
+              "examples": [],
+              "placeholder": true,
+              "via": [
+                "Neon Nights (80s Edit)"
+              ]
+            }
+          ],
+          "hasClearedSound": true
+        },
+        "relatedHashtags": [],
+        "hasClearedSound": true,
+        "playbook": [
+          {
+            "archetype": "Era / decade",
+            "vertical": "realestate",
+            "line": "Then-and-now on a neighbourhood: old Cairo footage against the same street today, or 80s-styled apartment staging."
+          },
+          {
+            "archetype": "Era / decade",
+            "vertical": "automotive",
+            "line": "Era-matched cars — a 1985 model shot on period-graded film, engine sound over the era track."
+          },
+          {
+            "archetype": "Challenge",
+            "vertical": "realestate",
+            "line": "Give it a rule anyone can copy in one take — \"show your flat in 3 seconds\", \"guess the price\"."
+          },
+          {
+            "archetype": "Challenge",
+            "vertical": "automotive",
+            "line": "Make it a test with a pass/fail — \"name the engine from the sound\", \"0–100 blindfold guess\"."
+          }
+        ],
+        "verdict": "act-now",
+        "variants": [
+          {
+            "phrase": "80s challenge",
+            "lift": 11,
+            "sources": [
+              "hashtags"
+            ]
+          },
+          {
+            "phrase": "challenge",
+            "lift": 11,
+            "sources": [
+              "hashtags"
+            ]
+          },
+          {
+            "phrase": "تحدي",
+            "lift": 5.6,
+            "sources": [
+              "hashtags",
+              "keywords",
+              "searchDemand",
+              "videos"
+            ]
+          },
+          {
+            "phrase": "تحدي الثمانينات",
+            "lift": 5.6,
+            "sources": [
+              "hashtags",
+              "keywords",
+              "searchDemand",
+              "videos"
+            ]
+          },
+          {
+            "phrase": "الثمانينات",
+            "lift": 5.6,
+            "sources": [
+              "hashtags",
+              "keywords",
+              "searchDemand",
+              "videos"
+            ]
+          },
+          {
+            "phrase": "nights 80s",
+            "lift": 7,
+            "sources": [
+              "sounds"
+            ]
+          },
+          {
+            "phrase": "80s retro",
+            "lift": 7,
+            "sources": [
+              "sounds"
+            ]
+          },
+          {
+            "phrase": "retro",
+            "lift": 7,
+            "sources": [
+              "sounds"
+            ]
+          }
+        ],
+        "variantCount": 8
+      },
+      {
+        "key": "fmt:تشطيب شقتي",
+        "label": "تشطيب شقتي",
+        "phrase": "تشطيب شقتي",
+        "weight": 47,
+        "baseline": 0,
+        "peakBefore": 0,
+        "lift": 11,
+        "breadth": 4,
+        "sources": [
+          "hashtags",
+          "keywords",
+          "searchDemand",
+          "videos"
+        ],
+        "daysSeen": 1,
+        "isNew": true,
+        "firstSeen": "2026-09-09",
+        "archetypes": [],
+        "archetypeLabels": [],
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "score": 36.19,
+        "status": "unseen",
+        "examples": [
+          {
+            "text": "تشطيب_شقتي",
+            "source": "hashtags",
+            "ref": "tag:9001"
+          }
+        ],
+        "isRTL": true,
+        "isSeed": true,
+        "cluster": {
+          "hashtags": [
+            {
+              "label": "#تشطيب_شقتي",
+              "rank": 6,
+              "stage": "emerging",
+              "views": 62400000
+            }
+          ],
+          "sounds": [],
+          "keywords": [
+            "تشطيب"
+          ],
+          "queries": [
+            {
+              "label": "تشطيب شقة 100 متر",
+              "traffic": "5000+"
+            }
+          ],
+          "creators": [
+            {
+              "handle": "@example-creator-d",
+              "profileUrl": null,
+              "uses": 4,
+              "examples": [],
+              "placeholder": true,
+              "via": [
+                "#تشطيب_شقتي"
+              ]
+            },
+            {
+              "handle": "@example-creator-g",
+              "profileUrl": null,
+              "uses": 3,
+              "examples": [],
+              "placeholder": true,
+              "via": [
+                "#تشطيب_شقتي"
+              ]
+            },
+            {
+              "handle": "@example-creator-b",
+              "profileUrl": null,
+              "uses": 2,
+              "examples": [],
+              "placeholder": true,
+              "via": [
+                "#تشطيب_شقتي"
+              ]
+            }
+          ],
+          "hasClearedSound": false
+        },
+        "relatedHashtags": [],
+        "hasClearedSound": false,
+        "playbook": [],
+        "verdict": "act-now",
+        "variants": [
+          {
+            "phrase": "شقتي",
+            "lift": 11,
+            "sources": [
+              "hashtags"
+            ]
+          },
+          {
+            "phrase": "تشطيب",
+            "lift": 1.56,
+            "sources": [
+              "hashtags",
+              "keywords",
+              "searchDemand",
+              "videos"
+            ]
+          }
+        ],
+        "variantCount": 2
+      },
+      {
+        "key": "fmt:قبل وبعد",
+        "label": "قبل وبعد",
+        "phrase": "قبل وبعد",
+        "weight": 19,
+        "baseline": 9,
+        "peakBefore": 9,
+        "lift": 2,
+        "breadth": 3,
+        "sources": [
+          "hashtags",
+          "keywords",
+          "videos"
+        ],
+        "daysSeen": 10,
+        "isNew": false,
+        "firstSeen": "2026-08-31",
+        "archetypes": [
+          "beforeafter"
+        ],
+        "archetypeLabels": [
+          "Before / after"
+        ],
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "score": 4.75,
+        "status": "spreading",
+        "examples": [
+          {
+            "text": "قبل_وبعد",
+            "source": "hashtags",
+            "ref": "tag:9007"
+          },
+          {
+            "text": "قبل وبعد",
+            "source": "keywords",
+            "ref": "kw:قبل وبعد"
+          },
+          {
+            "text": "قبل وبعد تشطيب شقة 120 متر",
+            "source": "videos",
+            "ref": "yt:yt_3"
+          }
+        ],
+        "isRTL": true,
+        "isSeed": true,
+        "cluster": {
+          "hashtags": [
+            {
+              "label": "#قبل_وبعد",
+              "rank": 10,
+              "stage": "emerging",
+              "views": 12600000
+            }
+          ],
+          "sounds": [],
+          "keywords": [
+            "قبل وبعد"
+          ],
+          "queries": [],
+          "creators": [
+            {
+              "handle": "@example-creator-b",
+              "profileUrl": null,
+              "uses": 4,
+              "examples": [],
+              "placeholder": true,
+              "via": [
+                "#قبل_وبعد"
+              ]
+            },
+            {
+              "handle": "@example-creator-e",
+              "profileUrl": null,
+              "uses": 3,
+              "examples": [],
+              "placeholder": true,
+              "via": [
+                "#قبل_وبعد"
+              ]
+            },
+            {
+              "handle": "@example-creator-h",
+              "profileUrl": null,
+              "uses": 2,
+              "examples": [],
+              "placeholder": true,
+              "via": [
+                "#قبل_وبعد"
+              ]
+            }
+          ],
+          "hasClearedSound": false
+        },
+        "relatedHashtags": [],
+        "hasClearedSound": false,
+        "playbook": [
+          {
+            "archetype": "Before / after",
+            "vertical": "realestate",
+            "line": "The single highest-fit format you have. Shoot every handover in the same frame twice, months apart."
+          }
+        ],
+        "verdict": "ride-fast",
+        "variants": [],
+        "variantCount": 0
+      },
+      {
+        "key": "fmt:كمبوند",
+        "label": "كمبوند",
+        "phrase": "كمبوند",
+        "weight": 19,
+        "baseline": 19,
+        "peakBefore": 19,
+        "lift": 1,
+        "breadth": 3,
+        "sources": [
+          "hashtags",
+          "keywords",
+          "videos"
+        ],
+        "daysSeen": 10,
+        "isNew": false,
+        "firstSeen": "2026-08-31",
+        "archetypes": [],
+        "archetypeLabels": [],
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "score": 1.9,
+        "status": "steady",
+        "examples": [
+          {
+            "text": "كمبوند_التجمع",
+            "source": "hashtags",
+            "ref": "tag:9002"
+          },
+          {
+            "text": "كمبوند",
+            "source": "keywords",
+            "ref": "kw:كمبوند"
+          },
+          {
+            "text": "جولة في كمبوند بالتجمع الخامس | أسعار 2026",
+            "source": "videos",
+            "ref": "yt:yt_2"
+          }
+        ],
+        "isRTL": true,
+        "isSeed": false,
+        "cluster": {
+          "hashtags": [
+            {
+              "label": "#كمبوند_التجمع",
+              "rank": 9,
+              "stage": "peaking",
+              "views": 24800000
+            }
+          ],
+          "sounds": [],
+          "keywords": [
+            "كمبوند"
+          ],
+          "queries": [
+            {
+              "label": "كمبوندات العاصمة الادارية",
+              "traffic": "10000+"
+            }
+          ],
+          "creators": [
+            {
+              "handle": "@example-creator-e",
+              "profileUrl": null,
+              "uses": 4,
+              "examples": [],
+              "placeholder": true,
+              "via": [
+                "#كمبوند_التجمع"
+              ]
+            },
+            {
+              "handle": "@example-creator-h",
+              "profileUrl": null,
+              "uses": 3,
+              "examples": [],
+              "placeholder": true,
+              "via": [
+                "#كمبوند_التجمع"
+              ]
+            },
+            {
+              "handle": "@example-creator-c",
+              "profileUrl": null,
+              "uses": 2,
+              "examples": [],
+              "placeholder": true,
+              "via": [
+                "#كمبوند_التجمع"
+              ]
+            }
+          ],
+          "hasClearedSound": false
+        },
+        "relatedHashtags": [],
+        "hasClearedSound": false,
+        "playbook": [],
+        "verdict": "monitor",
+        "variants": [],
+        "variantCount": 0
+      }
+    ],
+    "sounds": [
+      {
+        "key": "sound:71203",
+        "id": "71203",
+        "label": "Shoft Kalam",
+        "artist": "Marwan Pablo, Lege-Cy & HatemBas",
+        "genre": "Arabic Pop",
+        "rank": 3,
+        "views": 41300000,
+        "posts": 121000,
+        "durationSec": 28,
+        "songClipId": "clip_71203",
+        "previewUrl": null,
+        "source": "tiktok-cml",
+        "commercialSafe": true,
+        "genresCharted": [
+          "ALL",
+          "ARABIC_POP"
+        ],
+        "creators": [
+          {
+            "handle": "@example-creator-b",
+            "profileUrl": null,
+            "uses": 4,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-e",
+            "profileUrl": null,
+            "uses": 3,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-h",
+            "profileUrl": null,
+            "uses": 2,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-c",
+            "profileUrl": null,
+            "uses": 1,
+            "examples": [],
+            "placeholder": true
+          }
+        ],
+        "examples": [],
+        "firstSeen": "2026-09-08",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 2,
+        "rankPrev": 28,
+        "rankDelta": 25,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 25,
+        "acceleration": null,
+        "peakRank": 3,
+        "daysSincePeak": 0,
+        "viewsDelta": 32200000,
+        "viewsGrowthPct": 353.8,
+        "postsDelta": 73000,
+        "postsGrowthPct": 152.1,
+        "saturation": 0,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 14,
+        "isNew": false,
+        "alerts": [
+          "jumped-25-places",
+          "fast-entry-top-20",
+          "crossover:apple-music-eg"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-08",
+            "rank": 28
+          },
+          {
+            "date": "2026-09-09",
+            "rank": 3
+          }
+        ],
+        "crossover": true,
+        "crossoverSources": [
+          "apple-music-eg"
+        ]
+      },
+      {
+        "key": "sound:71188",
+        "id": "71188",
+        "label": "Wala Ash Wala Kan",
+        "artist": "TUL8TE",
+        "genre": "Arabic Pop",
+        "rank": 7,
+        "views": 38800000,
+        "posts": 96000,
+        "durationSec": 28,
+        "songClipId": "clip_71188",
+        "previewUrl": null,
+        "source": "tiktok-cml",
+        "commercialSafe": true,
+        "genresCharted": [
+          "ALL",
+          "ARABIC_POP"
+        ],
+        "creators": [
+          {
+            "handle": "@example-creator-f",
+            "profileUrl": null,
+            "uses": 4,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-a",
+            "profileUrl": null,
+            "uses": 3,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-d",
+            "profileUrl": null,
+            "uses": 2,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-g",
+            "profileUrl": null,
+            "uses": 1,
+            "examples": [],
+            "placeholder": true
+          }
+        ],
+        "examples": [],
+        "firstSeen": "2026-09-02",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 8,
+        "rankPrev": 9,
+        "rankDelta": 2,
+        "rank7dAgo": 22,
+        "rankDelta7d": 15,
+        "velocity3d": 2.33,
+        "acceleration": 0,
+        "peakRank": 7,
+        "daysSincePeak": 0,
+        "viewsDelta": 2342857,
+        "viewsGrowthPct": 6.4,
+        "postsDelta": 5000,
+        "postsGrowthPct": 5.5,
+        "saturation": 0,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "rising",
+        "verdict": "ride-fast",
+        "runwayDays": 8,
+        "isNew": false,
+        "alerts": [
+          "crossover:apple-music-eg"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-02",
+            "rank": 22
+          },
+          {
+            "date": "2026-09-03",
+            "rank": 20
+          },
+          {
+            "date": "2026-09-04",
+            "rank": 18
+          },
+          {
+            "date": "2026-09-05",
+            "rank": 16
+          },
+          {
+            "date": "2026-09-06",
+            "rank": 14
+          },
+          {
+            "date": "2026-09-07",
+            "rank": 12
+          },
+          {
+            "date": "2026-09-08",
+            "rank": 9
+          },
+          {
+            "date": "2026-09-09",
+            "rank": 7
+          }
+        ],
+        "crossover": true,
+        "crossoverSources": [
+          "apple-music-eg"
+        ]
+      },
+      {
+        "key": "sound:71054",
+        "id": "71054",
+        "label": "Ana Fadel",
+        "artist": "Cairokee",
+        "genre": "Arabic Rock",
+        "rank": 10,
+        "views": 47900000,
+        "posts": 103000,
+        "durationSec": 28,
+        "songClipId": "clip_71054",
+        "previewUrl": null,
+        "source": "tiktok-cml",
+        "commercialSafe": true,
+        "genresCharted": [
+          "ALL",
+          "ARABIC_POP"
+        ],
+        "creators": [
+          {
+            "handle": "@example-creator-e",
+            "profileUrl": null,
+            "uses": 4,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-h",
+            "profileUrl": null,
+            "uses": 3,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-c",
+            "profileUrl": null,
+            "uses": 2,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-f",
+            "profileUrl": null,
+            "uses": 1,
+            "examples": [],
+            "placeholder": true
+          }
+        ],
+        "examples": [],
+        "firstSeen": "2026-09-02",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 8,
+        "rankPrev": 10,
+        "rankDelta": 0,
+        "rank7dAgo": 8,
+        "rankDelta7d": -2,
+        "velocity3d": -0.33,
+        "acceleration": 0,
+        "peakRank": 8,
+        "daysSincePeak": 7,
+        "viewsDelta": 528571,
+        "viewsGrowthPct": 1.1,
+        "postsDelta": 2143,
+        "postsGrowthPct": 2.1,
+        "saturation": 0.47,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 6,
+        "isNew": false,
+        "alerts": [
+          "crossover:apple-music-eg"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-02",
+            "rank": 8
+          },
+          {
+            "date": "2026-09-03",
+            "rank": 9
+          },
+          {
+            "date": "2026-09-04",
+            "rank": 9
+          },
+          {
+            "date": "2026-09-05",
+            "rank": 9
+          },
+          {
+            "date": "2026-09-06",
+            "rank": 9
+          },
+          {
+            "date": "2026-09-07",
+            "rank": 10
+          },
+          {
+            "date": "2026-09-08",
+            "rank": 10
+          },
+          {
+            "date": "2026-09-09",
+            "rank": 10
+          }
+        ],
+        "crossover": true,
+        "crossoverSources": [
+          "apple-music-eg"
+        ]
+      },
+      {
+        "key": "sound:70998",
+        "id": "70998",
+        "label": "Getlak",
+        "artist": "Amr Diab",
+        "genre": "Arabic Pop",
+        "rank": 18,
+        "views": 73200000,
+        "posts": 152000,
+        "durationSec": 28,
+        "songClipId": "clip_70998",
+        "previewUrl": null,
+        "source": "tiktok-cml",
+        "commercialSafe": true,
+        "genresCharted": [
+          "ALL",
+          "ARABIC_POP"
+        ],
+        "creators": [
+          {
+            "handle": "@example-creator-e",
+            "profileUrl": null,
+            "uses": 4,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-h",
+            "profileUrl": null,
+            "uses": 3,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-c",
+            "profileUrl": null,
+            "uses": 2,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-f",
+            "profileUrl": null,
+            "uses": 1,
+            "examples": [],
+            "placeholder": true
+          }
+        ],
+        "examples": [],
+        "firstSeen": "2026-09-02",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 8,
+        "rankPrev": 16,
+        "rankDelta": -2,
+        "rank7dAgo": 3,
+        "rankDelta7d": -15,
+        "velocity3d": -2,
+        "acceleration": 0,
+        "peakRank": 3,
+        "daysSincePeak": 7,
+        "viewsDelta": 242857,
+        "viewsGrowthPct": 0.3,
+        "postsDelta": 1714,
+        "postsGrowthPct": 1.1,
+        "saturation": 0.71,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "declining",
+        "verdict": "too-late",
+        "runwayDays": 3,
+        "isNew": false,
+        "alerts": [
+          "crossover:apple-music-eg"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-02",
+            "rank": 3
+          },
+          {
+            "date": "2026-09-03",
+            "rank": 6
+          },
+          {
+            "date": "2026-09-04",
+            "rank": 8
+          },
+          {
+            "date": "2026-09-05",
+            "rank": 10
+          },
+          {
+            "date": "2026-09-06",
+            "rank": 12
+          },
+          {
+            "date": "2026-09-07",
+            "rank": 14
+          },
+          {
+            "date": "2026-09-08",
+            "rank": 16
+          },
+          {
+            "date": "2026-09-09",
+            "rank": 18
+          }
+        ],
+        "crossover": true,
+        "crossoverSources": [
+          "apple-music-eg"
+        ]
+      },
+      {
+        "key": "sound:71241",
+        "id": "71241",
+        "label": "Desert Drive (Instrumental)",
+        "artist": "Nile Beats",
+        "genre": "Electronic",
+        "rank": 14,
+        "views": 3400000,
+        "posts": 9800,
+        "durationSec": 28,
+        "songClipId": "clip_71241",
+        "previewUrl": null,
+        "source": "tiktok-cml",
+        "commercialSafe": true,
+        "genresCharted": [
+          "ALL",
+          "POP"
+        ],
+        "creators": [
+          {
+            "handle": "@example-creator-d",
+            "profileUrl": null,
+            "uses": 4,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-g",
+            "profileUrl": null,
+            "uses": 3,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-b",
+            "profileUrl": null,
+            "uses": 2,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-e",
+            "profileUrl": null,
+            "uses": 1,
+            "examples": [],
+            "placeholder": true
+          }
+        ],
+        "examples": [],
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 14,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 14
+          }
+        ],
+        "crossover": false,
+        "crossoverSources": []
+      },
+      {
+        "key": "sound:71166",
+        "id": "71166",
+        "label": "Layali Masr",
+        "artist": "Hoda Zain",
+        "genre": "Arabic Pop",
+        "rank": 25,
+        "views": 10100000,
+        "posts": 27500,
+        "durationSec": 28,
+        "songClipId": "clip_71166",
+        "previewUrl": null,
+        "source": "tiktok-cml",
+        "commercialSafe": true,
+        "genresCharted": [
+          "ALL",
+          "ARABIC_POP"
+        ],
+        "creators": [
+          {
+            "handle": "@example-creator-b",
+            "profileUrl": null,
+            "uses": 4,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-e",
+            "profileUrl": null,
+            "uses": 3,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-h",
+            "profileUrl": null,
+            "uses": 2,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-c",
+            "profileUrl": null,
+            "uses": 1,
+            "examples": [],
+            "placeholder": true
+          }
+        ],
+        "examples": [],
+        "firstSeen": "2026-09-04",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 6,
+        "rankPrev": 26,
+        "rankDelta": 1,
+        "rank7dAgo": 32,
+        "rankDelta7d": 7,
+        "velocity3d": 1.33,
+        "acceleration": 0,
+        "peakRank": 25,
+        "daysSincePeak": 0,
+        "viewsDelta": 660000,
+        "viewsGrowthPct": 7,
+        "postsDelta": 1700,
+        "postsGrowthPct": 6.6,
+        "saturation": 0,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "skip",
+        "runwayDays": 10,
+        "isNew": false,
+        "alerts": [
+          "crossover:apple-music-eg"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-04",
+            "rank": 32
+          },
+          {
+            "date": "2026-09-05",
+            "rank": 30
+          },
+          {
+            "date": "2026-09-06",
+            "rank": 29
+          },
+          {
+            "date": "2026-09-07",
+            "rank": 27
+          },
+          {
+            "date": "2026-09-08",
+            "rank": 26
+          },
+          {
+            "date": "2026-09-09",
+            "rank": 25
+          }
+        ],
+        "crossover": true,
+        "crossoverSources": [
+          "apple-music-eg"
+        ]
+      },
+      {
+        "key": "sound:70877",
+        "id": "70877",
+        "label": "Slow Cruise",
+        "artist": "Karim Rush",
+        "genre": "Hip Hop/Rap",
+        "rank": 32,
+        "views": 33600000,
+        "posts": 80100,
+        "durationSec": 28,
+        "songClipId": "clip_70877",
+        "previewUrl": null,
+        "source": "tiktok-cml",
+        "commercialSafe": true,
+        "genresCharted": [
+          "ALL",
+          "POP"
+        ],
+        "creators": [
+          {
+            "handle": "@example-creator-a",
+            "profileUrl": null,
+            "uses": 4,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-d",
+            "profileUrl": null,
+            "uses": 3,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-g",
+            "profileUrl": null,
+            "uses": 2,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-b",
+            "profileUrl": null,
+            "uses": 1,
+            "examples": [],
+            "placeholder": true
+          }
+        ],
+        "examples": [],
+        "firstSeen": "2026-09-02",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 8,
+        "rankPrev": 29,
+        "rankDelta": -3,
+        "rank7dAgo": 11,
+        "rankDelta7d": -21,
+        "velocity3d": -3,
+        "acceleration": 0,
+        "peakRank": 11,
+        "daysSincePeak": 7,
+        "viewsDelta": 85714,
+        "viewsGrowthPct": 0.3,
+        "postsDelta": 443,
+        "postsGrowthPct": 0.6,
+        "saturation": 0.54,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "declining",
+        "verdict": "too-late",
+        "runwayDays": 3,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-09-02",
+            "rank": 11
+          },
+          {
+            "date": "2026-09-03",
+            "rank": 14
+          },
+          {
+            "date": "2026-09-04",
+            "rank": 17
+          },
+          {
+            "date": "2026-09-05",
+            "rank": 20
+          },
+          {
+            "date": "2026-09-06",
+            "rank": 23
+          },
+          {
+            "date": "2026-09-07",
+            "rank": 26
+          },
+          {
+            "date": "2026-09-08",
+            "rank": 29
+          },
+          {
+            "date": "2026-09-09",
+            "rank": 32
+          }
+        ],
+        "crossover": false,
+        "crossoverSources": []
+      },
+      {
+        "key": "sound:71219",
+        "id": "71219",
+        "label": "Beit El Ahlam",
+        "artist": "Salma Fouad",
+        "genre": "Arabic Pop",
+        "rank": 27,
+        "views": 7700000,
+        "posts": 21300,
+        "durationSec": 28,
+        "songClipId": "clip_71219",
+        "previewUrl": null,
+        "source": "tiktok-cml",
+        "commercialSafe": true,
+        "genresCharted": [
+          "ALL",
+          "ARABIC_POP"
+        ],
+        "creators": [
+          {
+            "handle": "@example-creator-a",
+            "profileUrl": null,
+            "uses": 4,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-d",
+            "profileUrl": null,
+            "uses": 3,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-g",
+            "profileUrl": null,
+            "uses": 2,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-b",
+            "profileUrl": null,
+            "uses": 1,
+            "examples": [],
+            "placeholder": true
+          }
+        ],
+        "examples": [],
+        "firstSeen": "2026-09-07",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 3,
+        "rankPrev": 39,
+        "rankDelta": 12,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 12.5,
+        "acceleration": null,
+        "peakRank": 27,
+        "daysSincePeak": 0,
+        "viewsDelta": 2900000,
+        "viewsGrowthPct": 60.4,
+        "postsDelta": 6950,
+        "postsGrowthPct": 48.4,
+        "saturation": 0,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "rising",
+        "verdict": "act-now",
+        "runwayDays": 13,
+        "isNew": false,
+        "alerts": [
+          "jumped-12-places"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-07",
+            "rank": 52
+          },
+          {
+            "date": "2026-09-08",
+            "rank": 39
+          },
+          {
+            "date": "2026-09-09",
+            "rank": 27
+          }
+        ],
+        "crossover": false,
+        "crossoverSources": []
+      },
+      {
+        "key": "sound:71255",
+        "id": "71255",
+        "label": "Neon Nights (80s Edit)",
+        "artist": "Retro Cairo",
+        "genre": "Synth Pop",
+        "rank": 8,
+        "views": 14700000,
+        "posts": 18900,
+        "durationSec": 28,
+        "songClipId": "clip_71255",
+        "previewUrl": null,
+        "source": "tiktok-cml",
+        "commercialSafe": true,
+        "genresCharted": [
+          "ALL",
+          "POP"
+        ],
+        "creators": [
+          {
+            "handle": "@example-creator-a",
+            "profileUrl": null,
+            "uses": 4,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-d",
+            "profileUrl": null,
+            "uses": 3,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-g",
+            "profileUrl": null,
+            "uses": 2,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-b",
+            "profileUrl": null,
+            "uses": 1,
+            "examples": [],
+            "placeholder": true
+          }
+        ],
+        "examples": [],
+        "firstSeen": "2026-09-08",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 2,
+        "rankPrev": 33,
+        "rankDelta": 25,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 25,
+        "acceleration": null,
+        "peakRank": 8,
+        "daysSincePeak": 0,
+        "viewsDelta": 13500000,
+        "viewsGrowthPct": 1125,
+        "postsDelta": 14800,
+        "postsGrowthPct": 361,
+        "saturation": 0,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 14,
+        "isNew": false,
+        "alerts": [
+          "jumped-25-places",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-08",
+            "rank": 33
+          },
+          {
+            "date": "2026-09-09",
+            "rank": 8
+          }
+        ],
+        "crossover": false,
+        "crossoverSources": []
+      }
+    ],
+    "hashtags": [
+      {
+        "key": "tag:9010",
+        "id": "9010",
+        "label": "#80schallenge",
+        "rawName": "80schallenge",
+        "rank": 4,
+        "views": 48100000,
+        "posts": 26800,
+        "topCountries": [
+          "EG",
+          "SA",
+          "AE"
+        ],
+        "categories": [
+          "ALL",
+          "HOME_IMPROVEMENT"
+        ],
+        "source": "tiktok-discovery",
+        "commercialSafe": true,
+        "creators": [
+          {
+            "handle": "@example-creator-d",
+            "profileUrl": null,
+            "uses": 4,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-g",
+            "profileUrl": null,
+            "uses": 3,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-b",
+            "profileUrl": null,
+            "uses": 2,
+            "examples": [],
+            "placeholder": true
+          }
+        ],
+        "examples": [],
+        "firstSeen": "2026-09-08",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 2,
+        "rankPrev": 29,
+        "rankDelta": 25,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 25,
+        "acceleration": null,
+        "peakRank": 4,
+        "daysSincePeak": 0,
+        "viewsDelta": 40700000,
+        "viewsGrowthPct": 550,
+        "postsDelta": 21200,
+        "postsGrowthPct": 378.6,
+        "saturation": 0,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 14,
+        "isNew": false,
+        "alerts": [
+          "jumped-25-places",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-08",
+            "rank": 29
+          },
+          {
+            "date": "2026-09-09",
+            "rank": 4
+          }
+        ]
+      },
+      {
+        "key": "tag:9011",
+        "id": "9011",
+        "label": "#تحدي_الثمانينات",
+        "rawName": "تحدي_الثمانينات",
+        "rank": 16,
+        "views": 11400000,
+        "posts": 8200,
+        "topCountries": [
+          "EG",
+          "SA",
+          "AE"
+        ],
+        "categories": [
+          "ALL",
+          "HOME_IMPROVEMENT"
+        ],
+        "source": "tiktok-discovery",
+        "commercialSafe": true,
+        "creators": [
+          {
+            "handle": "@example-creator-e",
+            "profileUrl": null,
+            "uses": 4,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-h",
+            "profileUrl": null,
+            "uses": 3,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-c",
+            "profileUrl": null,
+            "uses": 2,
+            "examples": [],
+            "placeholder": true
+          }
+        ],
+        "examples": [],
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 16,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 16
+          }
+        ]
+      },
+      {
+        "key": "tag:9001",
+        "id": "9001",
+        "label": "#تشطيب_شقتي",
+        "rawName": "تشطيب_شقتي",
+        "rank": 6,
+        "views": 62400000,
+        "posts": 31900,
+        "topCountries": [
+          "EG",
+          "SA",
+          "AE"
+        ],
+        "categories": [
+          "ALL",
+          "HOME_IMPROVEMENT"
+        ],
+        "source": "tiktok-discovery",
+        "commercialSafe": true,
+        "creators": [
+          {
+            "handle": "@example-creator-d",
+            "profileUrl": null,
+            "uses": 4,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-g",
+            "profileUrl": null,
+            "uses": 3,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-b",
+            "profileUrl": null,
+            "uses": 2,
+            "examples": [],
+            "placeholder": true
+          }
+        ],
+        "examples": [],
+        "firstSeen": "2026-09-08",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 2,
+        "rankPrev": 31,
+        "rankDelta": 25,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 25,
+        "acceleration": null,
+        "peakRank": 6,
+        "daysSincePeak": 0,
+        "viewsDelta": 44200000,
+        "viewsGrowthPct": 242.9,
+        "postsDelta": 19500,
+        "postsGrowthPct": 157.3,
+        "saturation": 0,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 14,
+        "isNew": false,
+        "alerts": [
+          "jumped-25-places",
+          "fast-entry-top-20",
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-08",
+            "rank": 31
+          },
+          {
+            "date": "2026-09-09",
+            "rank": 6
+          }
+        ]
+      },
+      {
+        "key": "tag:9002",
+        "id": "9002",
+        "label": "#كمبوند_التجمع",
+        "rawName": "كمبوند_التجمع",
+        "rank": 9,
+        "views": 24800000,
+        "posts": 15200,
+        "topCountries": [
+          "EG",
+          "SA",
+          "AE"
+        ],
+        "categories": [
+          "ALL",
+          "HOME_IMPROVEMENT"
+        ],
+        "source": "tiktok-discovery",
+        "commercialSafe": true,
+        "creators": [
+          {
+            "handle": "@example-creator-e",
+            "profileUrl": null,
+            "uses": 4,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-h",
+            "profileUrl": null,
+            "uses": 3,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-c",
+            "profileUrl": null,
+            "uses": 2,
+            "examples": [],
+            "placeholder": true
+          }
+        ],
+        "examples": [],
+        "firstSeen": "2026-09-02",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 8,
+        "rankPrev": 11,
+        "rankDelta": 2,
+        "rank7dAgo": 19,
+        "rankDelta7d": 10,
+        "velocity3d": 1.67,
+        "acceleration": 0.34,
+        "peakRank": 9,
+        "daysSincePeak": 0,
+        "viewsDelta": 1914286,
+        "viewsGrowthPct": 8.4,
+        "postsDelta": 900,
+        "postsGrowthPct": 6.3,
+        "saturation": 0,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 6,
+        "isNew": false,
+        "alerts": [
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-02",
+            "rank": 19
+          },
+          {
+            "date": "2026-09-03",
+            "rank": 18
+          },
+          {
+            "date": "2026-09-04",
+            "rank": 16
+          },
+          {
+            "date": "2026-09-05",
+            "rank": 15
+          },
+          {
+            "date": "2026-09-06",
+            "rank": 14
+          },
+          {
+            "date": "2026-09-07",
+            "rank": 12
+          },
+          {
+            "date": "2026-09-08",
+            "rank": 11
+          },
+          {
+            "date": "2026-09-09",
+            "rank": 9
+          }
+        ]
+      },
+      {
+        "key": "tag:9003",
+        "id": "9003",
+        "label": "#roomtour",
+        "rawName": "roomtour",
+        "rank": 5,
+        "views": 447000000,
+        "posts": 238000,
+        "topCountries": [
+          "EG",
+          "SA",
+          "AE"
+        ],
+        "categories": [
+          "ALL",
+          "HOME_IMPROVEMENT"
+        ],
+        "source": "tiktok-discovery",
+        "commercialSafe": true,
+        "creators": [
+          {
+            "handle": "@example-creator-f",
+            "profileUrl": null,
+            "uses": 4,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-a",
+            "profileUrl": null,
+            "uses": 3,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-d",
+            "profileUrl": null,
+            "uses": 2,
+            "examples": [],
+            "placeholder": true
+          }
+        ],
+        "examples": [],
+        "firstSeen": "2026-09-02",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 8,
+        "rankPrev": 5,
+        "rankDelta": 0,
+        "rank7dAgo": 5,
+        "rankDelta7d": 0,
+        "velocity3d": 0,
+        "acceleration": 0,
+        "peakRank": 5,
+        "daysSincePeak": 0,
+        "viewsDelta": 6428571,
+        "viewsGrowthPct": 1.5,
+        "postsDelta": 4857,
+        "postsGrowthPct": 2.1,
+        "saturation": 0.3,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 6,
+        "isNew": false,
+        "alerts": [
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-02",
+            "rank": 5
+          },
+          {
+            "date": "2026-09-03",
+            "rank": 5
+          },
+          {
+            "date": "2026-09-04",
+            "rank": 5
+          },
+          {
+            "date": "2026-09-05",
+            "rank": 5
+          },
+          {
+            "date": "2026-09-06",
+            "rank": 5
+          },
+          {
+            "date": "2026-09-07",
+            "rank": 5
+          },
+          {
+            "date": "2026-09-08",
+            "rank": 5
+          },
+          {
+            "date": "2026-09-09",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "key": "tag:9004",
+        "id": "9004",
+        "label": "#العاصمة_الادارية",
+        "rawName": "العاصمة_الادارية",
+        "rank": 11,
+        "views": 14900000,
+        "posts": 9600,
+        "topCountries": [
+          "EG",
+          "SA",
+          "AE"
+        ],
+        "categories": [
+          "ALL",
+          "HOME_IMPROVEMENT"
+        ],
+        "source": "tiktok-discovery",
+        "commercialSafe": true,
+        "creators": [
+          {
+            "handle": "@example-creator-g",
+            "profileUrl": null,
+            "uses": 4,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-b",
+            "profileUrl": null,
+            "uses": 3,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-e",
+            "profileUrl": null,
+            "uses": 2,
+            "examples": [],
+            "placeholder": true
+          }
+        ],
+        "examples": [],
+        "firstSeen": "2026-09-03",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 7,
+        "rankPrev": 14,
+        "rankDelta": 3,
+        "rank7dAgo": 25,
+        "rankDelta7d": 14,
+        "velocity3d": 2.33,
+        "acceleration": 0,
+        "peakRank": 11,
+        "daysSincePeak": 0,
+        "viewsDelta": 1616667,
+        "viewsGrowthPct": 12.2,
+        "postsDelta": 917,
+        "postsGrowthPct": 10.6,
+        "saturation": 0,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "rising",
+        "verdict": "ride-fast",
+        "runwayDays": 9,
+        "isNew": false,
+        "alerts": [
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-03",
+            "rank": 25
+          },
+          {
+            "date": "2026-09-04",
+            "rank": 23
+          },
+          {
+            "date": "2026-09-05",
+            "rank": 21
+          },
+          {
+            "date": "2026-09-06",
+            "rank": 18
+          },
+          {
+            "date": "2026-09-07",
+            "rank": 16
+          },
+          {
+            "date": "2026-09-08",
+            "rank": 14
+          },
+          {
+            "date": "2026-09-09",
+            "rank": 11
+          }
+        ]
+      },
+      {
+        "key": "tag:9005",
+        "id": "9005",
+        "label": "#سيارتي_الجديدة",
+        "rawName": "سيارتي_الجديدة",
+        "rank": 17,
+        "views": 33200000,
+        "posts": 38100,
+        "topCountries": [
+          "EG",
+          "SA",
+          "AE"
+        ],
+        "categories": [
+          "ALL",
+          "HOME_IMPROVEMENT"
+        ],
+        "source": "tiktok-discovery",
+        "commercialSafe": true,
+        "creators": [
+          {
+            "handle": "@example-creator-h",
+            "profileUrl": null,
+            "uses": 4,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-c",
+            "profileUrl": null,
+            "uses": 3,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-f",
+            "profileUrl": null,
+            "uses": 2,
+            "examples": [],
+            "placeholder": true
+          }
+        ],
+        "examples": [],
+        "firstSeen": "2026-09-02",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 8,
+        "rankPrev": 16,
+        "rankDelta": -1,
+        "rank7dAgo": 14,
+        "rankDelta7d": -3,
+        "velocity3d": -0.33,
+        "acceleration": 0,
+        "peakRank": 14,
+        "daysSincePeak": 6,
+        "viewsDelta": 500000,
+        "viewsGrowthPct": 1.5,
+        "postsDelta": 729,
+        "postsGrowthPct": 2,
+        "saturation": 0.21,
+        "relevance": 2,
+        "verticals": [
+          "automotive"
+        ],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 8,
+        "isNew": false,
+        "alerts": [
+          "vertical-fit:automotive"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-02",
+            "rank": 14
+          },
+          {
+            "date": "2026-09-03",
+            "rank": 14
+          },
+          {
+            "date": "2026-09-04",
+            "rank": 15
+          },
+          {
+            "date": "2026-09-05",
+            "rank": 15
+          },
+          {
+            "date": "2026-09-06",
+            "rank": 16
+          },
+          {
+            "date": "2026-09-07",
+            "rank": 16
+          },
+          {
+            "date": "2026-09-08",
+            "rank": 16
+          },
+          {
+            "date": "2026-09-09",
+            "rank": 17
+          }
+        ]
+      },
+      {
+        "key": "tag:9006",
+        "id": "9006",
+        "label": "#الساحل_الشمالي",
+        "rawName": "الساحل_الشمالي",
+        "rank": 21,
+        "views": 194000000,
+        "posts": 158000,
+        "topCountries": [
+          "EG",
+          "SA",
+          "AE"
+        ],
+        "categories": [
+          "ALL",
+          "HOME_IMPROVEMENT"
+        ],
+        "source": "tiktok-discovery",
+        "commercialSafe": true,
+        "creators": [
+          {
+            "handle": "@example-creator-a",
+            "profileUrl": null,
+            "uses": 4,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-d",
+            "profileUrl": null,
+            "uses": 3,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-g",
+            "profileUrl": null,
+            "uses": 2,
+            "examples": [],
+            "placeholder": true
+          }
+        ],
+        "examples": [],
+        "firstSeen": "2026-09-02",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 8,
+        "rankPrev": 19,
+        "rankDelta": -2,
+        "rank7dAgo": 3,
+        "rankDelta7d": -18,
+        "velocity3d": -2.33,
+        "acceleration": 0.34,
+        "peakRank": 3,
+        "daysSincePeak": 7,
+        "viewsDelta": 857143,
+        "viewsGrowthPct": 0.4,
+        "postsDelta": 1000,
+        "postsGrowthPct": 0.6,
+        "saturation": 0.3,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "declining",
+        "verdict": "too-late",
+        "runwayDays": 3,
+        "isNew": false,
+        "alerts": [
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-02",
+            "rank": 3
+          },
+          {
+            "date": "2026-09-03",
+            "rank": 6
+          },
+          {
+            "date": "2026-09-04",
+            "rank": 8
+          },
+          {
+            "date": "2026-09-05",
+            "rank": 11
+          },
+          {
+            "date": "2026-09-06",
+            "rank": 14
+          },
+          {
+            "date": "2026-09-07",
+            "rank": 16
+          },
+          {
+            "date": "2026-09-08",
+            "rank": 19
+          },
+          {
+            "date": "2026-09-09",
+            "rank": 21
+          }
+        ]
+      },
+      {
+        "key": "tag:9007",
+        "id": "9007",
+        "label": "#قبل_وبعد",
+        "rawName": "قبل_وبعد",
+        "rank": 10,
+        "views": 12600000,
+        "posts": 8700,
+        "topCountries": [
+          "EG",
+          "SA",
+          "AE"
+        ],
+        "categories": [
+          "ALL",
+          "HOME_IMPROVEMENT"
+        ],
+        "source": "tiktok-discovery",
+        "commercialSafe": true,
+        "creators": [
+          {
+            "handle": "@example-creator-b",
+            "profileUrl": null,
+            "uses": 4,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-e",
+            "profileUrl": null,
+            "uses": 3,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-h",
+            "profileUrl": null,
+            "uses": 2,
+            "examples": [],
+            "placeholder": true
+          }
+        ],
+        "examples": [],
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 10,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20",
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 10
+          }
+        ]
+      },
+      {
+        "key": "tag:9008",
+        "id": "9008",
+        "label": "#f1egypt",
+        "rawName": "f1egypt",
+        "rank": 30,
+        "views": 6100000,
+        "posts": 4300,
+        "topCountries": [
+          "EG",
+          "SA",
+          "AE"
+        ],
+        "categories": [
+          "ALL",
+          "HOME_IMPROVEMENT"
+        ],
+        "source": "tiktok-discovery",
+        "commercialSafe": true,
+        "creators": [
+          {
+            "handle": "@example-creator-c",
+            "profileUrl": null,
+            "uses": 4,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-f",
+            "profileUrl": null,
+            "uses": 3,
+            "examples": [],
+            "placeholder": true
+          },
+          {
+            "handle": "@example-creator-a",
+            "profileUrl": null,
+            "uses": 2,
+            "examples": [],
+            "placeholder": true
+          }
+        ],
+        "examples": [],
+        "firstSeen": "2026-09-05",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 5,
+        "rankPrev": 34,
+        "rankDelta": 4,
+        "rank7dAgo": 45,
+        "rankDelta7d": 15,
+        "velocity3d": 3.67,
+        "acceleration": 0,
+        "peakRank": 30,
+        "daysSincePeak": 0,
+        "viewsDelta": 925000,
+        "viewsGrowthPct": 17.9,
+        "postsDelta": 600,
+        "postsGrowthPct": 16.2,
+        "saturation": 0,
+        "relevance": 2,
+        "verticals": [
+          "automotive"
+        ],
+        "stage": "rising",
+        "verdict": "act-now",
+        "runwayDays": 11,
+        "isNew": false,
+        "alerts": [
+          "vertical-fit:automotive"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-05",
+            "rank": 45
+          },
+          {
+            "date": "2026-09-06",
+            "rank": 41
+          },
+          {
+            "date": "2026-09-07",
+            "rank": 38
+          },
+          {
+            "date": "2026-09-08",
+            "rank": 34
+          },
+          {
+            "date": "2026-09-09",
+            "rank": 30
+          }
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "key": "kw:تشطيب",
+        "label": "تشطيب",
+        "rank": 1,
+        "views": null,
+        "posts": null,
+        "source": "tiktok-search",
+        "commercialSafe": true,
+        "note": "Order only — this endpoint returns no volume and no country filter",
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 1,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20",
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 1
+          }
+        ]
+      },
+      {
+        "key": "kw:تحدي الثمانينات",
+        "label": "تحدي الثمانينات",
+        "rank": 2,
+        "views": null,
+        "posts": null,
+        "source": "tiktok-search",
+        "commercialSafe": true,
+        "note": "Order only — this endpoint returns no volume and no country filter",
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 2,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 2
+          }
+        ]
+      },
+      {
+        "key": "kw:كمبوند",
+        "label": "كمبوند",
+        "rank": 3,
+        "views": null,
+        "posts": null,
+        "source": "tiktok-search",
+        "commercialSafe": true,
+        "note": "Order only — this endpoint returns no volume and no country filter",
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 3,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20",
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 3
+          }
+        ]
+      },
+      {
+        "key": "kw:روم تور",
+        "label": "روم تور",
+        "rank": 4,
+        "views": null,
+        "posts": null,
+        "source": "tiktok-search",
+        "commercialSafe": true,
+        "note": "Order only — this endpoint returns no volume and no country filter",
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 4,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20",
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 4
+          }
+        ]
+      },
+      {
+        "key": "kw:قبل وبعد",
+        "label": "قبل وبعد",
+        "rank": 5,
+        "views": null,
+        "posts": null,
+        "source": "tiktok-search",
+        "commercialSafe": true,
+        "note": "Order only — this endpoint returns no volume and no country filter",
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 5,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20",
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "key": "kw:عربية جديدة",
+        "label": "عربية جديدة",
+        "rank": 6,
+        "views": null,
+        "posts": null,
+        "source": "tiktok-search",
+        "commercialSafe": true,
+        "note": "Order only — this endpoint returns no volume and no country filter",
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 6,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "automotive"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20",
+          "vertical-fit:automotive"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 6
+          }
+        ]
+      },
+      {
+        "key": "kw:تقسيط",
+        "label": "تقسيط",
+        "rank": 7,
+        "views": null,
+        "posts": null,
+        "source": "tiktok-search",
+        "commercialSafe": true,
+        "note": "Order only — this endpoint returns no volume and no country filter",
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 7,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20",
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 7
+          }
+        ]
+      }
+    ],
+    "searchDemand": [
+      {
+        "key": "gtrend:أسعار الشقق في التجمع",
+        "label": "أسعار الشقق في التجمع",
+        "rank": 1,
+        "views": 20000,
+        "posts": null,
+        "approxTraffic": "20000+",
+        "isRTL": true,
+        "why": [
+          {
+            "title": "Sample news item — replace on first real run",
+            "url": null,
+            "source": "sample"
+          }
+        ],
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 1,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20",
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 1
+          }
+        ]
+      },
+      {
+        "key": "gtrend:تحدي الثمانينات",
+        "label": "تحدي الثمانينات",
+        "rank": 2,
+        "views": 10000,
+        "posts": null,
+        "approxTraffic": "10000+",
+        "isRTL": true,
+        "why": [
+          {
+            "title": "Sample news item — replace on first real run",
+            "url": null,
+            "source": "sample"
+          }
+        ],
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 2,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 2
+          }
+        ]
+      },
+      {
+        "key": "gtrend:كمبوندات العاصمة الادارية",
+        "label": "كمبوندات العاصمة الادارية",
+        "rank": 3,
+        "views": 10000,
+        "posts": null,
+        "approxTraffic": "10000+",
+        "isRTL": true,
+        "why": [
+          {
+            "title": "Sample news item — replace on first real run",
+            "url": null,
+            "source": "sample"
+          }
+        ],
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 3,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20",
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 3
+          }
+        ]
+      },
+      {
+        "key": "gtrend:تشطيب شقة 100 متر",
+        "label": "تشطيب شقة 100 متر",
+        "rank": 4,
+        "views": 5000,
+        "posts": null,
+        "approxTraffic": "5000+",
+        "isRTL": true,
+        "why": [
+          {
+            "title": "Sample news item — replace on first real run",
+            "url": null,
+            "source": "sample"
+          }
+        ],
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 4,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20",
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 4
+          }
+        ]
+      },
+      {
+        "key": "gtrend:الساحل الشمالي 2026",
+        "label": "الساحل الشمالي 2026",
+        "rank": 5,
+        "views": 5000,
+        "posts": null,
+        "approxTraffic": "5000+",
+        "isRTL": true,
+        "why": [
+          {
+            "title": "Sample news item — replace on first real run",
+            "url": null,
+            "source": "sample"
+          }
+        ],
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 5,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20",
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "key": "gtrend:سعر الحديد اليوم",
+        "label": "سعر الحديد اليوم",
+        "rank": 6,
+        "views": 2000,
+        "posts": null,
+        "approxTraffic": "2000+",
+        "isRTL": true,
+        "why": [
+          {
+            "title": "Sample news item — replace on first real run",
+            "url": null,
+            "source": "sample"
+          }
+        ],
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 6,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 6
+          }
+        ]
+      },
+      {
+        "key": "gtrend:فورمولا 1 السباق القادم",
+        "label": "فورمولا 1 السباق القادم",
+        "rank": 7,
+        "views": 2000,
+        "posts": null,
+        "approxTraffic": "2000+",
+        "isRTL": true,
+        "why": [
+          {
+            "title": "Sample news item — replace on first real run",
+            "url": null,
+            "source": "sample"
+          }
+        ],
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 7,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "automotive"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20",
+          "vertical-fit:automotive"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 7
+          }
+        ]
+      },
+      {
+        "key": "gtrend:اقساط شقق بدون مقدم",
+        "label": "اقساط شقق بدون مقدم",
+        "rank": 8,
+        "views": 1000,
+        "posts": null,
+        "approxTraffic": "1000+",
+        "isRTL": true,
+        "why": [
+          {
+            "title": "Sample news item — replace on first real run",
+            "url": null,
+            "source": "sample"
+          }
+        ],
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 8,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20",
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 8
+          }
+        ]
+      },
+      {
+        "key": "gtrend:ديكورات صغيرة",
+        "label": "ديكورات صغيرة",
+        "rank": 9,
+        "views": 500,
+        "posts": null,
+        "approxTraffic": "500+",
+        "isRTL": true,
+        "why": [
+          {
+            "title": "Sample news item — replace on first real run",
+            "url": null,
+            "source": "sample"
+          }
+        ],
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 9,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20",
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 9
+          }
+        ]
+      }
+    ],
+    "rising": [],
+    "videos": [
+      {
+        "key": "yt:yt_1",
+        "id": "yt_1",
+        "label": "تحدي الثمانينات مع أصحابي 😂",
+        "channel": "Example Channel A",
+        "channelId": "UC_yt_1",
+        "rank": 1,
+        "views": 1840000,
+        "likes": 96000,
+        "comments": 6857,
+        "posts": null,
+        "durationSec": 47,
+        "probableShort": true,
+        "publishedAt": "2026-09-08",
+        "url": null,
+        "tags": [],
+        "source": "youtube-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 1,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 1
+          }
+        ]
+      },
+      {
+        "key": "yt:yt_2",
+        "id": "yt_2",
+        "label": "جولة في كمبوند بالتجمع الخامس | أسعار 2026",
+        "channel": "Example Realty",
+        "channelId": "UC_yt_2",
+        "rank": 2,
+        "views": 612000,
+        "likes": 21400,
+        "comments": 1529,
+        "posts": null,
+        "durationSec": 728,
+        "probableShort": false,
+        "publishedAt": "2026-09-07",
+        "url": null,
+        "tags": [],
+        "source": "youtube-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 2,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20",
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 2
+          }
+        ]
+      },
+      {
+        "key": "yt:yt_3",
+        "id": "yt_3",
+        "label": "قبل وبعد تشطيب شقة 120 متر",
+        "channel": "Example Interiors",
+        "channelId": "UC_yt_3",
+        "rank": 3,
+        "views": 498000,
+        "likes": 33100,
+        "comments": 2364,
+        "posts": null,
+        "durationSec": 61,
+        "probableShort": true,
+        "publishedAt": "2026-09-06",
+        "url": null,
+        "tags": [],
+        "source": "youtube-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 3,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20",
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 3
+          }
+        ]
+      },
+      {
+        "key": "yt:yt_4",
+        "id": "yt_4",
+        "label": "Formula 1 — أفضل لحظات السباق",
+        "channel": "Example Motorsport",
+        "channelId": "UC_yt_4",
+        "rank": 4,
+        "views": 377000,
+        "likes": 18900,
+        "comments": 1350,
+        "posts": null,
+        "durationSec": 154,
+        "probableShort": true,
+        "publishedAt": "2026-09-08",
+        "url": null,
+        "tags": [],
+        "source": "youtube-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 4,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "automotive"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20",
+          "vertical-fit:automotive"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 4
+          }
+        ]
+      },
+      {
+        "key": "yt:yt_5",
+        "id": "yt_5",
+        "label": "تجربة قيادة أرخص عربية 2026",
+        "channel": "Example Auto",
+        "channelId": "UC_yt_5",
+        "rank": 5,
+        "views": 289000,
+        "likes": 12600,
+        "comments": 900,
+        "posts": null,
+        "durationSec": 892,
+        "probableShort": false,
+        "publishedAt": "2026-09-07",
+        "url": null,
+        "tags": [],
+        "source": "youtube-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 5,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "automotive"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20",
+          "vertical-fit:automotive"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "key": "yt:yt_6",
+        "id": "yt_6",
+        "label": "روم تور أوضتي الجديدة ✨",
+        "channel": "Example Creator",
+        "channelId": "UC_yt_6",
+        "rank": 6,
+        "views": 244000,
+        "likes": 27800,
+        "comments": 1986,
+        "posts": null,
+        "durationSec": 38,
+        "probableShort": true,
+        "publishedAt": "2026-09-06",
+        "url": null,
+        "tags": [],
+        "source": "youtube-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 6,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20",
+          "vertical-fit:realestate"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 6
+          }
+        ]
+      }
+    ],
+    "audioCharts": [
+      {
+        "key": "apple:sample0",
+        "label": "Shoft Kalam",
+        "artist": "Marwan Pablo, Lege-Cy & HatemBas",
+        "rank": 1,
+        "views": null,
+        "posts": null,
+        "genre": "Worldwide",
+        "releaseDate": "2026-08-10",
+        "daysSinceRelease": 30,
+        "url": "https://music.apple.com/eg/",
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 1,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 1
+          }
+        ]
+      },
+      {
+        "key": "apple:sample1",
+        "label": "Wala Ash Wala Kan",
+        "artist": "TUL8TE",
+        "rank": 2,
+        "views": null,
+        "posts": null,
+        "genre": "Worldwide",
+        "releaseDate": "2026-08-04",
+        "daysSinceRelease": 36,
+        "url": "https://music.apple.com/eg/",
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 2,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 2
+          }
+        ]
+      },
+      {
+        "key": "apple:sample2",
+        "label": "Ana Fadel",
+        "artist": "Cairokee",
+        "rank": 4,
+        "views": null,
+        "posts": null,
+        "genre": "Worldwide",
+        "releaseDate": "2026-07-29",
+        "daysSinceRelease": 42,
+        "url": "https://music.apple.com/eg/",
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 4,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 4
+          }
+        ]
+      },
+      {
+        "key": "apple:sample3",
+        "label": "Getlak",
+        "artist": "Amr Diab",
+        "rank": 6,
+        "views": null,
+        "posts": null,
+        "genre": "Worldwide",
+        "releaseDate": "2026-07-23",
+        "daysSinceRelease": 48,
+        "url": "https://music.apple.com/eg/",
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 6,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 6
+          }
+        ]
+      },
+      {
+        "key": "apple:sample4",
+        "label": "Layali Masr",
+        "artist": "Hoda Zain",
+        "rank": 12,
+        "views": null,
+        "posts": null,
+        "genre": "Worldwide",
+        "releaseDate": "2026-07-17",
+        "daysSinceRelease": 54,
+        "url": "https://music.apple.com/eg/",
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 12,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 12
+          }
+        ]
+      }
+    ],
+    "igSounds": [
+      {
+        "key": "igaudio:iga_1",
+        "id": "iga_1",
+        "label": "Shoft Kalam",
+        "artist": "Marwan Pablo, Lege-Cy & HatemBas",
+        "rank": 1,
+        "rankIsOrderOnly": true,
+        "views": null,
+        "posts": null,
+        "durationSec": 29,
+        "audioType": "music",
+        "adsEligible": true,
+        "commercialSafe": true,
+        "geoNote": "No country filter exists on this endpoint — treat as global",
+        "source": "instagram-audio",
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 1,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 1
+          }
+        ]
+      },
+      {
+        "key": "igaudio:iga_2",
+        "id": "iga_2",
+        "label": "Neon Nights (80s Edit)",
+        "artist": "Retro Cairo",
+        "rank": 2,
+        "rankIsOrderOnly": true,
+        "views": null,
+        "posts": null,
+        "durationSec": 24,
+        "audioType": "music",
+        "adsEligible": true,
+        "commercialSafe": true,
+        "geoNote": "No country filter exists on this endpoint — treat as global",
+        "source": "instagram-audio",
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 2,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 2
+          }
+        ]
+      },
+      {
+        "key": "igaudio:iga_3",
+        "id": "iga_3",
+        "label": "original audio",
+        "artist": "@example-creator-d",
+        "rank": 3,
+        "rankIsOrderOnly": true,
+        "views": null,
+        "posts": null,
+        "durationSec": 18,
+        "audioType": "original_sound",
+        "adsEligible": null,
+        "commercialSafe": null,
+        "geoNote": "No country filter exists on this endpoint — treat as global",
+        "source": "instagram-audio",
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 3,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 3
+          }
+        ]
+      },
+      {
+        "key": "igaudio:iga_4",
+        "id": "iga_4",
+        "label": "Wala Ash Wala Kan",
+        "artist": "TUL8TE",
+        "rank": 4,
+        "rankIsOrderOnly": true,
+        "views": null,
+        "posts": null,
+        "durationSec": 31,
+        "audioType": "music",
+        "adsEligible": false,
+        "commercialSafe": null,
+        "geoNote": "No country filter exists on this endpoint — treat as global",
+        "source": "instagram-audio",
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 4,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 4
+          }
+        ]
+      },
+      {
+        "key": "igaudio:iga_5",
+        "id": "iga_5",
+        "label": "original audio",
+        "artist": "@example-creator-b",
+        "rank": 5,
+        "rankIsOrderOnly": true,
+        "views": null,
+        "posts": null,
+        "durationSec": 12,
+        "audioType": "original_sound",
+        "adsEligible": null,
+        "commercialSafe": null,
+        "geoNote": "No country filter exists on this endpoint — treat as global",
+        "source": "instagram-audio",
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 5,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "key": "igaudio:iga_6",
+        "id": "iga_6",
+        "label": "Ana Fadel",
+        "artist": "Cairokee",
+        "rank": 6,
+        "rankIsOrderOnly": true,
+        "views": null,
+        "posts": null,
+        "durationSec": 27,
+        "audioType": "music",
+        "adsEligible": true,
+        "commercialSafe": true,
+        "geoNote": "No country filter exists on this endpoint — treat as global",
+        "source": "instagram-audio",
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 6,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 6
+          }
+        ]
+      },
+      {
+        "key": "igaudio:iga_7",
+        "id": "iga_7",
+        "label": "original audio",
+        "artist": "@example-creator-g",
+        "rank": 7,
+        "rankIsOrderOnly": true,
+        "views": null,
+        "posts": null,
+        "durationSec": 21,
+        "audioType": "original_sound",
+        "adsEligible": null,
+        "commercialSafe": null,
+        "geoNote": "No country filter exists on this endpoint — treat as global",
+        "source": "instagram-audio",
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 7,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 7
+          }
+        ]
+      },
+      {
+        "key": "igaudio:iga_8",
+        "id": "iga_8",
+        "label": "Layali Masr",
+        "artist": "Hoda Zain",
+        "rank": 8,
+        "rankIsOrderOnly": true,
+        "views": null,
+        "posts": null,
+        "durationSec": 26,
+        "audioType": "music",
+        "adsEligible": false,
+        "commercialSafe": null,
+        "geoNote": "No country filter exists on this endpoint — treat as global",
+        "source": "instagram-audio",
+        "firstSeen": "2026-09-09",
+        "lastSeen": "2026-09-09",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 8,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-09-09",
+            "rank": 8
+          }
+        ]
+      }
+    ]
+  },
+  "dropouts": {
+    "sounds": [
+      {
+        "key": "sound:70712",
+        "label": "Sahran",
+        "lastRank": 26,
+        "lastSeen": "2026-09-07",
+        "daysGone": 2,
+        "stage": "expired",
+        "verdict": "too-late"
+      }
+    ],
+    "hashtags": [
+      {
+        "key": "tag:9099",
+        "label": "#صيف_2026",
+        "lastRank": 19,
+        "lastSeen": "2026-09-07",
+        "daysGone": 2,
+        "stage": "expired",
+        "verdict": "too-late"
+      }
+    ]
+  },
+  "competitorPanel": [],
+  "notes": {
+    "sample": "Every row on this page is invented example data, shaped exactly like real collector output. It exists so the dashboard is legible before credentials are wired up."
+  }
+}

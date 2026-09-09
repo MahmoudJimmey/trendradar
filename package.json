@@ -1,0 +1,16 @@
+{
+  "name": "trend-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Egypt trending sounds, hashtags and formats radar for TikTok and Instagram. Daily snapshots, day-over-day momentum, static dashboard.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "collect": "node scripts/collect.js",
+    "seed": "node scripts/seed-sample.js",
+    "serve": "node --run-if-present serve || python3 -m http.server 8080"
+  },
+  "dependencies": {}
+}
