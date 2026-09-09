@@ -1,27 +1,20 @@
 {
-  "generatedAt": "2026-09-09T13:57:46.850Z",
+  "generatedAt": "2026-09-09T13:24:28.932Z",
   "date": "2026-09-09",
   "country": "EG",
   "dateRange": "7DAY",
   "sample": true,
   "daysOfHistory": 9,
-  "topics": {
-    "realestate": "Real estate",
-    "automotive": "Automotive",
-    "football": "Football",
-    "food": "Food",
-    "entertainment": "TV & film"
-  },
   "summary": {
-    "formats": 5,
+    "formats": 4,
     "formatsSpiking": 2,
     "formatsActionable": 2,
-    "tracked": 66,
+    "tracked": 58,
     "sounds": 9,
-    "hashtags": 15,
+    "hashtags": 10,
     "newToday": 3,
-    "rising": 14,
-    "actNow": 11,
+    "rising": 11,
+    "actNow": 9,
     "tooLate": 3,
     "crossovers": 5,
     "verticalFit": 8,
@@ -32,37 +25,37 @@
     {
       "source": "sample-generator",
       "status": "ok",
-      "count": 24,
+      "count": 19,
       "note": "Example data — run scripts/collect.js with credentials to replace",
-      "at": "2026-09-09T13:57:46.850Z"
+      "at": "2026-09-09T13:24:28.932Z"
     },
     {
       "source": "tiktok-sounds",
       "status": "skipped",
       "count": 0,
       "note": "TIKTOK_ACCOUNT_TOKEN / TIKTOK_BUSINESS_ID not set",
-      "at": "2026-09-09T13:57:46.850Z"
+      "at": "2026-09-09T13:24:28.932Z"
     },
     {
       "source": "tiktok-hashtags",
       "status": "skipped",
       "count": 0,
       "note": "TIKTOK_ACCESS_TOKEN / TIKTOK_ADVERTISER_ID not set",
-      "at": "2026-09-09T13:57:46.850Z"
+      "at": "2026-09-09T13:24:28.932Z"
     },
     {
       "source": "instagram-audio",
       "status": "ok",
       "count": 8,
       "note": "sample — names only; Meta publishes no metrics, rank or country filter for audio",
-      "at": "2026-09-09T13:57:46.850Z"
+      "at": "2026-09-09T13:24:28.932Z"
     },
     {
       "source": "youtube",
       "status": "ok",
       "count": 6,
       "note": "sample — Shorts flagged by duration, not by a platform field",
-      "at": "2026-09-09T13:57:46.850Z"
+      "at": "2026-09-09T13:24:28.932Z"
     }
   ],
   "sections": {
@@ -96,7 +89,7 @@
         ],
         "relevance": 0,
         "verticals": [],
-        "score": 76.64,
+        "score": 83.3,
         "status": "unseen",
         "examples": [
           {
@@ -227,13 +220,23 @@
         "playbook": [
           {
             "archetype": "Era / decade",
-            "vertical": "general",
-            "line": "Pick a year and commit to the whole look — colour grade, wardrobe, music, aspect ratio. The contrast does the work."
+            "vertical": "realestate",
+            "line": "Then-and-now on a neighbourhood: old Cairo footage against the same street today, or 80s-styled apartment staging."
+          },
+          {
+            "archetype": "Era / decade",
+            "vertical": "automotive",
+            "line": "Era-matched cars — a 1985 model shot on period-graded film, engine sound over the era track."
           },
           {
             "archetype": "Challenge",
-            "vertical": "general",
-            "line": "Give it one rule anyone can copy in a single take, and put the rule on screen in the first second."
+            "vertical": "realestate",
+            "line": "Give it a rule anyone can copy in one take — \"show your flat in 3 seconds\", \"guess the price\"."
+          },
+          {
+            "archetype": "Challenge",
+            "vertical": "automotive",
+            "line": "Make it a test with a pass/fail — \"name the engine from the sound\", \"0–100 blindfold guess\"."
           }
         ],
         "verdict": "act-now",
@@ -310,7 +313,7 @@
         "key": "fmt:تشطيب شقتي",
         "label": "تشطيب شقتي",
         "phrase": "تشطيب شقتي",
-        "weight": 46,
+        "weight": 47,
         "baseline": 0,
         "peakBefore": 0,
         "lift": 11,
@@ -330,7 +333,7 @@
         "verticals": [
           "realestate"
         ],
-        "score": 39.81,
+        "score": 36.19,
         "status": "unseen",
         "examples": [
           {
@@ -357,7 +360,7 @@
           "queries": [
             {
               "label": "تشطيب شقة 100 متر",
-              "traffic": "2000+"
+              "traffic": "5000+"
             }
           ],
           "creators": [
@@ -408,7 +411,7 @@
           },
           {
             "phrase": "تشطيب",
-            "lift": 1.59,
+            "lift": 1.56,
             "sources": [
               "hashtags",
               "keywords",
@@ -423,7 +426,7 @@
         "key": "fmt:قبل وبعد",
         "label": "قبل وبعد",
         "phrase": "قبل وبعد",
-        "weight": 57,
+        "weight": 19,
         "baseline": 9,
         "peakBefore": 9,
         "lift": 2,
@@ -446,7 +449,7 @@
         "verticals": [
           "realestate"
         ],
-        "score": 4.81,
+        "score": 4.75,
         "status": "spreading",
         "examples": [
           {
@@ -520,148 +523,13 @@
         "playbook": [
           {
             "archetype": "Before / after",
-            "vertical": "general",
-            "line": "Shoot the \"before\" properly even when it is boring. The reveal is only ever as good as the setup."
-          },
-          {
-            "archetype": "Before / after",
             "vertical": "realestate",
             "line": "The single highest-fit format you have. Shoot every handover in the same frame twice, months apart."
           }
         ],
         "verdict": "ride-fast",
-        "variants": [
-          {
-            "phrase": "قبل",
-            "lift": 2,
-            "sources": [
-              "hashtags",
-              "keywords",
-              "videos"
-            ]
-          },
-          {
-            "phrase": "وبعد",
-            "lift": 2,
-            "sources": [
-              "hashtags",
-              "keywords",
-              "videos"
-            ]
-          }
-        ],
-        "variantCount": 2
-      },
-      {
-        "key": "fmt:مسلسلات رمضان",
-        "label": "مسلسلات رمضان",
-        "phrase": "مسلسلات رمضان",
-        "weight": 54,
-        "baseline": 9,
-        "peakBefore": 9,
-        "lift": 1.9,
-        "breadth": 2,
-        "sources": [
-          "hashtags",
-          "searchDemand"
-        ],
-        "daysSeen": 10,
-        "isNew": false,
-        "firstSeen": "2026-08-31",
-        "archetypes": [],
-        "archetypeLabels": [],
-        "relevance": 0,
-        "verticals": [],
-        "score": 2.76,
-        "status": "building",
-        "examples": [
-          {
-            "text": "مسلسلات_رمضان",
-            "source": "hashtags",
-            "ref": "tag:9013"
-          },
-          {
-            "text": "مسلسلات رمضان",
-            "source": "searchDemand",
-            "ref": "gtrend:مسلسلات رمضان"
-          }
-        ],
-        "isRTL": true,
-        "isSeed": false,
-        "cluster": {
-          "hashtags": [
-            {
-              "label": "#مسلسلات_رمضان",
-              "rank": 12,
-              "stage": "emerging",
-              "views": 96000000
-            }
-          ],
-          "sounds": [],
-          "keywords": [],
-          "queries": [
-            {
-              "label": "مسلسلات رمضان",
-              "traffic": "10000+"
-            }
-          ],
-          "creators": [
-            {
-              "handle": "@example-creator-g",
-              "profileUrl": null,
-              "uses": 4,
-              "examples": [],
-              "placeholder": true,
-              "via": [
-                "#مسلسلات_رمضان"
-              ]
-            },
-            {
-              "handle": "@example-creator-b",
-              "profileUrl": null,
-              "uses": 3,
-              "examples": [],
-              "placeholder": true,
-              "via": [
-                "#مسلسلات_رمضان"
-              ]
-            },
-            {
-              "handle": "@example-creator-e",
-              "profileUrl": null,
-              "uses": 2,
-              "examples": [],
-              "placeholder": true,
-              "via": [
-                "#مسلسلات_رمضان"
-              ]
-            }
-          ],
-          "hasClearedSound": false
-        },
-        "relatedHashtags": [],
-        "hasClearedSound": false,
-        "playbook": [],
-        "verdict": "monitor",
-        "variants": [
-          {
-            "phrase": "مسلسلات",
-            "lift": 1.9,
-            "sources": [
-              "hashtags",
-              "searchDemand"
-            ]
-          },
-          {
-            "phrase": "رمضان",
-            "lift": 1.9,
-            "sources": [
-              "hashtags",
-              "searchDemand"
-            ]
-          }
-        ],
-        "variantCount": 2
+        "variants": [],
+        "variantCount": 0
       },
       {
         "key": "fmt:كمبوند",
@@ -686,7 +554,7 @@
         "verticals": [
           "realestate"
         ],
-        "score": 2.09,
+        "score": 1.9,
         "status": "steady",
         "examples": [
           {
@@ -723,7 +591,7 @@
           "queries": [
             {
               "label": "كمبوندات العاصمة الادارية",
-              "traffic": "5000+"
+              "traffic": "10000+"
             }
           ],
           "creators": [
@@ -1351,7 +1219,7 @@
         "relevance": 0,
         "verticals": [],
         "stage": "plateau",
-        "verdict": "monitor",
+        "verdict": "skip",
         "runwayDays": 10,
         "isNew": false,
         "alerts": [
@@ -2609,461 +2477,6 @@
             "rank": 30
           }
         ]
-      },
-      {
-        "key": "tag:9012",
-        "id": "9012",
-        "label": "#الاهلي_والزمالك",
-        "rawName": "الاهلي_والزمالك",
-        "rank": 3,
-        "views": 388000000,
-        "posts": 141000,
-        "topCountries": [
-          "EG",
-          "SA",
-          "AE"
-        ],
-        "categories": [
-          "ALL",
-          "HOME_IMPROVEMENT"
-        ],
-        "source": "tiktok-discovery",
-        "commercialSafe": true,
-        "creators": [
-          {
-            "handle": "@example-creator-f",
-            "profileUrl": null,
-            "uses": 4,
-            "examples": [],
-            "placeholder": true
-          },
-          {
-            "handle": "@example-creator-a",
-            "profileUrl": null,
-            "uses": 3,
-            "examples": [],
-            "placeholder": true
-          },
-          {
-            "handle": "@example-creator-d",
-            "profileUrl": null,
-            "uses": 2,
-            "examples": [],
-            "placeholder": true
-          }
-        ],
-        "examples": [],
-        "firstSeen": "2026-09-04",
-        "lastSeen": "2026-09-09",
-        "daysTracked": 6,
-        "rankPrev": 4,
-        "rankDelta": 1,
-        "rank7dAgo": 8,
-        "rankDelta7d": 5,
-        "velocity3d": 1,
-        "acceleration": 0,
-        "peakRank": 3,
-        "daysSincePeak": 0,
-        "viewsDelta": 35200000,
-        "viewsGrowthPct": 10,
-        "postsDelta": 10600,
-        "postsGrowthPct": 8.1,
-        "saturation": 0,
-        "relevance": 0,
-        "verticals": [],
-        "stage": "peaking",
-        "verdict": "ride-fast",
-        "runwayDays": 6,
-        "isNew": false,
-        "alerts": [],
-        "sparkline": [
-          {
-            "date": "2026-09-04",
-            "rank": 8
-          },
-          {
-            "date": "2026-09-05",
-            "rank": 7
-          },
-          {
-            "date": "2026-09-06",
-            "rank": 6
-          },
-          {
-            "date": "2026-09-07",
-            "rank": 5
-          },
-          {
-            "date": "2026-09-08",
-            "rank": 4
-          },
-          {
-            "date": "2026-09-09",
-            "rank": 3
-          }
-        ]
-      },
-      {
-        "key": "tag:9013",
-        "id": "9013",
-        "label": "#مسلسلات_رمضان",
-        "rawName": "مسلسلات_رمضان",
-        "rank": 12,
-        "views": 96000000,
-        "posts": 47000,
-        "topCountries": [
-          "EG",
-          "SA",
-          "AE"
-        ],
-        "categories": [
-          "ALL",
-          "HOME_IMPROVEMENT"
-        ],
-        "source": "tiktok-discovery",
-        "commercialSafe": true,
-        "creators": [
-          {
-            "handle": "@example-creator-g",
-            "profileUrl": null,
-            "uses": 4,
-            "examples": [],
-            "placeholder": true
-          },
-          {
-            "handle": "@example-creator-b",
-            "profileUrl": null,
-            "uses": 3,
-            "examples": [],
-            "placeholder": true
-          },
-          {
-            "handle": "@example-creator-e",
-            "profileUrl": null,
-            "uses": 2,
-            "examples": [],
-            "placeholder": true
-          }
-        ],
-        "examples": [],
-        "firstSeen": "2026-09-08",
-        "lastSeen": "2026-09-09",
-        "daysTracked": 2,
-        "rankPrev": 37,
-        "rankDelta": 25,
-        "rank7dAgo": null,
-        "rankDelta7d": null,
-        "velocity3d": 25,
-        "acceleration": null,
-        "peakRank": 12,
-        "daysSincePeak": 0,
-        "viewsDelta": 65000000,
-        "viewsGrowthPct": 209.7,
-        "postsDelta": 33000,
-        "postsGrowthPct": 235.7,
-        "saturation": 0.04,
-        "relevance": 0,
-        "verticals": [],
-        "stage": "emerging",
-        "verdict": "act-now",
-        "runwayDays": 14,
-        "isNew": false,
-        "alerts": [
-          "jumped-25-places",
-          "fast-entry-top-20"
-        ],
-        "sparkline": [
-          {
-            "date": "2026-09-08",
-            "rank": 37
-          },
-          {
-            "date": "2026-09-09",
-            "rank": 12
-          }
-        ]
-      },
-      {
-        "key": "tag:9014",
-        "id": "9014",
-        "label": "#كشري_مصري",
-        "rawName": "كشري_مصري",
-        "rank": 18,
-        "views": 19400000,
-        "posts": 12800,
-        "topCountries": [
-          "EG",
-          "SA",
-          "AE"
-        ],
-        "categories": [
-          "ALL",
-          "HOME_IMPROVEMENT"
-        ],
-        "source": "tiktok-discovery",
-        "commercialSafe": true,
-        "creators": [
-          {
-            "handle": "@example-creator-h",
-            "profileUrl": null,
-            "uses": 4,
-            "examples": [],
-            "placeholder": true
-          },
-          {
-            "handle": "@example-creator-c",
-            "profileUrl": null,
-            "uses": 3,
-            "examples": [],
-            "placeholder": true
-          },
-          {
-            "handle": "@example-creator-f",
-            "profileUrl": null,
-            "uses": 2,
-            "examples": [],
-            "placeholder": true
-          }
-        ],
-        "examples": [],
-        "firstSeen": "2026-09-03",
-        "lastSeen": "2026-09-09",
-        "daysTracked": 7,
-        "rankPrev": 20,
-        "rankDelta": 2,
-        "rank7dAgo": 32,
-        "rankDelta7d": 14,
-        "velocity3d": 2.33,
-        "acceleration": 0,
-        "peakRank": 18,
-        "daysSincePeak": 0,
-        "viewsDelta": 1750000,
-        "viewsGrowthPct": 9.9,
-        "postsDelta": 1100,
-        "postsGrowthPct": 9.4,
-        "saturation": 0,
-        "relevance": 0,
-        "verticals": [],
-        "stage": "rising",
-        "verdict": "act-now",
-        "runwayDays": 9,
-        "isNew": false,
-        "alerts": [],
-        "sparkline": [
-          {
-            "date": "2026-09-03",
-            "rank": 32
-          },
-          {
-            "date": "2026-09-04",
-            "rank": 30
-          },
-          {
-            "date": "2026-09-05",
-            "rank": 27
-          },
-          {
-            "date": "2026-09-06",
-            "rank": 25
-          },
-          {
-            "date": "2026-09-07",
-            "rank": 22
-          },
-          {
-            "date": "2026-09-08",
-            "rank": 20
-          },
-          {
-            "date": "2026-09-09",
-            "rank": 18
-          }
-        ]
-      },
-      {
-        "key": "tag:9015",
-        "id": "9015",
-        "label": "#storytime",
-        "rawName": "storytime",
-        "rank": 12,
-        "views": 176000000,
-        "posts": 118000,
-        "topCountries": [
-          "EG",
-          "SA",
-          "AE"
-        ],
-        "categories": [
-          "ALL",
-          "HOME_IMPROVEMENT"
-        ],
-        "source": "tiktok-discovery",
-        "commercialSafe": true,
-        "creators": [
-          {
-            "handle": "@example-creator-a",
-            "profileUrl": null,
-            "uses": 4,
-            "examples": [],
-            "placeholder": true
-          },
-          {
-            "handle": "@example-creator-d",
-            "profileUrl": null,
-            "uses": 3,
-            "examples": [],
-            "placeholder": true
-          },
-          {
-            "handle": "@example-creator-g",
-            "profileUrl": null,
-            "uses": 2,
-            "examples": [],
-            "placeholder": true
-          }
-        ],
-        "examples": [],
-        "firstSeen": "2026-09-02",
-        "lastSeen": "2026-09-09",
-        "daysTracked": 8,
-        "rankPrev": 14,
-        "rankDelta": 2,
-        "rank7dAgo": 23,
-        "rankDelta7d": 11,
-        "velocity3d": 1.67,
-        "acceleration": 0,
-        "peakRank": 12,
-        "daysSincePeak": 0,
-        "viewsDelta": 5000000,
-        "viewsGrowthPct": 2.9,
-        "postsDelta": 3143,
-        "postsGrowthPct": 2.7,
-        "saturation": 0,
-        "relevance": 0,
-        "verticals": [],
-        "stage": "peaking",
-        "verdict": "ride-fast",
-        "runwayDays": 6,
-        "isNew": false,
-        "alerts": [],
-        "sparkline": [
-          {
-            "date": "2026-09-02",
-            "rank": 23
-          },
-          {
-            "date": "2026-09-03",
-            "rank": 22
-          },
-          {
-            "date": "2026-09-04",
-            "rank": 20
-          },
-          {
-            "date": "2026-09-05",
-            "rank": 19
-          },
-          {
-            "date": "2026-09-06",
-            "rank": 17
-          },
-          {
-            "date": "2026-09-07",
-            "rank": 15
-          },
-          {
-            "date": "2026-09-08",
-            "rank": 14
-          },
-          {
-            "date": "2026-09-09",
-            "rank": 12
-          }
-        ]
-      },
-      {
-        "key": "tag:9016",
-        "id": "9016",
-        "label": "#امتحانات_الثانوية",
-        "rawName": "امتحانات_الثانوية",
-        "rank": 7,
-        "views": 38700000,
-        "posts": 22400,
-        "topCountries": [
-          "EG",
-          "SA",
-          "AE"
-        ],
-        "categories": [
-          "ALL",
-          "HOME_IMPROVEMENT"
-        ],
-        "source": "tiktok-discovery",
-        "commercialSafe": true,
-        "creators": [
-          {
-            "handle": "@example-creator-b",
-            "profileUrl": null,
-            "uses": 4,
-            "examples": [],
-            "placeholder": true
-          },
-          {
-            "handle": "@example-creator-e",
-            "profileUrl": null,
-            "uses": 3,
-            "examples": [],
-            "placeholder": true
-          },
-          {
-            "handle": "@example-creator-h",
-            "profileUrl": null,
-            "uses": 2,
-            "examples": [],
-            "placeholder": true
-          }
-        ],
-        "examples": [],
-        "firstSeen": "2026-09-07",
-        "lastSeen": "2026-09-09",
-        "daysTracked": 3,
-        "rankPrev": 19,
-        "rankDelta": 12,
-        "rank7dAgo": null,
-        "rankDelta7d": null,
-        "velocity3d": 12.5,
-        "acceleration": null,
-        "peakRank": 7,
-        "daysSincePeak": 0,
-        "viewsDelta": 17250000,
-        "viewsGrowthPct": 80.4,
-        "postsDelta": 9650,
-        "postsGrowthPct": 75.7,
-        "saturation": 0,
-        "relevance": 0,
-        "verticals": [],
-        "stage": "rising",
-        "verdict": "ride-fast",
-        "runwayDays": 13,
-        "isNew": false,
-        "alerts": [
-          "jumped-12-places",
-          "fast-entry-top-20"
-        ],
-        "sparkline": [
-          {
-            "date": "2026-09-07",
-            "rank": 32
-          },
-          {
-            "date": "2026-09-08",
-            "rank": 19
-          },
-          {
-            "date": "2026-09-09",
-            "rank": 7
-          }
-        ]
       }
     ],
     "keywords": [
@@ -3382,12 +2795,12 @@
     ],
     "searchDemand": [
       {
-        "key": "gtrend:نتيجة الثانوية العامة",
-        "label": "نتيجة الثانوية العامة",
+        "key": "gtrend:أسعار الشقق في التجمع",
+        "label": "أسعار الشقق في التجمع",
         "rank": 1,
-        "views": 50000,
+        "views": 20000,
         "posts": null,
-        "approxTraffic": "50000+",
+        "approxTraffic": "20000+",
         "isRTL": true,
         "why": [
           {
@@ -3414,15 +2827,18 @@
         "postsDelta": null,
         "postsGrowthPct": null,
         "saturation": null,
-        "relevance": 0,
-        "verticals": [],
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
         "stage": "emerging",
         "verdict": "act-now",
         "runwayDays": 15,
         "isNew": true,
         "alerts": [
           "new-entry",
-          "fast-entry-top-20"
+          "fast-entry-top-20",
+          "vertical-fit:realestate"
         ],
         "sparkline": [
           {
@@ -3432,12 +2848,12 @@
         ]
       },
       {
-        "key": "gtrend:الاهلي والزمالك",
-        "label": "الاهلي والزمالك",
+        "key": "gtrend:تحدي الثمانينات",
+        "label": "تحدي الثمانينات",
         "rank": 2,
-        "views": 20000,
+        "views": 10000,
         "posts": null,
-        "approxTraffic": "20000+",
+        "approxTraffic": "10000+",
         "isRTL": true,
         "why": [
           {
@@ -3482,12 +2898,12 @@
         ]
       },
       {
-        "key": "gtrend:أسعار الشقق في التجمع",
-        "label": "أسعار الشقق في التجمع",
+        "key": "gtrend:كمبوندات العاصمة الادارية",
+        "label": "كمبوندات العاصمة الادارية",
         "rank": 3,
-        "views": 20000,
+        "views": 10000,
         "posts": null,
-        "approxTraffic": "20000+",
+        "approxTraffic": "10000+",
         "isRTL": true,
         "why": [
           {
@@ -3535,12 +2951,12 @@
         ]
       },
       {
-        "key": "gtrend:تحدي الثمانينات",
-        "label": "تحدي الثمانينات",
+        "key": "gtrend:تشطيب شقة 100 متر",
+        "label": "تشطيب شقة 100 متر",
         "rank": 4,
-        "views": 10000,
+        "views": 5000,
         "posts": null,
-        "approxTraffic": "10000+",
+        "approxTraffic": "5000+",
         "isRTL": true,
         "why": [
           {
@@ -3567,15 +2983,18 @@
         "postsDelta": null,
         "postsGrowthPct": null,
         "saturation": null,
-        "relevance": 0,
-        "verticals": [],
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
         "stage": "emerging",
         "verdict": "act-now",
         "runwayDays": 15,
         "isNew": true,
         "alerts": [
           "new-entry",
-          "fast-entry-top-20"
+          "fast-entry-top-20",
+          "vertical-fit:realestate"
         ],
         "sparkline": [
           {
@@ -3585,12 +3004,12 @@
         ]
       },
       {
-        "key": "gtrend:مسلسلات رمضان",
-        "label": "مسلسلات رمضان",
+        "key": "gtrend:الساحل الشمالي 2026",
+        "label": "الساحل الشمالي 2026",
         "rank": 5,
-        "views": 10000,
+        "views": 5000,
         "posts": null,
-        "approxTraffic": "10000+",
+        "approxTraffic": "5000+",
         "isRTL": true,
         "why": [
           {
@@ -3617,15 +3036,18 @@
         "postsDelta": null,
         "postsGrowthPct": null,
         "saturation": null,
-        "relevance": 0,
-        "verticals": [],
+        "relevance": 2,
+        "verticals": [
+          "realestate"
+        ],
         "stage": "emerging",
         "verdict": "act-now",
         "runwayDays": 15,
         "isNew": true,
         "alerts": [
           "new-entry",
-          "fast-entry-top-20"
+          "fast-entry-top-20",
+          "vertical-fit:realestate"
         ],
         "sparkline": [
           {
@@ -3635,12 +3057,12 @@
         ]
       },
       {
-        "key": "gtrend:كمبوندات العاصمة الادارية",
-        "label": "كمبوندات العاصمة الادارية",
+        "key": "gtrend:سعر الحديد اليوم",
+        "label": "سعر الحديد اليوم",
         "rank": 6,
-        "views": 5000,
+        "views": 2000,
         "posts": null,
-        "approxTraffic": "5000+",
+        "approxTraffic": "2000+",
         "isRTL": true,
         "why": [
           {
@@ -3667,18 +3089,15 @@
         "postsDelta": null,
         "postsGrowthPct": null,
         "saturation": null,
-        "relevance": 2,
-        "verticals": [
-          "realestate"
-        ],
+        "relevance": 0,
+        "verticals": [],
         "stage": "emerging",
         "verdict": "act-now",
         "runwayDays": 15,
         "isNew": true,
         "alerts": [
           "new-entry",
-          "fast-entry-top-20",
-          "vertical-fit:realestate"
+          "fast-entry-top-20"
         ],
         "sparkline": [
           {
@@ -3688,12 +3107,12 @@
         ]
       },
       {
-        "key": "gtrend:سعر الدولار اليوم",
-        "label": "سعر الدولار اليوم",
+        "key": "gtrend:فورمولا 1 السباق القادم",
+        "label": "فورمولا 1 السباق القادم",
         "rank": 7,
-        "views": 5000,
+        "views": 2000,
         "posts": null,
-        "approxTraffic": "5000+",
+        "approxTraffic": "2000+",
         "isRTL": true,
         "why": [
           {
@@ -3741,12 +3160,12 @@
         ]
       },
       {
-        "key": "gtrend:تشطيب شقة 100 متر",
-        "label": "تشطيب شقة 100 متر",
+        "key": "gtrend:اقساط شقق بدون مقدم",
+        "label": "اقساط شقق بدون مقدم",
         "rank": 8,
-        "views": 2000,
+        "views": 1000,
         "posts": null,
-        "approxTraffic": "2000+",
+        "approxTraffic": "1000+",
         "isRTL": true,
         "why": [
           {
@@ -3794,12 +3213,12 @@
         ]
       },
       {
-        "key": "gtrend:فورمولا 1 السباق القادم",
-        "label": "فورمولا 1 السباق القادم",
+        "key": "gtrend:ديكورات صغيرة",
+        "label": "ديكورات صغيرة",
         "rank": 9,
-        "views": 2000,
+        "views": 500,
         "posts": null,
-        "approxTraffic": "2000+",
+        "approxTraffic": "500+",
         "isRTL": true,
         "why": [
           {
@@ -3828,59 +3247,6 @@
         "saturation": null,
         "relevance": 2,
         "verticals": [
-          "automotive"
-        ],
-        "stage": "emerging",
-        "verdict": "act-now",
-        "runwayDays": 15,
-        "isNew": true,
-        "alerts": [
-          "new-entry",
-          "fast-entry-top-20",
-          "vertical-fit:automotive"
-        ],
-        "sparkline": [
-          {
-            "date": "2026-09-09",
-            "rank": 9
-          }
-        ]
-      },
-      {
-        "key": "gtrend:اقساط شقق بدون مقدم",
-        "label": "اقساط شقق بدون مقدم",
-        "rank": 10,
-        "views": 1000,
-        "posts": null,
-        "approxTraffic": "1000+",
-        "isRTL": true,
-        "why": [
-          {
-            "title": "Sample news item — replace on first real run",
-            "url": null,
-            "source": "sample"
-          }
-        ],
-        "source": "google-trends",
-        "commercialSafe": true,
-        "firstSeen": "2026-09-09",
-        "lastSeen": "2026-09-09",
-        "daysTracked": 1,
-        "rankPrev": null,
-        "rankDelta": null,
-        "rank7dAgo": null,
-        "rankDelta7d": null,
-        "velocity3d": 0,
-        "acceleration": null,
-        "peakRank": 10,
-        "daysSincePeak": 0,
-        "viewsDelta": null,
-        "viewsGrowthPct": null,
-        "postsDelta": null,
-        "postsGrowthPct": null,
-        "saturation": null,
-        "relevance": 2,
-        "verticals": [
           "realestate"
         ],
         "stage": "emerging",
@@ -3895,57 +3261,7 @@
         "sparkline": [
           {
             "date": "2026-09-09",
-            "rank": 10
-          }
-        ]
-      },
-      {
-        "key": "gtrend:كشري مصري",
-        "label": "كشري مصري",
-        "rank": 11,
-        "views": 500,
-        "posts": null,
-        "approxTraffic": "500+",
-        "isRTL": true,
-        "why": [
-          {
-            "title": "Sample news item — replace on first real run",
-            "url": null,
-            "source": "sample"
-          }
-        ],
-        "source": "google-trends",
-        "commercialSafe": true,
-        "firstSeen": "2026-09-09",
-        "lastSeen": "2026-09-09",
-        "daysTracked": 1,
-        "rankPrev": null,
-        "rankDelta": null,
-        "rank7dAgo": null,
-        "rankDelta7d": null,
-        "velocity3d": 0,
-        "acceleration": null,
-        "peakRank": 11,
-        "daysSincePeak": 0,
-        "viewsDelta": null,
-        "viewsGrowthPct": null,
-        "postsDelta": null,
-        "postsGrowthPct": null,
-        "saturation": null,
-        "relevance": 0,
-        "verticals": [],
-        "stage": "emerging",
-        "verdict": "act-now",
-        "runwayDays": 15,
-        "isNew": true,
-        "alerts": [
-          "new-entry",
-          "fast-entry-top-20"
-        ],
-        "sparkline": [
-          {
-            "date": "2026-09-09",
-            "rank": 11
+            "rank": 9
           }
         ]
       }

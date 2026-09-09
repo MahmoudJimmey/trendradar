@@ -18,57 +18,18 @@ import { getJson } from '../lib/http.js';
 
 const BASE = 'https://business-api.tiktok.com/open_api/v1.3';
 
-/**
- * Industry categories to sweep.
- *
- * ALL is the general feed and is what most trends arrive in. The named
- * categories are extra passes that surface things the general list crowds out —
- * they ADD coverage, they do not filter it. Set TIKTOK_CATEGORIES to a
- * comma-separated list to narrow the sweep if you ever want to save calls.
- *
- * Note there is no literal "real estate" category in TikTok's taxonomy.
- */
-export const ALL_CATEGORIES = [
+/** Industry categories to sweep. There is no literal "real estate" category. */
+export const CATEGORIES = [
   'ALL',
-  'NEWS_AND_ENTERTAINMENT',
-  'GAMES',
-  'FOOD_AND_BEVERAGE',
-  'SPORTS_AND_OUTDOOR',
-  'BEAUTY_AND_PERSONAL_CARE',
-  'APPAREL_AND_ACCESSORIES',
-  'TECH_AND_ELECTRONICS',
-  'EDUCATION',
-  'HEALTH',
-  'TRAVEL',
-  'VEHICLE_AND_TRANSPORTATION',
   'HOME_IMPROVEMENT',
-  'HOUSEHOLD_PRODUCTS',
-  'BABY_KIDS_AND_MATERNITY',
-  'PETS',
   'FINANCIAL_SERVICES',
   'LIFE_SERVICES',
-  'BUSINESS_SERVICES',
+  'VEHICLE_AND_TRANSPORTATION',
+  'TRAVEL',
 ];
 
-export const CATEGORIES = (process.env.TIKTOK_CATEGORIES || '')
-  .split(',').map((s) => s.trim()).filter(Boolean).length
-  ? process.env.TIKTOK_CATEGORIES.split(',').map((s) => s.trim()).filter(Boolean)
-  : ALL_CATEGORIES;
-
-/**
- * Music genres to sweep. ALL is the general chart; the rest surface tracks the
- * global list buries, with ARABIC_POP first because that is the home market.
- */
-export const ALL_GENRES = [
-  'ALL', 'ARABIC_POP', 'POP', 'HIP_HOP_RAP', 'ELECTRONIC', 'DANCE',
-  'R_AND_B', 'ROCK', 'LATIN', 'AFRO-POP', 'TURKISH_POP', 'CLASSICAL',
-  'JAZZ', 'COUNTRY', 'REGGAE', 'SOUNDTRACK',
-];
-
-export const GENRES = (process.env.TIKTOK_GENRES || '')
-  .split(',').map((s) => s.trim()).filter(Boolean).length
-  ? process.env.TIKTOK_GENRES.split(',').map((s) => s.trim()).filter(Boolean)
-  : ALL_GENRES;
+/** Genres worth sweeping for an Egyptian audience. */
+export const GENRES = ['ALL', 'ARABIC_POP', 'POP', 'HIP_HOP_RAP', 'ELECTRONIC'];
 
 async function call(url, token) {
   const body = await getJson(url, { headers: { 'Access-Token': token } });

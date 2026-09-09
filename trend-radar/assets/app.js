@@ -80,10 +80,8 @@ function labelList(items) {
     .join('<span class="vsep">·</span>');
 }
 
-const VERTICAL_LABEL = { realestate: 'Real estate', automotive: 'Automotive', general: 'Any subject' };
-/** Topic labels are published by the collector from data/topics.json. */
-const topicLabel = (k) => state.data?.topics?.[k] || VERTICAL_LABEL[k] || k;
-const verticalNames = (v = []) => v.map(topicLabel).join(' + ');
+const VERTICAL_LABEL = { realestate: 'Real estate', automotive: 'Automotive' };
+const verticalNames = (v = []) => v.map((x) => VERTICAL_LABEL[x] || x).join(' + ');
 
 function deltaCell(d, blank = 'new') {
   if (d == null) return `<span class="delta flat">${blank}</span>`;
@@ -266,7 +264,7 @@ const COLS = {
         ? '<span class="pill safe" title="A Commercial Music Library sound is already attached — usable by a brand account">cleared</span>'
         : '<span class="sub">—</span>',
     },
-    { key: 'relevance', label: 'Topic', num: true, sort: true, cell: (r) => (r.relevance >= 2 ? `<span class="pill x">${esc(verticalNames(r.verticals))}</span>` : '<span class="sub" title="Not in any topic you listed — still a real trend">general</span>') },
+    { key: 'relevance', label: 'Fit', num: true, sort: true, cell: (r) => (r.relevance >= 2 ? `<span class="pill x">${esc(verticalNames(r.verticals))}</span>` : '<span class="sub">—</span>') },
     { key: 'status', label: 'Status', sort: true, cell: (r) => `<span class="pill ${fmtStageClass(r.status)}">${FORMAT_STATUS_LABEL[r.status] || r.status}</span>` },
     { key: 'verdict', label: 'Call', sort: true, cell: (r) => `<span class="pill v-${r.verdict}">${VERDICT_LABEL[r.verdict] || r.verdict}</span>` },
     {
@@ -308,7 +306,7 @@ const COLS = {
     { key: 'label', label: 'Keyword', sort: true, cell: (r) => `<span class="title">${label(r.label)}</span>` },
     { key: 'rankDelta', label: 'vs yest.', num: true, sort: true, cell: (r) => deltaCell(r.rankDelta) },
     { key: 'daysTracked', label: 'Days on list', num: true, sort: true, cell: (r) => `<span class="num">${r.daysTracked}d</span>` },
-    { key: 'relevance', label: 'Topic', num: true, sort: true, cell: (r) => (r.relevance >= 2 ? `<span class="pill x">${esc(verticalNames(r.verticals))}</span>` : '<span class="sub" title="Not in any topic you listed — still a real trend">general</span>') },
+    { key: 'relevance', label: 'Fit', num: true, sort: true, cell: (r) => (r.relevance >= 2 ? `<span class="pill x">${esc(verticalNames(r.verticals))}</span>` : '<span class="sub">—</span>') },
     { key: 'stage', label: 'Stage', sort: true, cell: (r) => `<span class="pill ${r.stage}">${STAGE_LABEL[r.stage]}</span>` },
   ],
 
@@ -317,7 +315,7 @@ const COLS = {
     { key: 'label', label: 'Query', sort: true, cell: (r) => `<span class="title">${label(r.label)}</span>` },
     { key: 'views', label: 'Searches', num: true, sort: true, cell: (r) => `<span class="num">${r.approxTraffic || compact(r.views)}</span>` },
     { key: 'rankDelta', label: 'vs yest.', num: true, sort: true, cell: (r) => deltaCell(r.rankDelta) },
-    { key: 'relevance', label: 'Topic', num: true, sort: true, cell: (r) => (r.relevance >= 2 ? `<span class="pill x">${esc(verticalNames(r.verticals))}</span>` : '<span class="sub" title="Not in any topic you listed — still a real trend">general</span>') },
+    { key: 'relevance', label: 'Fit', num: true, sort: true, cell: (r) => (r.relevance >= 2 ? `<span class="pill x">${esc(verticalNames(r.verticals))}</span>` : '<span class="sub">—</span>') },
     {
       key: 'why', label: 'Why it is trending',
       cell: (r) =>
@@ -354,7 +352,7 @@ const COLS = {
     { key: 'probableShort', label: 'Format', cell: (r) => (r.probableShort ? '<span class="pill rising">short</span>' : '<span class="pill unknown">long</span>') },
     { key: 'views', label: 'Views', num: true, sort: true, cell: (r) => `<span class="num">${compact(r.views)}</span>` },
     { key: 'likes', label: 'Likes', num: true, sort: true, cell: (r) => `<span class="num">${compact(r.likes)}</span>` },
-    { key: 'relevance', label: 'Topic', num: true, sort: true, cell: (r) => (r.relevance >= 2 ? `<span class="pill x">${esc(verticalNames(r.verticals))}</span>` : '<span class="sub" title="Not in any topic you listed — still a real trend">general</span>') },
+    { key: 'relevance', label: 'Fit', num: true, sort: true, cell: (r) => (r.relevance >= 2 ? `<span class="pill x">${esc(verticalNames(r.verticals))}</span>` : '<span class="sub">—</span>') },
   ],
 
   dropouts: () => [
@@ -396,8 +394,7 @@ function currentRows() {
     );
   }
   if (state.verdict !== 'all') rows = rows.filter((r) => r.verdict === state.verdict);
-  if (state.vertical === '__untagged') rows = rows.filter((r) => !(r.verticals || []).length);
-  else if (state.vertical !== 'all') rows = rows.filter((r) => (r.verticals || []).includes(state.vertical));
+  if (state.vertical !== 'all') rows = rows.filter((r) => (r.verticals || []).includes(state.vertical));
   if (state.safeOnly) rows = rows.filter((r) => r.commercialSafe === true);
 
   const { key, dir } = state.sort;
@@ -602,7 +599,7 @@ function renderKpis() {
     { k: 'new today', v: s.newToday, cls: 'hot' },
     { k: 'rising', v: s.rising, cls: 'hot' },
     { k: 'act now', v: s.actNow, cls: 'hot' },
-    { k: 'match your topics', v: s.verticalFit, cls: '' },
+    { k: 'fit your verticals', v: s.verticalFit, cls: '' },
     { k: 'cleared sounds', v: s.commercialSafeSounds, cls: '' },
     { k: '2-source confirmed', v: s.crossovers, cls: '' },
     { k: 'too late', v: s.tooLate, cls: 'cold' },
@@ -1083,11 +1080,10 @@ function renderFilters() {
       <option value="monitor">Monitor</option>
       <option value="too-late">Too late</option>
     </select>
-    <select id="fvertical" aria-label="Filter by topic">
-      <option value="all">All topics</option>
-      ${Object.entries(state.data?.topics || { realestate: 'Real estate', automotive: 'Automotive' })
-        .map(([k, v]) => `<option value="${esc(k)}">${esc(v)}</option>`).join('')}
-      <option value="__untagged">Untagged only</option>
+    <select id="fvertical" aria-label="Filter by vertical">
+      <option value="all">Both verticals</option>
+      <option value="realestate">Real estate</option>
+      <option value="automotive">Automotive</option>
     </select>
     <button class="toggle" id="fsafe" aria-pressed="false" title="Only sounds cleared for brand use">Cleared only</button>
     <span class="sep"></span>

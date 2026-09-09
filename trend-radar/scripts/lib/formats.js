@@ -30,7 +30,6 @@ export const ARCHETYPES = {
     label: 'Challenge',
     terms: ['challenge', 'challeng', 'تحدي', 'تحديات', 'تشالنج'],
     playbook: {
-      general: 'Give it one rule anyone can copy in a single take, and put the rule on screen in the first second.',
       realestate: 'Give it a rule anyone can copy in one take — "show your flat in 3 seconds", "guess the price".',
       automotive: 'Make it a test with a pass/fail — "name the engine from the sound", "0–100 blindfold guess".',
     },
@@ -42,7 +41,6 @@ export const ARCHETYPES = {
       'الثمانينات', 'التسعينات', 'الالفينات', 'زمن الطيبين', 'قديم', 'ذكريات', 'ريترو',
     ],
     playbook: {
-      general: 'Pick a year and commit to the whole look — colour grade, wardrobe, music, aspect ratio. The contrast does the work.',
       realestate: 'Then-and-now on a neighbourhood: old Cairo footage against the same street today, or 80s-styled apartment staging.',
       automotive: 'Era-matched cars — a 1985 model shot on period-graded film, engine sound over the era track.',
     },
@@ -51,7 +49,6 @@ export const ARCHETYPES = {
     label: 'Transition',
     terms: ['transition', 'transformation', 'glowup', 'glow up', 'تحول', 'انتقال', 'ترانزيشن'],
     playbook: {
-      general: 'Lock the camera, cut on the beat, and make the two states as different as you can get them.',
       realestate: 'Hard cut on the beat from bare concrete to finished room, same camera position both times.',
       automotive: 'Dirty-to-detailed, or stock-to-modified, cut on the sound hit.',
     },
@@ -66,7 +63,6 @@ export const ARCHETYPES = {
       'قبل وبعد', 'قبل و بعد', 'تجديد',
     ],
     playbook: {
-      general: 'Shoot the "before" properly even when it is boring. The reveal is only ever as good as the setup.',
       realestate: 'The single highest-fit format you have. Shoot every handover in the same frame twice, months apart.',
       automotive: 'Restoration or detailing, with a locked-off tripod shot so the reveal lands.',
     },
@@ -75,7 +71,6 @@ export const ARCHETYPES = {
     label: 'POV',
     terms: ['pov', 'point of view', 'لو كنت', 'تخيل', 'من عيون'],
     playbook: {
-      general: 'Second person, eye level, no narration. The viewer is the character, so do not explain it to them.',
       realestate: '"POV: you just got the keys" — shoot handheld at eye level walking through the door.',
       automotive: '"POV: first drive at 6am" — dash-level, no narration, engine audio only.',
     },
@@ -84,7 +79,6 @@ export const ARCHETYPES = {
     label: 'Get ready with me',
     terms: ['grwm', 'getreadywithme', 'get ready with me', 'استعدي معايا', 'روتين', 'routine'],
     playbook: {
-      general: 'Real time, one take, talking while doing. The task gives you structure; the talking is the content.',
       realestate: '"Get ready to view 3 compounds with me" — the day of a viewing, in real time.',
       automotive: '"Get ready for track day with me" — prep, tyre pressures, kit, in one take.',
     },
@@ -96,7 +90,6 @@ export const ARCHETYPES = {
       'جولة', 'روم تور', 'هوم تور', 'جوله',
     ],
     playbook: {
-      general: 'One continuous walk, no cuts, sound on, and the most interesting fact on screen at second one.',
       realestate: 'Your bread and butter. One continuous walk, no cuts, sound on, price on screen at second one.',
       automotive: 'Interior walkaround with the door shut and engine off, so the cabin sounds real.',
     },
@@ -105,7 +98,6 @@ export const ARCHETYPES = {
     label: 'Ranking / tier list',
     terms: ['tierlist', 'tier list', 'ranking', 'ranked', 'top5', 'top10', 'ترتيب', 'افضل', 'ترتيبي'],
     playbook: {
-      general: 'Rank on one honest axis and commit to an opinion. Hedging kills the comments.',
       realestate: 'Rank compounds on one honest axis — commute, service charge, delivery record. Commit to an opinion.',
       automotive: 'Tier the same segment by one criterion, not vibes: parts availability, resale, running cost.',
     },
@@ -114,7 +106,6 @@ export const ARCHETYPES = {
     label: 'Versus',
     terms: [' vs ', 'versus', 'ضد', 'مقارنة', 'comparison', 'ولا'],
     playbook: {
-      general: 'Same conditions, two subjects, identical tests. Never declare the winner in the caption.',
       realestate: 'Two units at the same price, side by side, same checklist. Let the viewer argue in the comments.',
       automotive: 'Same budget, two cars, five identical tests. Never declare a winner in the caption.',
     },
@@ -123,7 +114,6 @@ export const ARCHETYPES = {
     label: 'Expectation vs reality',
     terms: ['expectation vs reality', 'expectation', 'توقع', 'الحقيقة', 'التوقع'],
     playbook: {
-      general: 'Show the promise, then the reality, with no commentary in between.',
       realestate: 'Render versus delivered unit. Risky and honest — the most shared thing this industry can post.',
       automotive: 'Brochure figures against your own measured numbers.',
     },
@@ -132,7 +122,6 @@ export const ARCHETYPES = {
     label: 'Day in the life',
     terms: ['dayinmylife', 'day in my life', 'يوم في حياة', 'روتيني اليومي', 'يوم من حياتي'],
     playbook: {
-      general: 'The unglamorous parts are the content. Include the waiting.',
       realestate: '"A day as a property consultant in New Cairo" — the job, not the sales pitch.',
       automotive: 'A day with one car as a daily driver, including the annoying parts.',
     },
@@ -141,7 +130,6 @@ export const ARCHETYPES = {
     label: 'How-to / hack',
     terms: ['tutorial', 'howto', 'how to', 'hack', 'hacks', 'tips', 'ازاي', 'طريقة', 'نصائح', 'ازای'],
     playbook: {
-      general: 'Teach exactly one thing in twenty seconds. No intro, no "hi guys".',
       realestate: '"How to read a contract clause", "how to check a delivery date". Teach one thing, 20 seconds.',
       automotive: 'One maintenance job, shot close, no music, real time.',
     },
@@ -150,7 +138,6 @@ export const ARCHETYPES = {
     label: 'Duet / stitch bait',
     terms: ['duet', 'stitch', 'ديو', 'رد على', 'reply to'],
     playbook: {
-      general: 'Say one arguable thing to camera and leave silence at the end for the stitch.',
       realestate: 'Ask one divisive question to camera and leave silence for the stitch — "would you buy this at this price?"',
       automotive: 'Post a wrong take on purpose and invite corrections. Comments do the reach.',
     },
@@ -159,7 +146,6 @@ export const ARCHETYPES = {
     label: 'Storytime',
     terms: ['storytime', 'story time', 'حكاية', 'قصة', 'حصل معايا'],
     playbook: {
-      general: 'Open on the ending, then go back. The outcome first, the how second.',
       realestate: 'The deal that fell apart, and what you learned. Nobody in this market posts these.',
       automotive: 'The purchase you regret. Credibility compounds.',
     },
@@ -168,7 +154,6 @@ export const ARCHETYPES = {
     label: 'Reveal / unboxing',
     terms: ['reveal', 'revealed', 'unboxing', 'كشف', 'مفاجأة', 'فتح'],
     playbook: {
-      general: 'Delay it slightly longer than feels comfortable, and cut the moment it lands.',
       realestate: 'Key handover, filmed from the buyer\'s side, no branding until the last second.',
       automotive: 'Delivery day, plates on, first start.',
     },
@@ -177,7 +162,6 @@ export const ARCHETYPES = {
     label: 'Check / rate mine',
     terms: ['fitcheck', 'outfitcheck', 'roomcheck', 'ratemy', 'rate my', 'قيم', 'check'],
     playbook: {
-      general: 'Use a fixed template so submissions are comparable, and reply to every one you can.',
       realestate: '"Rate my balcony" as a UGC prompt — invite followers to send theirs.',
       automotive: '"Rate my setup" with a fixed template so submissions are comparable.',
     },
@@ -186,7 +170,6 @@ export const ARCHETYPES = {
     label: 'Aesthetic / -core',
     terms: ['core', 'aesthetic', 'moodboard', 'استايل', 'ستايل'],
     playbook: {
-      general: 'Name the look and shoot everything in it. The consistency IS the format.',
       realestate: 'Name a look and own it — a "quiet luxury" or "Sahel-core" interior series.',
       automotive: 'Build an aesthetic lane (JDM, restomod) and shoot everything in that grade.',
     },
@@ -195,7 +178,6 @@ export const ARCHETYPES = {
     label: 'Satisfying / ASMR',
     terms: ['satisfying', 'oddlysatisfying', 'asmr', 'مريح'],
     playbook: {
-      general: 'No voice, no music, microphone close. The sound is the product.',
       realestate: 'Tile laying, paint rolling, key turning. No voice, no music, mic close.',
       automotive: 'Foam, water, panel wipe. Sound is the whole product.',
     },
@@ -204,7 +186,6 @@ export const ARCHETYPES = {
     label: 'Named trend',
     terms: ['trend', 'trending', 'تريند', 'ترند'],
     playbook: {
-      general: 'A bare "trend" tag means the format has no name yet. Watch the top three videos and identify the mechanic before you shoot.',
       realestate: 'A bare "trend" tag means the format is still unnamed — check the sound and the top videos before copying.',
       automotive: 'Same: identify the underlying mechanic before you shoot, or you copy the surface and miss the joke.',
     },
@@ -399,26 +380,15 @@ export function emergingPhrases(table, history, today, opts = {}) {
     const archetypes = classifyFormat(gram);
     const rel = scoreRelevance(gram);
 
-    // An unnamed phrase is still a trend — "المقاولون ضد" or a footballer's name
-    // spiking in Egyptian search matters even though it fits no archetype and no
-    // topic. It only has to clear a modestly higher bar than a recognised format,
-    // so the list stays readable without becoming real-estate-only.
-    // An unclassified phrase needs to appear in at least TWO feeds. A format is
-    // cross-feed by nature, and a single feed's quirks look identical to a trend
-    // from inside that feed — "kalam marwan" and "cy hatembas" are fragments of
-    // artist names in the sound titles, not things anyone is doing.
-    const isUnclassified = archetypes.length === 0 && rel.score < 2;
-    if (isUnclassified && breadth < 2) continue;
-    if (isUnclassified && !isNew && lift < 1.8) continue;
+    // We are hunting formats, not topics. A phrase that matches no format
+    // archetype and neither vertical has to clear a much higher bar before it
+    // earns a row — otherwise the list fills with whatever words happen to be
+    // frequent this week.
+    const isTopicalOnly = archetypes.length === 0 && rel.score < 2;
+    if (isTopicalOnly && !(lift >= 4 && breadth >= 2)) continue;
 
-    // Breadth is the real quality signal. Archetype and topic matches only nudge,
-    // so a broad general trend can still outrank a narrow on-topic one.
     const score = round(
-      lift *
-        (1 + 0.45 * (breadth - 1)) *
-        (isNew ? 1.4 : 1) *
-        (archetypes.length ? 1.15 : 1) *
-        (rel.score >= 2 ? 1.1 : 1),
+      lift * (1 + 0.45 * (breadth - 1)) * (isNew ? 1.4 : 1) * (archetypes.length ? 1.25 : 1),
       2
     );
 
@@ -592,10 +562,9 @@ export function dedupeFormats(rows) {
       const breadth = sources.length;
 
       // Rescore on the merged evidence, not the fragment's.
-      const relevance = Math.max(...g.members.map((m) => m.relevance || 0));
       const score = Math.round(
         maxLift * (1 + 0.45 * Math.max(0, breadth - 1)) * (isNew ? 1.4 : 1) *
-          (archetypes.length ? 1.15 : 1) * (relevance >= 2 ? 1.1 : 1) * 100
+          (archetypes.length ? 1.25 : 1) * 100
       ) / 100;
 
       return {
@@ -605,7 +574,7 @@ export function dedupeFormats(rows) {
         archetypes,
         archetypeLabels: archetypes.map((a) => ARCHETYPES[a]?.label || a),
         verticals,
-        relevance,
+        relevance: Math.max(...g.members.map((m) => m.relevance || 0)),
         lift: maxLift,
         isNew,
         score,
@@ -648,23 +617,17 @@ function mergeClusters(clusters) {
  * Playbook lines for whichever verticals matched, so the row answers
  * "what do I actually shoot" and not just "what is happening".
  */
-export function playbookFor(archetypes, topics) {
+export function playbookFor(archetypes, verticals) {
+  const want = verticals?.length ? verticals : ['realestate', 'automotive'];
   const out = [];
   for (const a of archetypes) {
     const spec = ARCHETYPES[a];
     if (!spec) continue;
-
-    // The general line always applies — most trends are not about your verticals,
-    // and "how do I shoot this format at all" is the first question either way.
-    if (spec.playbook.general) {
-      out.push({ archetype: spec.label, vertical: 'general', line: spec.playbook.general });
-    }
-    // Topic-specific angles are a bonus, only when the trend actually matched one.
-    for (const t of topics || []) {
-      if (spec.playbook[t]) out.push({ archetype: spec.label, vertical: t, line: spec.playbook[t] });
+    for (const v of want) {
+      if (spec.playbook[v]) out.push({ archetype: spec.label, vertical: v, line: spec.playbook[v] });
     }
   }
-  return out.slice(0, 5);
+  return out.slice(0, 4);
 }
 
 const round = (n, dp = 2) =>

@@ -16,8 +16,8 @@ is auditable in `git log`.
 | Tab | Source | What you get |
 |---|---|---|
 | **Formats** | derived from every other feed | Emerging **challenges and formats** — the 80s challenge, before/after, room tours — detected as phrases spiking across feeds, not as single hashtags. See below |
-| **Sounds** | TikTok Discovery API — Commercial Music Library | Top 100 **pre-cleared** tracks per country, rank + 30-day history, swept across **all 16 genres**, publishable clip ID |
-| **Hashtags** | TikTok Discovery API | Top 200 hashtags, rank change, views, posts, 30-day history, swept across **all 19 industry categories** |
+| **Sounds** | TikTok Discovery API — Commercial Music Library | Top 100 **pre-cleared** tracks per country, rank + 30-day history, `ARABIC_POP` genre, publishable clip ID |
+| **Hashtags** | TikTok Discovery API | Top 200 hashtags, rank change, views, posts, 30-day history, swept across 6 industry categories |
 | **TikTok search** | TikTok Discovery API | 20 trending search keywords (order only — no volume, no geo) |
 | **Google Egypt** | Google Trends RSS `geo=EG` | Live Arabic queries with traffic estimates **and why they are trending** |
 | **Apple Music EG** | Apple RSS Marketing Tools | Daily Egyptian most-played — the cross-check on TikTok sound hype |
@@ -40,9 +40,8 @@ Three mechanisms, all in `scripts/lib/formats.js`:
 taxonomy of ~19 repeatable format shapes — challenge, era/decade, transition,
 before/after, POV, GRWM, tour, ranking, versus, expectation-vs-reality, day-in-the-life,
 how-to, duet bait, storytime, reveal, rate-mine, aesthetic/-core, ASMR — in **Arabic and
-English**. Each archetype carries a **general** playbook line that always applies, plus
-optional topic-specific angles, because knowing `#80s` is spiking is trivia until you
-know what to shoot on Sunday.
+English**. Each archetype carries a one-line playbook for real estate and for automotive,
+because knowing `#80s` is spiking is trivia until you know what to shoot on Sunday.
 
 **2. Spike detection across feeds.** Everything the collector already gathered — hashtag
 names, TikTok search keywords, Google Egypt queries, YouTube titles and tags, sound
@@ -72,27 +71,6 @@ Each surviving row then gets its cluster attached: the charting hashtags, the so
 (with a flag if one is **Commercial-Music-Library cleared**, i.e. legally usable by a
 brand account), the Egyptian search queries, TikTok's own related-hashtag suggestions,
 and the creators already running it.
-
-### Topics are a lens, not a filter
-
-**Everything trending is collected and shown.** TikTok is swept across **all 19 industry
-categories** and **all 16 music genres**, not a chosen few, and format detection surfaces
-unnamed phrases — a footballer's name, an exam result, a TV series — as readily as
-recognised formats.
-
-`data/topics.json` only adds a **Topic** tag and a small ranking nudge (×1.1), so the
-subjects you publish about are easy to spot in a general feed. Nothing is hidden for
-failing to match: untagged rows show `general` in the Topic column and are never marked
-`skip`. The dropdown defaults to **All topics**, and **Untagged only** gives you the
-inverse view — what is trending outside everything you cover, which is usually where the
-ideas you would not have thought of are.
-
-Edit that file to add topics, delete the ones you do not care about, or set `topics` to
-`{}` for a purely general feed. Each archetype's playbook also carries a **general** line
-that always applies, with topic-specific angles added on top only when a topic matched.
-
-To narrow the sweep and save API calls, set `TIKTOK_CATEGORIES` or `TIKTOK_GENRES` to a
-comma-separated list. The default is everything.
 
 ### Watch terms
 
@@ -141,7 +119,7 @@ the derived columns, all computed in `scripts/lib/momentum.js`.
 | **Call** | `act now`, `ride fast`, `monitor`, `too late`, `blocked`, `skip`. Deliberately blunt. |
 | **Licence** | Is the sound in TikTok's Commercial Music Library? For a brand account this is the difference between usable and unusable, whatever the numbers say. |
 | **Confirmed** | Charting on TikTok **and** Apple Music Egypt. Independent demand usually means a longer runway than a TikTok-only spike. |
-| **Topic** | Which of your `data/topics.json` subjects it matched, with Arabic normalisation so `#العاصمة_الادارية` and `العاصمة الإدارية` match each other. `general` means it matched none — still a real trend. |
+| **Fit** | Matched against real-estate and automotive term lists — with Arabic normalisation, so `#العاصمة_الادارية` and `العاصمة الإدارية` match each other. |
 | **Who used it** | Creator handles, parsed out of the share URLs TikTok returns. |
 | **Best ever / days since peak** | Whether today's rank is the top of the arc or the far side of it. |
 | **Fell off** | Dropping off the chart is a signal in its own right. |
@@ -283,16 +261,6 @@ no database.
 TikTok returns up to 30 days of its own daily ranking in `trending_history`. The
 collector folds that into `history.json` on the first run, so momentum works on day one
 instead of after a fortnight of waiting. Your own snapshots always win on conflict.
-
-**Sample data is cleared automatically.** The repo ships with sample rows so the
-dashboard is legible before credentials exist. On the first run where `latest.json` is
-still flagged `sample: true`, the collector discards the shipped `history.json` and
-`corpus.json` — otherwise every invented row would be reported as a dropout and momentum
-would be measured against fiction. It logs `reset` in Source health when it does this.
-
-If you already completed a real run before this behaviour existed, clear it once by
-hand: delete `data/history.json` and `data/corpus.json`, commit, and re-run. Sample
-hashtags and sounds showing up under **Fell off** is the symptom.
 
 ---
 

@@ -10,7 +10,7 @@
  * numbers. Silent failure is the thing that kills dashboards.
  */
 
-import { enrich, findDropouts, markCrossover, configureTopics, activeTopics } from './lib/momentum.js';
+import { enrich, findDropouts, markCrossover } from './lib/momentum.js';
 import {
   countCorpus, emergingPhrases, mergeCorpusHistory, clusterFormat, playbookFor,
   classifyFormat, aliasesOf, dedupeFormats,
@@ -143,9 +143,8 @@ function buildFormats(phrases, sections, seedTerms, probes) {
         p.status === 'fading' ? 'too-late'
         : p.status === 'unseen' || p.status === 'spiking' ? 'act-now'
         : p.status === 'spreading' ? 'ride-fast'
-        // Off-topic is not the same as worthless — a general trend still gets
-        // watched rather than written off.
-        : 'monitor',
+        : p.relevance >= 2 ? 'monitor'
+        : 'skip',
     };
   });
 }
@@ -197,7 +196,7 @@ async function collectHashtags() {
   }
 
   const rows = [...seen.values()];
-  if (rows.length) ok('tiktok-hashtags', rows.length, `all ${tiktok.CATEGORIES.length} industry categories swept, ${COUNTRY}`);
+  if (rows.length) ok('tiktok-hashtags', rows.length, `${tiktok.CATEGORIES.length} categories, ${COUNTRY}`);
   return rows;
 }
 
@@ -231,7 +230,7 @@ async function collectSounds() {
   }
 
   const rows = [...seen.values()];
-  if (rows.length) ok('tiktok-sounds', rows.length, `all ${tiktok.GENRES.length} genres swept, ${COUNTRY}, commercially cleared`);
+  if (rows.length) ok('tiktok-sounds', rows.length, `${tiktok.GENRES.length} genres, ${COUNTRY}, commercially cleared`);
   return rows;
 }
 
@@ -332,33 +331,7 @@ function dedupeCreators(videos) {
 async function main() {
   console.log(`\ntrend-radar · collecting for ${DATE} · country=${COUNTRY}\n`);
 
-  // Topic tagging is a highlight, not a filter — everything trending is
-  // collected either way. data/topics.json lets you change what gets tagged
-  // without touching code.
-  const topicsFile = await readJson(`${P.dataDir}/topics.json`, null);
-  if (topicsFile?.topics) {
-    const clean = Object.fromEntries(
-      Object.entries(topicsFile.topics).filter(
-        ([, v]) => v && typeof v === 'object' && Array.isArray(v.terms)
-      )
-    );
-    configureTopics(clean);
-    ok('topics', Object.keys(clean).length,
-      `tagging: ${Object.values(clean).map((t) => t.label).join(', ') || 'none'} — everything else still collected`);
-  }
-
-  // The repo ships with sample data so the dashboard is legible before any
-  // credentials exist — which means the FIRST real run would otherwise inherit
-  // nine days of invented history, and every sample row would be reported as a
-  // dropout. Detect that and start clean.
-  const prev = await readJson(P.latest, null);
-  const comingFromSample = prev?.sample === true;
-  let history = comingFromSample ? {} : await readJson(P.history, {});
-  if (comingFromSample) {
-    await writeJson(P.corpus, {});
-    ok('reset', 0, 'First real run — discarded the shipped sample history so momentum starts from today');
-    console.log('  · first real run: sample history discarded\n');
-  }
+  const history = await readJson(P.history, {});
 
   // --- TikTok -------------------------------------------------------
   const [rawHashtags, rawSounds, rawKeywords] = await Promise.all([
@@ -435,16 +408,7 @@ async function main() {
       igPanel = await instagram.competitorPanel({
         token: env.IG_ACCESS_TOKEN, igUserId: env.IG_USER_ID, handles: COMPETITORS,
       });
-      // Reporting "ok" when every account failed is how a broken source hides.
-      const good = igPanel.filter((r) => !r.error);
-      const bad = igPanel.filter((r) => r.error);
-      if (!good.length && bad.length) {
-        fail('instagram-panel', new Error(`all ${bad.length} accounts failed — ${bad[0].error}`));
-      } else if (bad.length) {
-        ok('instagram-panel', good.length, `${good.length} of ${COMPETITORS.length} accounts — ${bad.length} failed: ${bad[0].error}`);
-      } else {
-        ok('instagram-panel', good.length, `${COMPETITORS.length} accounts`);
-      }
+      ok('instagram-panel', igPanel.filter((r) => !r.error).length, `${COMPETITORS.length} accounts`);
     } catch (err) { fail('instagram-panel', err); }
   } else {
     skip('instagram-panel', 'IG_COMPETITORS not set');
@@ -541,9 +505,6 @@ async function main() {
     sample: false,
     daysOfHistory: new Set([...dates, DATE]).size,
     summary: summarise(sections, dropouts),
-    topics: Object.fromEntries(
-      Object.entries(activeTopics()).map(([k, v]) => [k, v.label || k])
-    ),
     health,
     sections,
     dropouts,

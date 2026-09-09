@@ -53,13 +53,6 @@ const HASHTAGS = [
   { id: '9006', name: 'الساحل_الشمالي', from: 3, to: 21, born: 8, posts: [151000, 158000], views: [188e6, 194e6] },
   { id: '9007', name: 'قبل_وبعد', from: null, to: 9, born: 1, posts: [2200, 8700], views: [3.1e6, 12.6e6] },
   { id: '9008', name: 'f1egypt', from: 44, to: 29, born: 5, posts: [1900, 4300], views: [2.4e6, 6.1e6] },
-  // Trends with nothing to do with either vertical — this is a general feed, and
-  // the sample should look like one.
-  { id: '9012', name: 'الاهلي_والزمالك', from: 7, to: 2, born: 6, posts: [88000, 141000], views: [212e6, 388e6] },
-  { id: '9013', name: 'مسلسلات_رمضان', from: null, to: 11, born: 2, posts: [14000, 47000], views: [31e6, 96e6] },
-  { id: '9014', name: 'كشري_مصري', from: 33, to: 19, born: 7, posts: [6200, 12800], views: [8.9e6, 19.4e6] },
-  { id: '9015', name: 'storytime', from: 24, to: 13, born: 8, posts: [96000, 118000], views: [141e6, 176e6] },
-  { id: '9016', name: 'امتحانات_الثانوية', from: null, to: 7, born: 3, posts: [3100, 22400], views: [4.2e6, 38.7e6] },
 ];
 
 /**
@@ -193,12 +186,11 @@ const appleRows = APPLE.map((r, i) => ({
 }));
 
 const SEARCH = [
-  'نتيجة الثانوية العامة', 'الاهلي والزمالك', 'أسعار الشقق في التجمع',
-  'تحدي الثمانينات', 'مسلسلات رمضان', 'كمبوندات العاصمة الادارية',
-  'سعر الدولار اليوم', 'تشطيب شقة 100 متر', 'فورمولا 1 السباق القادم',
-  'اقساط شقق بدون مقدم', 'كشري مصري',
+  'أسعار الشقق في التجمع', 'تحدي الثمانينات', 'كمبوندات العاصمة الادارية',
+  'تشطيب شقة 100 متر', 'الساحل الشمالي 2026', 'سعر الحديد اليوم',
+  'فورمولا 1 السباق القادم', 'اقساط شقق بدون مقدم', 'ديكورات صغيرة',
 ];
-const SEARCH_TRAFFIC = [50000, 20000, 20000, 10000, 10000, 5000, 5000, 2000, 2000, 1000, 500];
+const SEARCH_TRAFFIC = [20000, 10000, 10000, 5000, 5000, 2000, 2000, 1000, 500];
 const searchRows = SEARCH.map((q, i) => ({
   key: `gtrend:${q}`,
   label: q, rank: i + 1,
@@ -349,7 +341,8 @@ const formatRows = phrases.map((p) => {
       p.status === 'fading' ? 'too-late'
       : p.status === 'unseen' || p.status === 'spiking' ? 'act-now'
       : p.status === 'spreading' ? 'ride-fast'
-      : 'monitor',
+      : p.relevance >= 2 ? 'monitor'
+      : 'skip',
   };
 });
 
@@ -370,10 +363,6 @@ const payload = {
   dateRange: '7DAY',
   sample: true,
   daysOfHistory: DAYS,
-  topics: {
-    realestate: 'Real estate', automotive: 'Automotive',
-    football: 'Football', food: 'Food', entertainment: 'TV & film',
-  },
   summary: {
     formats: formats.length,
     formatsSpiking: formats.filter((f) => f.status === 'spiking' || f.status === 'unseen').length,

@@ -15,15 +15,7 @@
 
 // Matched case-insensitively against hashtag names, sound titles and keywords.
 // Arabic terms first because that is what actually trends in Egypt.
-/**
- * Topics are an optional LENS, not a filter.
- *
- * Everything trending is collected and shown regardless. These lists only add a
- * "Topic" tag and a small ranking nudge so the things you publish about are easy
- * to spot in a general list. Edit data/topics.json to change them — nothing is
- * hidden for failing to match.
- */
-export const DEFAULT_TOPICS = {
+export const VERTICALS = {
   realestate: {
     label: 'Real estate',
     terms: [
@@ -56,24 +48,6 @@ export const DEFAULT_TOPICS = {
     ],
   },
 };
-
-/** Active topic table. Replaced by configureTopics() when data/topics.json exists. */
-let TOPICS = DEFAULT_TOPICS;
-
-/** Back-compat name for the default table. */
-export const VERTICALS = DEFAULT_TOPICS;
-
-/**
- * Swap in user-defined topics. Accepts { key: { label, terms: [] } }.
- * Passing an empty object turns topic tagging off entirely, which is a valid
- * choice if you want a purely general trend feed.
- */
-export function configureTopics(topics) {
-  if (topics && typeof topics === 'object') TOPICS = topics;
-  return TOPICS;
-}
-
-export const activeTopics = () => TOPICS;
 
 /**
  * Normalise Arabic and Latin text for matching.
@@ -110,7 +84,7 @@ export function scoreRelevance(text) {
   const hits = [];
   const matched = [];
 
-  for (const [key, v] of Object.entries(TOPICS)) {
+  for (const [key, v] of Object.entries(VERTICALS)) {
     for (const term of v.terms) {
       const t = normalizeText(term);
       const tTight = stripped(term);
@@ -193,9 +167,7 @@ export function decideVerdict({ stage, rank, saturation, commercialSafe, relevan
     return rank <= 15 ? 'ride-fast' : 'act-now';
   }
   if (stage === 'peaking') return 'ride-fast';
-  // A flat trend outside your topics is still a trend — worth watching, not
-  // worth dismissing. Only a genuinely dead one gets written off.
-  return 'monitor';
+  return relevance >= 2 ? 'monitor' : 'skip';
 }
 
 /**

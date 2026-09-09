@@ -1,0 +1,54 @@
+{
+  "_comment": [
+    "Format terms the collector probes directly, instead of waiting for them to",
+    "reach a top-200 hashtag list. This is how you catch something like the 80s",
+    "challenge in week one rather than week three.",
+    "",
+    "Add a term the moment you see it in the wild — in your For You feed, in a",
+    "competitor's caption, in a comment. Each entry is expanded through TikTok's",
+    "related-hashtags recommender on every run, and any charting hashtag, sound",
+    "or Egyptian search query containing it gets clustered onto the format row.",
+    "",
+    "Keep this list short and specific. Twenty live guesses beat two hundred",
+    "stale ones. Delete anything that has been 'fading' for two weeks.",
+    "",
+    "Arabic and English are both fine, and known pairs (80s / الثمانينات,",
+    "challenge / تحدي) are clustered together automatically."
+  ],
+
+  "watch": [
+    "challenge",
+    "تحدي",
+    "80s",
+    "الثمانينات",
+    "90s",
+    "قبل وبعد",
+    "before after",
+    "transition",
+    "room tour",
+    "روم تور",
+    "pov",
+    "rate my",
+    "expectation vs reality",
+    "day in my life",
+    "تشطيب"
+  ],
+
+  "vertical": {
+    "realestate": [
+      "كمبوند",
+      "تشطيب شقتي",
+      "العاصمة الادارية",
+      "الساحل الشمالي",
+      "apartment tour",
+      "compound review"
+    ],
+    "automotive": [
+      "تجربة قيادة",
+      "car review",
+      "سيارتي الجديدة",
+      "formula 1",
+      "drift"
+    ]
+  }
+}

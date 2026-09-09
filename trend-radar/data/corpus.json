@@ -2,52 +2,52 @@
   "100": [
     {
       "date": "2026-08-31",
-      "weight": 7,
+      "weight": 8,
       "sources": 1
     },
     {
       "date": "2026-09-01",
-      "weight": 7,
+      "weight": 8,
       "sources": 1
     },
     {
       "date": "2026-09-02",
-      "weight": 7,
+      "weight": 8,
       "sources": 1
     },
     {
       "date": "2026-09-03",
-      "weight": 7,
+      "weight": 8,
       "sources": 1
     },
     {
       "date": "2026-09-04",
-      "weight": 7,
+      "weight": 8,
       "sources": 1
     },
     {
       "date": "2026-09-05",
-      "weight": 7,
+      "weight": 8,
       "sources": 1
     },
     {
       "date": "2026-09-06",
-      "weight": 7,
+      "weight": 8,
       "sources": 1
     },
     {
       "date": "2026-09-07",
-      "weight": 7,
+      "weight": 8,
       "sources": 1
     },
     {
       "date": "2026-09-08",
-      "weight": 7,
+      "weight": 8,
       "sources": 1
     },
     {
       "date": "2026-09-09",
-      "weight": 7,
+      "weight": 8,
       "sources": 1
     }
   ],
@@ -106,53 +106,53 @@
   "2026": [
     {
       "date": "2026-08-31",
-      "weight": 8,
-      "sources": 1
+      "weight": 16,
+      "sources": 2
     },
     {
       "date": "2026-09-01",
-      "weight": 8,
-      "sources": 1
+      "weight": 16,
+      "sources": 2
     },
     {
       "date": "2026-09-02",
-      "weight": 8,
-      "sources": 1
+      "weight": 16,
+      "sources": 2
     },
     {
       "date": "2026-09-03",
-      "weight": 8,
-      "sources": 1
+      "weight": 16,
+      "sources": 2
     },
     {
       "date": "2026-09-04",
-      "weight": 8,
-      "sources": 1
+      "weight": 16,
+      "sources": 2
     },
     {
       "date": "2026-09-05",
-      "weight": 8,
-      "sources": 1
+      "weight": 16,
+      "sources": 2
     },
     {
       "date": "2026-09-06",
-      "weight": 8,
-      "sources": 1
+      "weight": 16,
+      "sources": 2
     },
     {
       "date": "2026-09-07",
-      "weight": 8,
-      "sources": 1
+      "weight": 16,
+      "sources": 2
     },
     {
       "date": "2026-09-08",
-      "weight": 8,
-      "sources": 1
+      "weight": 16,
+      "sources": 2
     },
     {
       "date": "2026-09-09",
-      "weight": 8,
-      "sources": 1
+      "weight": 16,
+      "sources": 2
     }
   ],
   "كمبوند": [
@@ -470,156 +470,156 @@
   "العاصمه": [
     {
       "date": "2026-08-31",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-01",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-02",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-03",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-04",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-05",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-06",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-07",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-08",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-09",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     }
   ],
   "العاصمه الاداريه": [
     {
       "date": "2026-08-31",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-01",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-02",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-03",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-04",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-05",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-06",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-07",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-08",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-09",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     }
   ],
   "الاداريه": [
     {
       "date": "2026-08-31",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-01",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-02",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-03",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-04",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-05",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-06",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-07",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-08",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     },
     {
       "date": "2026-09-09",
-      "weight": 18,
+      "weight": 19,
       "sources": 2
     }
   ],
@@ -782,157 +782,157 @@
   "الساحل": [
     {
       "date": "2026-08-31",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-01",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-02",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-03",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-04",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-05",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-06",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-07",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-08",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-09",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     }
   ],
   "الساحل الشمالي": [
     {
       "date": "2026-08-31",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-01",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-02",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-03",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-04",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-05",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-06",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-07",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-08",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-09",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     }
   ],
   "الشمالي": [
     {
       "date": "2026-08-31",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-01",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-02",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-03",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-04",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-05",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-06",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-07",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-08",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     },
     {
       "date": "2026-09-09",
-      "weight": 9,
-      "sources": 1
+      "weight": 17,
+      "sources": 2
     }
   ],
   "f1e": [
@@ -1089,422 +1089,6 @@
       "date": "2026-09-09",
       "weight": 9,
       "sources": 1
-    }
-  ],
-  "الاهلي": [
-    {
-      "date": "2026-08-31",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 19,
-      "sources": 2
-    }
-  ],
-  "الاهلي والزمالك": [
-    {
-      "date": "2026-08-31",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 19,
-      "sources": 2
-    }
-  ],
-  "والزمالك": [
-    {
-      "date": "2026-08-31",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 19,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 19,
-      "sources": 2
-    }
-  ],
-  "كشري": [
-    {
-      "date": "2026-08-31",
-      "weight": 15,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 15,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 15,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 15,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 15,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 15,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 15,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 15,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 15,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 15,
-      "sources": 2
-    }
-  ],
-  "storytime": [
-    {
-      "date": "2026-08-31",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 9,
-      "sources": 1
-    }
-  ],
-  "امتحانات": [
-    {
-      "date": "2026-08-31",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 10,
-      "sources": 1
-    }
-  ],
-  "امتحانات الثانويه": [
-    {
-      "date": "2026-08-31",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 10,
-      "sources": 1
-    }
-  ],
-  "الثانويه": [
-    {
-      "date": "2026-08-31",
-      "weight": 20,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 20,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 20,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 20,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 20,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 20,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 20,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 20,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 20,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 20,
-      "sources": 2
     }
   ],
   "wala": [
@@ -3486,52 +3070,52 @@
   "تشطيب": [
     {
       "date": "2026-08-31",
-      "weight": 16,
+      "weight": 17,
       "sources": 3
     },
     {
       "date": "2026-09-01",
-      "weight": 16,
+      "weight": 17,
       "sources": 3
     },
     {
       "date": "2026-09-02",
-      "weight": 16,
+      "weight": 17,
       "sources": 3
     },
     {
       "date": "2026-09-03",
-      "weight": 16,
+      "weight": 17,
       "sources": 3
     },
     {
       "date": "2026-09-04",
-      "weight": 16,
+      "weight": 17,
       "sources": 3
     },
     {
       "date": "2026-09-05",
-      "weight": 16,
+      "weight": 17,
       "sources": 3
     },
     {
       "date": "2026-09-06",
-      "weight": 16,
+      "weight": 17,
       "sources": 3
     },
     {
       "date": "2026-09-07",
-      "weight": 16,
+      "weight": 17,
       "sources": 3
     },
     {
       "date": "2026-09-08",
-      "weight": 16,
+      "weight": 17,
       "sources": 3
     },
     {
       "date": "2026-09-09",
-      "weight": 26,
+      "weight": 27,
       "sources": 4
     }
   ],
@@ -4055,214 +3639,6 @@
       "sources": 1
     }
   ],
-  "نتيجه": [
-    {
-      "date": "2026-08-31",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 10,
-      "sources": 1
-    }
-  ],
-  "نتيجه الثانويه": [
-    {
-      "date": "2026-08-31",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 10,
-      "sources": 1
-    }
-  ],
-  "الثانويه العامه": [
-    {
-      "date": "2026-08-31",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 10,
-      "sources": 1
-    }
-  ],
-  "العامه": [
-    {
-      "date": "2026-08-31",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 10,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 10,
-      "sources": 1
-    }
-  ],
   "اسعار": [
     {
       "date": "2026-08-31",
@@ -4471,215 +3847,371 @@
       "sources": 1
     }
   ],
-  "مسلسلات": [
-    {
-      "date": "2026-08-31",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 18,
-      "sources": 2
-    }
-  ],
-  "مسلسلات رمضان": [
-    {
-      "date": "2026-08-31",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 18,
-      "sources": 2
-    }
-  ],
-  "رمضان": [
-    {
-      "date": "2026-08-31",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 9,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 18,
-      "sources": 2
-    }
-  ],
   "كمبوندات": [
     {
       "date": "2026-08-31",
-      "weight": 8,
+      "weight": 9,
       "sources": 1
     },
     {
       "date": "2026-09-01",
-      "weight": 8,
+      "weight": 9,
       "sources": 1
     },
     {
       "date": "2026-09-02",
-      "weight": 8,
+      "weight": 9,
       "sources": 1
     },
     {
       "date": "2026-09-03",
-      "weight": 8,
+      "weight": 9,
       "sources": 1
     },
     {
       "date": "2026-09-04",
-      "weight": 8,
+      "weight": 9,
       "sources": 1
     },
     {
       "date": "2026-09-05",
-      "weight": 8,
+      "weight": 9,
       "sources": 1
     },
     {
       "date": "2026-09-06",
-      "weight": 8,
+      "weight": 9,
       "sources": 1
     },
     {
       "date": "2026-09-07",
-      "weight": 8,
+      "weight": 9,
       "sources": 1
     },
     {
       "date": "2026-09-08",
-      "weight": 8,
+      "weight": 9,
       "sources": 1
     },
     {
       "date": "2026-09-09",
-      "weight": 8,
+      "weight": 9,
       "sources": 1
     }
   ],
   "كمبوندات العاصمه": [
+    {
+      "date": "2026-08-31",
+      "weight": 9,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-01",
+      "weight": 9,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-02",
+      "weight": 9,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-03",
+      "weight": 9,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-04",
+      "weight": 9,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-05",
+      "weight": 9,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-06",
+      "weight": 9,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-07",
+      "weight": 9,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-08",
+      "weight": 9,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-09",
+      "weight": 9,
+      "sources": 1
+    }
+  ],
+  "تشطيب شقه": [
+    {
+      "date": "2026-08-31",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-01",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-02",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-03",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-04",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-05",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-06",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-07",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-08",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-09",
+      "weight": 12,
+      "sources": 2
+    }
+  ],
+  "شقه": [
+    {
+      "date": "2026-08-31",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-01",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-02",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-03",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-04",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-05",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-06",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-07",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-08",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-09",
+      "weight": 12,
+      "sources": 2
+    }
+  ],
+  "شقه 100": [
+    {
+      "date": "2026-08-31",
+      "weight": 8,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-01",
+      "weight": 8,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-02",
+      "weight": 8,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-03",
+      "weight": 8,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-04",
+      "weight": 8,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-05",
+      "weight": 8,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-06",
+      "weight": 8,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-07",
+      "weight": 8,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-08",
+      "weight": 8,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-09",
+      "weight": 8,
+      "sources": 1
+    }
+  ],
+  "100 متر": [
+    {
+      "date": "2026-08-31",
+      "weight": 8,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-01",
+      "weight": 8,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-02",
+      "weight": 8,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-03",
+      "weight": 8,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-04",
+      "weight": 8,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-05",
+      "weight": 8,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-06",
+      "weight": 8,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-07",
+      "weight": 8,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-08",
+      "weight": 8,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-09",
+      "weight": 8,
+      "sources": 1
+    }
+  ],
+  "متر": [
+    {
+      "date": "2026-08-31",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-01",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-02",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-03",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-04",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-05",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-06",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-07",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-08",
+      "weight": 12,
+      "sources": 2
+    },
+    {
+      "date": "2026-09-09",
+      "weight": 12,
+      "sources": 2
+    }
+  ],
+  "الشمالي 2026": [
     {
       "date": "2026-08-31",
       "weight": 8,
@@ -4734,370 +4266,214 @@
   "سعر": [
     {
       "date": "2026-08-31",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-01",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-02",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-03",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-04",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-05",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-06",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-07",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-08",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-09",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     }
   ],
-  "سعر الدولار": [
+  "سعر الحديد": [
     {
       "date": "2026-08-31",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-01",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-02",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-03",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-04",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-05",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-06",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-07",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-08",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-09",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     }
   ],
-  "الدولار": [
+  "الحديد": [
     {
       "date": "2026-08-31",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-01",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-02",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-03",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-04",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-05",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-06",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-07",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-08",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-09",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     }
   ],
-  "الدولار اليوم": [
+  "الحديد اليوم": [
     {
       "date": "2026-08-31",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-01",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-02",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-03",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-04",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-05",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-06",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-07",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-08",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     },
     {
       "date": "2026-09-09",
-      "weight": 8,
+      "weight": 7,
       "sources": 1
     }
   ],
   "اليوم": [
     {
       "date": "2026-08-31",
-      "weight": 8,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 8,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 8,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 8,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 8,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 8,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 8,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 8,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 8,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 8,
-      "sources": 1
-    }
-  ],
-  "تشطيب شقه": [
-    {
-      "date": "2026-08-31",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 11,
-      "sources": 2
-    }
-  ],
-  "شقه": [
-    {
-      "date": "2026-08-31",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 11,
-      "sources": 2
-    }
-  ],
-  "شقه 100": [
-    {
-      "date": "2026-08-31",
       "weight": 7,
       "sources": 1
     },
@@ -5145,110 +4521,6 @@
       "date": "2026-09-09",
       "weight": 7,
       "sources": 1
-    }
-  ],
-  "100 متر": [
-    {
-      "date": "2026-08-31",
-      "weight": 7,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 7,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 7,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 7,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 7,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 7,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 7,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 7,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 7,
-      "sources": 1
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 7,
-      "sources": 1
-    }
-  ],
-  "متر": [
-    {
-      "date": "2026-08-31",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-01",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-02",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-03",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-04",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-05",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-06",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-07",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-08",
-      "weight": 11,
-      "sources": 2
-    },
-    {
-      "date": "2026-09-09",
-      "weight": 11,
-      "sources": 2
     }
   ],
   "فورمولا": [
@@ -5872,6 +5144,162 @@
     {
       "date": "2026-09-09",
       "weight": 7,
+      "sources": 1
+    }
+  ],
+  "ديكورات": [
+    {
+      "date": "2026-08-31",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-01",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-02",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-03",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-04",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-05",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-06",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-07",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-08",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-09",
+      "weight": 6,
+      "sources": 1
+    }
+  ],
+  "ديكورات صغيره": [
+    {
+      "date": "2026-08-31",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-01",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-02",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-03",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-04",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-05",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-06",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-07",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-08",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-09",
+      "weight": 6,
+      "sources": 1
+    }
+  ],
+  "صغيره": [
+    {
+      "date": "2026-08-31",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-01",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-02",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-03",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-04",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-05",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-06",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-07",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-08",
+      "weight": 6,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-09",
+      "weight": 6,
       "sources": 1
     }
   ],

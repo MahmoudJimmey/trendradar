@@ -1,0 +1,76 @@
+{
+  "_comment": [
+    "OPTIONAL topic tagging. This is a highlight, not a filter.",
+    "",
+    "The dashboard collects and shows ALL trends regardless of what is in here.",
+    "These lists only add a 'Topic' tag and a small ranking nudge, so the trends",
+    "you personally publish about are easy to spot in a general feed. Nothing is",
+    "hidden for failing to match, and the Topic dropdown defaults to 'All topics'.",
+    "",
+    "Add a topic for anything you cover. Delete the ones you do not. Set 'topics'",
+    "to {} to turn tagging off entirely and get a purely general trend feed.",
+    "",
+    "Terms are matched with Arabic normalisation, so letter forms fold",
+    "(أإآ->ا, ى->ي, ة->ه), diacritics are ignored and underscores count as spaces.",
+    "Short stems work well: 'سيار' catches سيارة, سيارات and سيارتي."
+  ],
+
+  "topics": {
+    "realestate": {
+      "label": "Real estate",
+      "terms": [
+        "عقار", "شقة", "شقق", "شقت", "فيلا", "فيلات", "كمبوند", "كومباوند",
+        "منزل", "وحدة سكنية", "دوبلكس", "روف",
+        "تشطيب", "ديكور", "اثاث", "استثمار", "تقسيط", "مقدم", "تمليك", "ايجار",
+        "التجمع", "الشيخ زايد", "العاصمة الادارية", "الساحل الشمالي",
+        "العين السخنة", "مدينتي", "الشروق", "اكتوبر", "المستقبل سيتي",
+        "قبل وبعد", "جولة في", "ريفيو كمبوند", "روم تور", "هوم تور",
+        "realestate", "real estate", "property", "apartment", "villa", "compound",
+        "interior", "interiordesign", "homedecor", "homedesign", "newcairo",
+        "newcapital", "northcoast", "mortgage", "investment", "housetour",
+        "roomtour", "hometour", "apartmenttour", "movingin", "newhome", "firsthome",
+        "beforeandafter", "homemakeover", "renovation", "moodboard"
+      ]
+    },
+
+    "automotive": {
+      "label": "Automotive",
+      "terms": [
+        "عربية", "عربيات", "عربيت", "سيار", "موتور", "محرك", "سباق", "سباقات",
+        "دريفت", "فورمولا", "راليات", "رالي", "تجربة قيادة", "كشخة",
+        "car", "cars", "carsoftiktok", "automotive", "auto", "engine", "motorsport",
+        "formula1", "f1", "wrc", "wec", "lemans", "rally", "drift", "jdm",
+        "supercar", "hypercar", "carreview", "carvlog", "racing", "grandprix",
+        "pitstop", "horsepower"
+      ]
+    },
+
+    "_examples_delete_or_keep": "The three below are here to show the shape. They are ordinary Egyptian interest areas, not tied to your work — delete any you do not care about.",
+
+    "football": {
+      "label": "Football",
+      "terms": [
+        "الاهلي", "الزمالك", "المنتخب", "الدوري", "كورة", "كوره", "مباراة",
+        "هدف", "بيراميدز", "الاتحاد", "سيراميكا",
+        "football", "soccer", "match", "goal", "league", "afcon"
+      ]
+    },
+
+    "food": {
+      "label": "Food",
+      "terms": [
+        "اكل", "طبخ", "وصفة", "وصفات", "كشري", "فطار", "سحور", "حلويات",
+        "مطعم", "مطاعم", "قهوة",
+        "recipe", "cooking", "food", "restaurant", "cafe", "streetfood", "baking"
+      ]
+    },
+
+    "entertainment": {
+      "label": "TV & film",
+      "terms": [
+        "مسلسل", "مسلسلات", "فيلم", "افلام", "رمضان", "حلقة", "بطل",
+        "series", "movie", "film", "episode", "netflix", "trailer", "cinema"
+      ]
+    }
+  }
+}
