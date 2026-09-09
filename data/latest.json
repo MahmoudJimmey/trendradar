@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T14:14:15.546Z",
+  "generatedAt": "2026-09-09T14:19:33.256Z",
   "date": "2026-09-09",
   "country": "EG",
   "dateRange": "7DAY",
@@ -34,406 +34,399 @@
       "status": "ok",
       "count": 5,
       "note": "tagging: Real estate, Automotive, Football, Food, TV & film — everything else still collected",
-      "at": "2026-09-09T14:14:06.864Z"
-    },
-    {
-      "source": "reset",
-      "status": "ok",
-      "count": 0,
-      "note": "First real run — discarded the shipped sample history so momentum starts from today",
-      "at": "2026-09-09T14:14:06.867Z"
+      "at": "2026-09-09T14:19:01.425Z"
     },
     {
       "source": "tiktok-hashtags:ALL",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:07.207Z"
-    },
-    {
-      "source": "tiktok-keywords",
-      "status": "error",
-      "count": 0,
-      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:07.211Z"
+      "at": "2026-09-09T14:19:01.847Z"
     },
     {
       "source": "tiktok-sounds:ALL",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:07.213Z"
+      "at": "2026-09-09T14:19:01.851Z"
+    },
+    {
+      "source": "tiktok-keywords",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T14:19:01.904Z"
     },
     {
       "source": "tiktok-hashtags:NEWS_AND_ENTERTAINMENT",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:07.407Z"
+      "at": "2026-09-09T14:19:02.100Z"
     },
     {
       "source": "tiktok-sounds:ARABIC_POP",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:07.415Z"
-    },
-    {
-      "source": "tiktok-hashtags:GAMES",
-      "status": "error",
-      "count": 0,
-      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:07.605Z"
+      "at": "2026-09-09T14:19:02.103Z"
     },
     {
       "source": "tiktok-sounds:POP",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:07.613Z"
+      "at": "2026-09-09T14:19:02.339Z"
     },
     {
-      "source": "tiktok-hashtags:FOOD_AND_BEVERAGE",
+      "source": "tiktok-hashtags:GAMES",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:07.810Z"
+      "at": "2026-09-09T14:19:02.352Z"
     },
     {
       "source": "tiktok-sounds:HIP_HOP_RAP",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:07.831Z"
+      "at": "2026-09-09T14:19:02.594Z"
+    },
+    {
+      "source": "tiktok-hashtags:FOOD_AND_BEVERAGE",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T14:19:02.609Z"
     },
     {
       "source": "tiktok-hashtags:SPORTS_AND_OUTDOOR",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:07.993Z"
+      "at": "2026-09-09T14:19:02.848Z"
     },
     {
       "source": "tiktok-sounds:ELECTRONIC",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:08.035Z"
-    },
-    {
-      "source": "tiktok-hashtags:BEAUTY_AND_PERSONAL_CARE",
-      "status": "error",
-      "count": 0,
-      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:08.182Z"
+      "at": "2026-09-09T14:19:02.852Z"
     },
     {
       "source": "tiktok-sounds:DANCE",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:08.238Z"
+      "at": "2026-09-09T14:19:03.096Z"
     },
     {
-      "source": "tiktok-hashtags:APPAREL_AND_ACCESSORIES",
+      "source": "tiktok-hashtags:BEAUTY_AND_PERSONAL_CARE",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:08.390Z"
+      "at": "2026-09-09T14:19:03.109Z"
     },
     {
       "source": "tiktok-sounds:R_AND_B",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:08.426Z"
+      "at": "2026-09-09T14:19:03.332Z"
     },
     {
-      "source": "tiktok-hashtags:TECH_AND_ELECTRONICS",
+      "source": "tiktok-hashtags:APPAREL_AND_ACCESSORIES",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:08.575Z"
+      "at": "2026-09-09T14:19:03.397Z"
     },
     {
       "source": "tiktok-sounds:ROCK",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:08.620Z"
+      "at": "2026-09-09T14:19:03.583Z"
     },
     {
-      "source": "tiktok-hashtags:EDUCATION",
+      "source": "tiktok-hashtags:TECH_AND_ELECTRONICS",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:08.785Z"
+      "at": "2026-09-09T14:19:03.636Z"
     },
     {
       "source": "tiktok-sounds:LATIN",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:08.805Z"
+      "at": "2026-09-09T14:19:03.822Z"
     },
     {
-      "source": "tiktok-hashtags:HEALTH",
+      "source": "tiktok-hashtags:EDUCATION",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:08.985Z"
+      "at": "2026-09-09T14:19:03.889Z"
     },
     {
       "source": "tiktok-sounds:AFRO-POP",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:08.993Z"
+      "at": "2026-09-09T14:19:04.104Z"
     },
     {
-      "source": "tiktok-hashtags:TRAVEL",
+      "source": "tiktok-hashtags:HEALTH",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:09.169Z"
+      "at": "2026-09-09T14:19:04.139Z"
     },
     {
       "source": "tiktok-sounds:TURKISH_POP",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:09.220Z"
+      "at": "2026-09-09T14:19:04.342Z"
     },
     {
-      "source": "tiktok-hashtags:VEHICLE_AND_TRANSPORTATION",
+      "source": "tiktok-hashtags:TRAVEL",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:09.355Z"
+      "at": "2026-09-09T14:19:04.386Z"
     },
     {
       "source": "tiktok-sounds:CLASSICAL",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:09.484Z"
+      "at": "2026-09-09T14:19:04.616Z"
+    },
+    {
+      "source": "tiktok-hashtags:VEHICLE_AND_TRANSPORTATION",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T14:19:04.628Z"
     },
     {
       "source": "tiktok-hashtags:HOME_IMPROVEMENT",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:09.547Z"
+      "at": "2026-09-09T14:19:04.878Z"
     },
     {
       "source": "tiktok-sounds:JAZZ",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:09.689Z"
+      "at": "2026-09-09T14:19:04.880Z"
     },
     {
       "source": "tiktok-sounds:COUNTRY",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:09.882Z"
-    },
-    {
-      "source": "tiktok-sounds:REGGAE",
-      "status": "error",
-      "count": 0,
-      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:10.089Z"
+      "at": "2026-09-09T14:19:05.116Z"
     },
     {
       "source": "tiktok-hashtags:HOUSEHOLD_PRODUCTS",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:10.114Z"
+      "at": "2026-09-09T14:19:05.160Z"
+    },
+    {
+      "source": "tiktok-sounds:REGGAE",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T14:19:05.361Z"
     },
     {
       "source": "tiktok-hashtags:BABY_KIDS_AND_MATERNITY",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:10.307Z"
-    },
-    {
-      "source": "tiktok-sounds:SOUNDTRACK",
-      "status": "error",
-      "count": 0,
-      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:10.334Z"
+      "at": "2026-09-09T14:19:05.397Z"
     },
     {
       "source": "tiktok-hashtags:PETS",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:10.504Z"
+      "at": "2026-09-09T14:19:05.626Z"
+    },
+    {
+      "source": "tiktok-sounds:SOUNDTRACK",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T14:19:05.629Z"
     },
     {
       "source": "tiktok-hashtags:FINANCIAL_SERVICES",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:10.739Z"
+      "at": "2026-09-09T14:19:05.876Z"
     },
     {
       "source": "tiktok-hashtags:LIFE_SERVICES",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:10.932Z"
+      "at": "2026-09-09T14:19:06.124Z"
     },
     {
       "source": "tiktok-hashtags:BUSINESS_SERVICES",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:11.131Z"
+      "at": "2026-09-09T14:19:06.373Z"
     },
     {
       "source": "google-trends",
       "status": "ok",
       "count": 10,
       "note": "Trending Now RSS, geo=EG",
-      "at": "2026-09-09T14:14:11.589Z"
+      "at": "2026-09-09T14:19:06.870Z"
     },
     {
       "source": "google-trends-api",
       "status": "skipped",
       "count": 0,
       "note": "GOOGLE_TRENDS_API_KEY or TREND_SEED_TERMS not set",
-      "at": "2026-09-09T14:14:11.589Z"
+      "at": "2026-09-09T14:19:06.870Z"
     },
     {
       "source": "apple-music",
       "status": "ok",
       "count": 50,
-      "note": "updated Wed, 9 Sep 2026 14:14:12 +0000",
-      "at": "2026-09-09T14:14:12.459Z"
+      "note": "updated Wed, 9 Sep 2026 14:19:29 +0000",
+      "at": "2026-09-09T14:19:29.801Z"
     },
     {
       "source": "youtube",
       "status": "error",
       "count": 0,
       "note": "HTTP 400 from www.googleapis.com: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"errors\": [\n      {\n        \"message\": \"API key not valid. Please pass a valid API key.\",\n        \"domain\": \"global\",\n        \"reason\": \"b",
-      "at": "2026-09-09T14:14:12.531Z"
+      "at": "2026-09-09T14:19:29.859Z"
     },
     {
       "source": "instagram-audio:music",
       "status": "error",
       "count": 0,
       "note": "Invalid OAuth access token - Cannot parse access token [code 190] — Token is invalid or expired. IG_ACCESS_TOKEN must be a long-lived Page token from FACEBOOK Login — Instagram Login tokens do not work on this endpoint at all.",
-      "at": "2026-09-09T14:14:12.748Z"
+      "at": "2026-09-09T14:19:29.907Z"
     },
     {
       "source": "instagram-audio:original_sound",
       "status": "error",
       "count": 0,
       "note": "Invalid OAuth access token - Cannot parse access token [code 190] — Token is invalid or expired. IG_ACCESS_TOKEN must be a long-lived Page token from FACEBOOK Login — Instagram Login tokens do not work on this endpoint at all.",
-      "at": "2026-09-09T14:14:12.817Z"
+      "at": "2026-09-09T14:19:29.971Z"
     },
     {
       "source": "instagram-panel",
       "status": "error",
       "count": 0,
-      "note": "all 2 accounts failed — HTTP 400 from graph.facebook.com: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AjRoe9ijFxBrmW8ULb_mDFE\"}}",
-      "at": "2026-09-09T14:14:13.072Z"
+      "note": "all 2 accounts failed — HTTP 400 from graph.facebook.com: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AujvBe6CFFuL3ROXhdDZHhY\"}}",
+      "at": "2026-09-09T14:19:30.099Z"
     },
     {
       "source": "tiktok-seed-probe:challenge",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:13.293Z"
+      "at": "2026-09-09T14:19:30.519Z"
     },
     {
       "source": "tiktok-seed-probe:تحدي",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:13.493Z"
+      "at": "2026-09-09T14:19:30.787Z"
     },
     {
       "source": "tiktok-seed-probe:80s",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:13.689Z"
+      "at": "2026-09-09T14:19:31.025Z"
     },
     {
       "source": "tiktok-seed-probe:الثمانينات",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:13.918Z"
+      "at": "2026-09-09T14:19:31.269Z"
     },
     {
       "source": "tiktok-seed-probe:90s",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:14.109Z"
+      "at": "2026-09-09T14:19:31.507Z"
     },
     {
       "source": "tiktok-seed-probe:قبل وبعد",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:14.323Z"
+      "at": "2026-09-09T14:19:31.738Z"
     },
     {
       "source": "tiktok-seed-probe:before after",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:14.518Z"
+      "at": "2026-09-09T14:19:31.973Z"
     },
     {
       "source": "tiktok-seed-probe:transition",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:14.705Z"
+      "at": "2026-09-09T14:19:32.205Z"
     },
     {
       "source": "tiktok-seed-probe:room tour",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:14.934Z"
+      "at": "2026-09-09T14:19:32.443Z"
     },
     {
       "source": "tiktok-seed-probe:روم تور",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:15.126Z"
+      "at": "2026-09-09T14:19:32.757Z"
     },
     {
       "source": "tiktok-seed-probe:pov",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:15.325Z"
+      "at": "2026-09-09T14:19:32.995Z"
     },
     {
       "source": "tiktok-seed-probe:rate my",
       "status": "error",
       "count": 0,
       "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
-      "at": "2026-09-09T14:14:15.519Z"
+      "at": "2026-09-09T14:19:33.233Z"
     },
     {
       "source": "format-detection",
       "status": "ok",
       "count": 3,
       "note": "11 spiking phrases from 37 n-grams",
-      "at": "2026-09-09T14:14:15.545Z"
+      "at": "2026-09-09T14:19:33.256Z"
     }
   ],
   "sections": {
@@ -3767,13 +3760,13 @@
     {
       "key": "igacct:competitor handles",
       "label": "@competitor handles",
-      "error": "HTTP 400 from graph.facebook.com: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AjRoe9ijFxBrmW8ULb_mDFE\"}}",
+      "error": "HTTP 400 from graph.facebook.com: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AujvBe6CFFuL3ROXhdDZHhY\"}}",
       "source": "instagram-business-discovery"
     },
     {
       "key": "igacct:comma-separated",
       "label": "@comma-separated",
-      "error": "HTTP 400 from graph.facebook.com: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"Aj3BhakTcnQlfDxD_RHd6Ph\"}}",
+      "error": "HTTP 400 from graph.facebook.com: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AHqmzNbeM3b0mSpQjL8o7lY\"}}",
       "source": "instagram-business-discovery"
     }
   ],
