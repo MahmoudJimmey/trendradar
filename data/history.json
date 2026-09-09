@@ -693,6 +693,14 @@
         "views": null,
         "posts": null
       }
+    ],
+    "fmt:المقاولون ضد": [
+      {
+        "date": "2026-09-09",
+        "rank": null,
+        "views": null,
+        "posts": null
+      }
     ]
   },
   "keywords": {
@@ -829,7 +837,7 @@
     "gtrend:الأهرام ضد الجونة": [
       {
         "date": "2026-09-09",
-        "rank": 1,
+        "rank": 2,
         "views": 200,
         "posts": null
       }
@@ -837,7 +845,7 @@
     "gtrend:سهم": [
       {
         "date": "2026-09-09",
-        "rank": 2,
+        "rank": 3,
         "views": 100,
         "posts": null
       }
@@ -845,7 +853,7 @@
     "gtrend:محمد رمضان": [
       {
         "date": "2026-09-09",
-        "rank": 3,
+        "rank": 4,
         "views": 200,
         "posts": null
       }
@@ -853,7 +861,7 @@
     "gtrend:راتب": [
       {
         "date": "2026-09-09",
-        "rank": 4,
+        "rank": 5,
         "views": 1000,
         "posts": null
       }
@@ -861,7 +869,7 @@
     "gtrend:أسماء أبو اليزيد": [
       {
         "date": "2026-09-09",
-        "rank": 5,
+        "rank": 6,
         "views": 1000,
         "posts": null
       }
@@ -869,7 +877,7 @@
     "gtrend:لاعب كرة قدم": [
       {
         "date": "2026-09-09",
-        "rank": 6,
+        "rank": 7,
         "views": 500,
         "posts": null
       }
@@ -877,7 +885,7 @@
     "gtrend:navier stokes equation": [
       {
         "date": "2026-09-09",
-        "rank": 7,
+        "rank": 8,
         "views": 100,
         "posts": null
       }
@@ -885,7 +893,7 @@
     "gtrend:صلاة الظهر": [
       {
         "date": "2026-09-09",
-        "rank": 8,
+        "rank": 9,
         "views": 500,
         "posts": null
       }
@@ -893,7 +901,7 @@
     "gtrend:مؤتمر ابل": [
       {
         "date": "2026-09-09",
-        "rank": 9,
+        "rank": 10,
         "views": 1000,
         "posts": null
       }
@@ -903,6 +911,14 @@
         "date": "2026-09-09",
         "rank": 10,
         "views": 1000,
+        "posts": null
+      }
+    ],
+    "gtrend:المقاولون ضد الأهلي": [
+      {
+        "date": "2026-09-09",
+        "rank": 1,
+        "views": 200,
         "posts": null
       }
     ]

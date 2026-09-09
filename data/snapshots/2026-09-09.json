@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T13:35:31.502Z",
+  "generatedAt": "2026-09-09T13:48:40.041Z",
   "date": "2026-09-09",
   "country": "EG",
   "dateRange": "7DAY",
@@ -23,90 +23,237 @@
   },
   "health": [
     {
-      "source": "tiktok-hashtags",
-      "status": "skipped",
+      "source": "tiktok-hashtags:ALL",
+      "status": "error",
       "count": 0,
-      "note": "TIKTOK_ACCESS_TOKEN / TIKTOK_ADVERTISER_ID not set",
-      "at": "2026-09-09T13:35:08.196Z"
-    },
-    {
-      "source": "tiktok-sounds",
-      "status": "skipped",
-      "count": 0,
-      "note": "TIKTOK_ACCOUNT_TOKEN / TIKTOK_BUSINESS_ID not set",
-      "at": "2026-09-09T13:35:08.197Z"
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:12.793Z"
     },
     {
       "source": "tiktok-keywords",
-      "status": "skipped",
+      "status": "error",
       "count": 0,
-      "note": "TIKTOK_ACCOUNT_TOKEN / TIKTOK_BUSINESS_ID not set",
-      "at": "2026-09-09T13:35:08.197Z"
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:12.825Z"
+    },
+    {
+      "source": "tiktok-hashtags:HOME_IMPROVEMENT",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:13.039Z"
+    },
+    {
+      "source": "tiktok-hashtags:FINANCIAL_SERVICES",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:13.280Z"
+    },
+    {
+      "source": "tiktok-sounds:ALL",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:13.340Z"
+    },
+    {
+      "source": "tiktok-hashtags:LIFE_SERVICES",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:13.508Z"
+    },
+    {
+      "source": "tiktok-sounds:ARABIC_POP",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:13.609Z"
+    },
+    {
+      "source": "tiktok-hashtags:VEHICLE_AND_TRANSPORTATION",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:13.731Z"
+    },
+    {
+      "source": "tiktok-sounds:POP",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:13.866Z"
+    },
+    {
+      "source": "tiktok-hashtags:TRAVEL",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:13.955Z"
+    },
+    {
+      "source": "tiktok-sounds:HIP_HOP_RAP",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:14.096Z"
+    },
+    {
+      "source": "tiktok-sounds:ELECTRONIC",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:14.396Z"
     },
     {
       "source": "google-trends",
       "status": "ok",
       "count": 10,
       "note": "Trending Now RSS, geo=EG",
-      "at": "2026-09-09T13:35:08.775Z"
+      "at": "2026-09-09T13:48:14.791Z"
     },
     {
       "source": "google-trends-api",
       "status": "skipped",
       "count": 0,
       "note": "GOOGLE_TRENDS_API_KEY or TREND_SEED_TERMS not set",
-      "at": "2026-09-09T13:35:08.775Z"
+      "at": "2026-09-09T13:48:14.791Z"
     },
     {
       "source": "apple-music",
       "status": "ok",
       "count": 50,
-      "note": "updated Wed, 9 Sep 2026 13:35:31 +0000",
-      "at": "2026-09-09T13:35:31.446Z"
+      "note": "updated Wed, 9 Sep 2026 13:48:36 +0000",
+      "at": "2026-09-09T13:48:36.877Z"
     },
     {
       "source": "youtube",
-      "status": "skipped",
+      "status": "error",
       "count": 0,
-      "note": "YOUTUBE_API_KEY not set",
-      "at": "2026-09-09T13:35:31.446Z"
+      "note": "HTTP 400 from www.googleapis.com: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"errors\": [\n      {\n        \"message\": \"API key not valid. Please pass a valid API key.\",\n        \"domain\": \"global\",\n        \"reason\": \"b",
+      "at": "2026-09-09T13:48:36.920Z"
     },
     {
-      "source": "instagram-audio",
-      "status": "skipped",
+      "source": "instagram-audio:music",
+      "status": "error",
       "count": 0,
-      "note": "IG_ACCESS_TOKEN / IG_USER_ID not set. Note: this needs a FACEBOOK Login token — Instagram Login does not work on /ig_audio.",
-      "at": "2026-09-09T13:35:31.446Z"
+      "note": "Invalid OAuth access token - Cannot parse access token [code 190] — Token is invalid or expired. IG_ACCESS_TOKEN must be a long-lived Page token from FACEBOOK Login — Instagram Login tokens do not work on this endpoint at all.",
+      "at": "2026-09-09T13:48:36.965Z"
+    },
+    {
+      "source": "instagram-audio:original_sound",
+      "status": "error",
+      "count": 0,
+      "note": "Invalid OAuth access token - Cannot parse access token [code 190] — Token is invalid or expired. IG_ACCESS_TOKEN must be a long-lived Page token from FACEBOOK Login — Instagram Login tokens do not work on this endpoint at all.",
+      "at": "2026-09-09T13:48:36.998Z"
     },
     {
       "source": "instagram-panel",
-      "status": "skipped",
+      "status": "ok",
       "count": 0,
-      "note": "IG_COMPETITORS not set",
-      "at": "2026-09-09T13:35:31.446Z"
+      "note": "2 accounts",
+      "at": "2026-09-09T13:48:37.122Z"
     },
     {
-      "source": "tiktok-seed-probe",
-      "status": "skipped",
+      "source": "tiktok-seed-probe:challenge",
+      "status": "error",
       "count": 0,
-      "note": "needs TIKTOK_ACCESS_TOKEN / TIKTOK_ADVERTISER_ID",
-      "at": "2026-09-09T13:35:31.471Z"
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:37.460Z"
+    },
+    {
+      "source": "tiktok-seed-probe:تحدي",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:37.702Z"
+    },
+    {
+      "source": "tiktok-seed-probe:80s",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:37.952Z"
+    },
+    {
+      "source": "tiktok-seed-probe:الثمانينات",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:38.235Z"
+    },
+    {
+      "source": "tiktok-seed-probe:90s",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:38.448Z"
+    },
+    {
+      "source": "tiktok-seed-probe:قبل وبعد",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:38.669Z"
+    },
+    {
+      "source": "tiktok-seed-probe:before after",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:38.901Z"
+    },
+    {
+      "source": "tiktok-seed-probe:transition",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:39.121Z"
+    },
+    {
+      "source": "tiktok-seed-probe:room tour",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:39.364Z"
+    },
+    {
+      "source": "tiktok-seed-probe:روم تور",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:39.582Z"
+    },
+    {
+      "source": "tiktok-seed-probe:pov",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:39.810Z"
+    },
+    {
+      "source": "tiktok-seed-probe:rate my",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-09-09T13:48:40.023Z"
     },
     {
       "source": "format-detection",
       "status": "ok",
       "count": 2,
-      "note": "2 spiking phrases from 31 n-grams",
-      "at": "2026-09-09T13:35:31.502Z"
+      "note": "4 spiking phrases from 34 n-grams",
+      "at": "2026-09-09T13:48:40.041Z"
     }
   ],
   "sections": {
     "formats": [
       {
-        "key": "fmt:الاهرام ضد",
-        "label": "الاهرام ضد",
-        "phrase": "الاهرام ضد",
-        "weight": 10,
+        "key": "fmt:المقاولون ضد",
+        "label": "المقاولون ضد",
+        "phrase": "المقاولون ضد",
+        "weight": 20,
         "baseline": 0,
         "peakBefore": 0,
         "lift": 6,
@@ -129,9 +276,9 @@
         "status": "unseen",
         "examples": [
           {
-            "text": "الأهرام ضد الجونة",
+            "text": "المقاولون ضد الأهلي",
             "source": "searchDemand",
-            "ref": "gtrend:الأهرام ضد الجونة"
+            "ref": "gtrend:المقاولون ضد الأهلي"
           }
         ],
         "isRTL": true,
@@ -141,6 +288,10 @@
           "sounds": [],
           "keywords": [],
           "queries": [
+            {
+              "label": "المقاولون ضد الأهلي",
+              "traffic": "200+"
+            },
             {
               "label": "الأهرام ضد الجونة",
               "traffic": "200+"
@@ -166,6 +317,20 @@
         "verdict": "act-now",
         "variants": [
           {
+            "phrase": "ضد الاهلي",
+            "lift": 6,
+            "sources": [
+              "searchDemand"
+            ]
+          },
+          {
+            "phrase": "الاهرام ضد",
+            "lift": 6,
+            "sources": [
+              "searchDemand"
+            ]
+          },
+          {
             "phrase": "ضد الجونه",
             "lift": 6,
             "sources": [
@@ -173,7 +338,7 @@
             ]
           }
         ],
-        "variantCount": 1
+        "variantCount": 3
       },
       {
         "key": "fmt:expectation vs reality",
@@ -204,6 +369,10 @@
           "sounds": [],
           "keywords": [],
           "queries": [
+            {
+              "label": "المقاولون ضد الأهلي",
+              "traffic": "200+"
+            },
             {
               "label": "الأهرام ضد الجونة",
               "traffic": "200+"
@@ -245,29 +414,29 @@
     "keywords": [],
     "searchDemand": [
       {
-        "key": "gtrend:الأهرام ضد الجونة",
-        "label": "الأهرام ضد الجونة",
+        "key": "gtrend:المقاولون ضد الأهلي",
+        "label": "المقاولون ضد الأهلي",
         "rank": 1,
         "views": 200,
         "posts": null,
         "approxTraffic": "200+",
-        "pubDate": "Wed, 9 Sep 2026 06:20:00 -0700",
-        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSr5_Cl6vyhqvAgEOiT5IXWxelHmwFN_Hly2eJUwaDIgTTmEuZK2xrPWYtpOdY",
+        "pubDate": "Wed, 9 Sep 2026 06:30:00 -0700",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTynKWiTVAQzL7Z6-auiXWRcLgGpDHT55BWx5X_xhrAnAYZ5zMyeh2j9X8kv-Q",
         "why": [
           {
-            "title": "ظهور مصطفى فتحي وغياب أوباما.. تشكيل بيراميدز أمام الجونة في الدوري",
-            "url": "https://www.yallakora.com/egyptian-league/3031/news/565297/%D8%B8%D9%87%D9%88%D8%B1-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D9%81%D8%AA%D8%AD%D9%8A-%D9%88%D8%BA%D9%8A%D8%A7%D8%A8-%D8%A3%D9%88%D8%A8%D8%A7%D9%85%D8%A7-%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%A8%D9%8A%D8%B1%D8%A7%D9%85%D9%8A%D8%AF%D8%B2-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D9%88%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A",
+            "title": "عودة الشناوي وثلاثي أجنبي في الهجوم.. تشكيل الأهلي المتوقع أمام المقاولون العرب",
+            "url": "https://www.yallakora.com/egyptian-league/3031/news/565269/%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D8%B4%D9%86%D8%A7%D9%88%D9%8A-%D9%88%D8%AB%D9%84%D8%A7%D8%AB%D9%8A-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8",
             "source": "يلاكورة"
           },
           {
-            "title": "أين يمكنني مشاهدة مباراة مودرن سبورت ضد وادي دجلة بث مباشر عبر القنوات الرسمية؟",
-            "url": "https://www.akhbarak.net/news/details/49374196/3/%D8%A3%D9%8A%D9%86-%D9%8A%D9%85%D9%83%D9%86%D9%86%D9%8A-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%85%D9%88%D8%AF%D8%B1%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D8%B6%D8%AF-%D9%88%D8%A7%D8%AF%D9%8A-%D8%AF%D8%AC%D9%84%D8%A9-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9",
-            "source": "اخبارك نت"
+            "title": "إمام عاشور وأكرم توفيق يترقبان الظهور الأول مع الأهلي أمام المقاولون",
+            "url": "https://gate.ahram.org.eg/News/5923631.aspx",
+            "source": "بوابة الأهرام"
           },
           {
-            "title": "عبد القادر مهاجما في تشكيل بيراميدز.. وخماسي دفاعي للجونة",
-            "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=09092026&id=8bcd4928-1f3d-4a12-800c-7533bb02483a",
-            "source": "بوابة الشروق"
+            "title": "ماذا يفعل الأهلي مع صافرة محمود بسيوني؟أرقام تكشف فألًا حسنًا للمارد الأحمر",
+            "url": "https://www.youm7.com/story/2026/9/9/%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D9%81%D8%B9%D9%84-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D9%85%D8%B9-%D8%B5%D8%A7%D9%81%D8%B1%D8%A9-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%A8%D8%B3%D9%8A%D9%88%D9%86%D9%8A-%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D8%AA%D9%83%D8%B4%D9%81-%D9%81%D8%A3%D9%84%D9%8B%D8%A7/7540755",
+            "source": "اليوم السابع"
           }
         ],
         "isRTL": true,
@@ -307,29 +476,29 @@
         ]
       },
       {
-        "key": "gtrend:سهم",
-        "label": "سهم",
+        "key": "gtrend:الأهرام ضد الجونة",
+        "label": "الأهرام ضد الجونة",
         "rank": 2,
-        "views": 100,
+        "views": 200,
         "posts": null,
-        "approxTraffic": "100+",
+        "approxTraffic": "200+",
         "pubDate": "Wed, 9 Sep 2026 06:20:00 -0700",
-        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwIdrGqD1tVsx9UxLadnIrFgM0gW1nljYUzGgvc8TvZarm2PFYeCRWF6R2Fb8",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSr5_Cl6vyhqvAgEOiT5IXWxelHmwFN_Hly2eJUwaDIgTTmEuZK2xrPWYtpOdY",
         "why": [
           {
-            "title": "اليوم.. نهاية الحق في توزيع الأسهم المجانية لشركة جراند إنفستمنت",
-            "url": "https://www.mubasher.info/news/4669957/%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%82-%D9%81%D9%8A-%D8%AA%D9%88%D8%B2%D9%8A%D8%B9-%D8%A7%D9%84%D8%A3%D8%B3%D9%87%D9%85-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%B4%D8%B1%D9%83%D8%A9-%D8%AC%D8%B1%D8%A7%D9%86%D8%AF-%D8%A5%D9%86%D9%81%D8%B3%D8%AA%D9%85%D9%86%D8%AA/",
-            "source": "معلومات مباشر"
+            "title": "ظهور مصطفى فتحي وغياب أوباما.. تشكيل بيراميدز أمام الجونة في الدوري",
+            "url": "https://www.yallakora.com/egyptian-league/3031/news/565297/%D8%B8%D9%87%D9%88%D8%B1-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D9%81%D8%AA%D8%AD%D9%8A-%D9%88%D8%BA%D9%8A%D8%A7%D8%A8-%D8%A3%D9%88%D8%A8%D8%A7%D9%85%D8%A7-%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%A8%D9%8A%D8%B1%D8%A7%D9%85%D9%8A%D8%AF%D8%B2-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D9%88%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A",
+            "source": "يلاكورة"
           },
           {
-            "title": "«جراند إنفستمنت» ترفع رأسمالها إلى 52 مليون جنيه وتُدرج 2.6 مليون سهم مجاني",
-            "url": "https://almalnews.com/2134307/%C2%AB%D8%AC%D8%B1%D8%A7%D9%86%D8%AF-%D8%A5%D9%86%D9%81%D8%B3%D8%AA%D9%85%D9%86%D8%AA%C2%BB-%D8%AA%D8%B1%D9%81%D8%B9-%D8%B1%D8%A3%D8%B3%D9%85%D8%A7%D9%84%D9%87%D8%A7-%D8%A5%D9%84%D9%89-52-%D9%85%D9%84%D9%8A%D9%88%D9%86/",
-            "source": "جريدة المال"
+            "title": "أين يمكنني مشاهدة مباراة مودرن سبورت ضد وادي دجلة بث مباشر عبر القنوات الرسمية؟",
+            "url": "https://www.akhbarak.net/news/details/49374196/3/%D8%A3%D9%8A%D9%86-%D9%8A%D9%85%D9%83%D9%86%D9%86%D9%8A-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%85%D9%88%D8%AF%D8%B1%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D8%B6%D8%AF-%D9%88%D8%A7%D8%AF%D9%8A-%D8%AF%D8%AC%D9%84%D8%A9-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9",
+            "source": "اخبارك نت"
           },
           {
-            "title": "اليوم 9 سبتمبر.. نهاية حق الحصول على توزيع الأسهم المجانية لـ \"جراند انفستمنت\"",
-            "url": "https://alboslanews.com/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D9%85%D8%A7%D9%84/%D8%A7%D9%84%D9%8A%D9%88%D9%85-9-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%AD%D9%82-%D8%A7%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D8%AA%D9%88%D8%B2%D9%8A%D8%B9-%D8%A7%D9%84%D8%A3%D8%B3%D9%87%D9%85-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%80-%D8%AC%D8%B1%D8%A7%D9%86%D8%AF-%D8%A7%D9%86%D9%81%D8%B3%D8%AA%D9%85%D9%86%D8%AA-426705",
-            "source": "مجلة البوصلة الاقتصادية"
+            "title": "عبد القادر مهاجما في تشكيل بيراميدز.. وخماسي دفاعي للجونة",
+            "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=09092026&id=8bcd4928-1f3d-4a12-800c-7533bb02483a",
+            "source": "بوابة الشروق"
           }
         ],
         "isRTL": true,
@@ -369,29 +538,29 @@
         ]
       },
       {
-        "key": "gtrend:محمد رمضان",
-        "label": "محمد رمضان",
+        "key": "gtrend:سهم",
+        "label": "سهم",
         "rank": 3,
-        "views": 200,
+        "views": 100,
         "posts": null,
-        "approxTraffic": "200+",
-        "pubDate": "Wed, 9 Sep 2026 04:30:00 -0700",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Ng_SINX5Y1dG70cVQ76VMoMkttvURtYvRnNfJYVU8a5XY76bFBjikvNTwrc",
+        "approxTraffic": "100+",
+        "pubDate": "Wed, 9 Sep 2026 06:20:00 -0700",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXqlBpZddCaeVid7QajUN4uGfo6i55HLhl0BHfUMYcUNfi0DgXrZebNdIl3-g",
         "why": [
           {
-            "title": "حقيقة تعاقد مى عمر على بطولة مسلسل عشماوى.. يعرض رمضان 2027",
-            "url": "https://www.almasryalyoum.com/news/details/4355787",
-            "source": "المصري اليوم"
+            "title": "\"المتاجرة العقارية\" تشتري 600 ألف سهم في \"التجارية\"",
+            "url": "https://www.mubasher.info/news/4670131/-%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AC%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B4%D8%AA%D8%B1%D9%8A-600-%D8%A3%D9%84%D9%81-%D8%B3%D9%87%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-/",
+            "source": "معلومات مباشر"
           },
           {
-            "title": "مي عمر تجتمع مع محمد رمضان في بطولة «عشماوي»",
-            "url": "https://al-ain.com/article/mai-omar-mohamed-ramadan",
-            "source": "العين الإخبارية"
+            "title": "اليوم.. نهاية الحق في توزيع الأسهم المجانية لشركة جراند إنفستمنت",
+            "url": "https://www.mubasher.info/news/4669957/%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%82-%D9%81%D9%8A-%D8%AA%D9%88%D8%B2%D9%8A%D8%B9-%D8%A7%D9%84%D8%A3%D8%B3%D9%87%D9%85-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%B4%D8%B1%D9%83%D8%A9-%D8%AC%D8%B1%D8%A7%D9%86%D8%AF-%D8%A5%D9%86%D9%81%D8%B3%D8%AA%D9%85%D9%86%D8%AA/",
+            "source": "معلومات مباشر"
           },
           {
-            "title": "بعد سنوات من الخلاف.. باسم سمرة ومحمد رمضان وجهًا لوجه في رمضان 2027",
-            "url": "https://www.sayidaty.net/%D9%85%D8%B4%D8%A7%D9%87%D9%8A%D8%B1/%D9%85%D8%B4%D8%A7%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8/1838725-%D8%A8%D8%A7%D8%B3%D9%85-%D8%B3%D9%85%D8%B1%D8%A9-%D9%88%D9%85%D8%AD%D9%85%D8%AF-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-2027",
-            "source": "مجلة سيدتي"
+            "title": "«جراند إنفستمنت» ترفع رأسمالها إلى 52 مليون جنيه وتُدرج 2.6 مليون سهم مجاني",
+            "url": "https://almalnews.com/2134307/%C2%AB%D8%AC%D8%B1%D8%A7%D9%86%D8%AF-%D8%A5%D9%86%D9%81%D8%B3%D8%AA%D9%85%D9%86%D8%AA%C2%BB-%D8%AA%D8%B1%D9%81%D8%B9-%D8%B1%D8%A3%D8%B3%D9%85%D8%A7%D9%84%D9%87%D8%A7-%D8%A5%D9%84%D9%89-52-%D9%85%D9%84%D9%8A%D9%88%D9%86/",
+            "source": "جريدة المال"
           }
         ],
         "isRTL": true,
@@ -431,29 +600,29 @@
         ]
       },
       {
-        "key": "gtrend:راتب",
-        "label": "راتب",
+        "key": "gtrend:محمد رمضان",
+        "label": "محمد رمضان",
         "rank": 4,
-        "views": 1000,
+        "views": 200,
         "posts": null,
-        "approxTraffic": "1000+",
-        "pubDate": "Wed, 9 Sep 2026 04:20:00 -0700",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQoHNyL_ABk2fHzqBNvaVQUDfFd7oOQ3l5HVyYXHzSMtwez4ovQyePRQIkfIQ",
+        "approxTraffic": "200+",
+        "pubDate": "Wed, 9 Sep 2026 04:30:00 -0700",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Ng_SINX5Y1dG70cVQ76VMoMkttvURtYvRnNfJYVU8a5XY76bFBjikvNTwrc",
         "why": [
           {
-            "title": "مليون دولار زيادة على راتب القائد الأعلى أجراً في العالم",
-            "url": "https://www.bbc.com/arabic/articles/c980l1q3j9jo",
-            "source": "BBC"
+            "title": "حقيقة تعاقد مى عمر على بطولة مسلسل عشماوى.. يعرض رمضان 2027",
+            "url": "https://www.almasryalyoum.com/news/details/4355787",
+            "source": "المصري اليوم"
           },
           {
-            "title": "رواتبهم بين الأعلى عالمياً... وزراء دولة آسيوية يحصلون على أول زيادة منذ 15 عاماً",
-            "url": "https://www.alarabiya.net/aswaq/economy/2026/09/09/%D8%B1%D9%88%D8%A7%D8%AA%D8%A8%D9%87%D9%85-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D9%89-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9-%D9%8A%D8%AD%D8%B5%D9%84%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%88%D9%84-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D9%85%D9%86%D8%B0-15-%D8%B9%D8%A7%D9%85%D8%A7-",
-            "source": "العربية"
+            "title": "مي عمر تجتمع مع محمد رمضان في بطولة «عشماوي»",
+            "url": "https://al-ain.com/article/mai-omar-mohamed-ramadan",
+            "source": "العين الإخبارية"
           },
           {
-            "title": "البحيرة - مليون دولار زيادة لأحدهم.. أعلى 5 زعماء دول أجرا في العالم",
-            "url": "https://www.masrawy.com/news/news_publicaffairs/details/2026/9/9/3045537/%D8%A7%D9%84%D8%A8%D8%AD%D9%8A%D8%B1%D8%A9-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D9%84%D8%A3%D8%AD%D8%AF%D9%87%D9%85-%D8%A3%D8%B9%D9%84%D9%89-5-%D8%B2%D8%B9%D9%85%D8%A7%D8%A1-%D8%AF%D9%88%D9%84-%D8%A3%D8%AC%D8%B1%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
-            "source": "Masrawy"
+            "title": "بعد سنوات من الخلاف.. باسم سمرة ومحمد رمضان وجهًا لوجه في رمضان 2027",
+            "url": "https://www.sayidaty.net/%D9%85%D8%B4%D8%A7%D9%87%D9%8A%D8%B1/%D9%85%D8%B4%D8%A7%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8/1838725-%D8%A8%D8%A7%D8%B3%D9%85-%D8%B3%D9%85%D8%B1%D8%A9-%D9%88%D9%85%D8%AD%D9%85%D8%AF-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-2027",
+            "source": "مجلة سيدتي"
           }
         ],
         "isRTL": true,
@@ -493,29 +662,29 @@
         ]
       },
       {
-        "key": "gtrend:أسماء أبو اليزيد",
-        "label": "أسماء أبو اليزيد",
+        "key": "gtrend:راتب",
+        "label": "راتب",
         "rank": 5,
         "views": 1000,
         "posts": null,
         "approxTraffic": "1000+",
-        "pubDate": "Wed, 9 Sep 2026 04:10:00 -0700",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPzfRlSoTPJi6SstAVkHQJHt1INgkDVhtg6MQQW77iA4ihLBlVQPOiLsobY7g",
+        "pubDate": "Wed, 9 Sep 2026 04:20:00 -0700",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQoHNyL_ABk2fHzqBNvaVQUDfFd7oOQ3l5HVyYXHzSMtwez4ovQyePRQIkfIQ",
         "why": [
           {
-            "title": "بعد أيام من ولادة ابنتها أمينة.. أسماء أبو اليزيد تنشر أول صور لطفلتها",
-            "url": "https://www.youm7.com/story/2026/9/9/%D8%A8%D8%B9%D8%AF-%D8%A3%D9%8A%D8%A7%D9%85-%D9%85%D9%86-%D9%88%D9%84%D8%A7%D8%AF%D8%A9-%D8%A7%D8%A8%D9%86%D8%AA%D9%87%D8%A7-%D8%A3%D9%85%D9%8A%D9%86%D8%A9-%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-%D8%A3%D8%A8%D9%88-%D8%A7%D9%84%D9%8A%D8%B2%D9%8A%D8%AF-%D8%AA%D9%86%D8%B4%D8%B1/7540746",
-            "source": "اليوم السابع"
+            "title": "مليون دولار زيادة على راتب القائد الأعلى أجراً في العالم",
+            "url": "https://www.bbc.com/arabic/articles/c980l1q3j9jo",
+            "source": "BBC"
           },
           {
-            "title": "أسماء أبو اليزيد تنشر الصور الأولى لمولودتها أمينة من داخل المستشفى",
-            "url": "https://www.alarabiya.net/culture-and-art/2026/09/09/%D8%A7%D8%B3%D9%85%D8%A7%D8%A1-%D8%A7%D8%A8%D9%88-%D8%A7%D9%84%D9%8A%D8%B2%D9%8A%D8%AF-%D8%AA%D9%86%D8%B4%D8%B1-%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D9%88%D9%84%D9%89-%D9%84%D9%85%D9%88%D9%84%D9%88%D8%AF%D8%AA%D9%87%D8%A7-%D8%A7%D9%85%D9%8A%D9%86%D8%A9-%D9%85%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89",
+            "title": "رواتبهم بين الأعلى عالمياً... وزراء دولة آسيوية يحصلون على أول زيادة منذ 15 عاماً",
+            "url": "https://www.alarabiya.net/aswaq/economy/2026/09/09/%D8%B1%D9%88%D8%A7%D8%AA%D8%A8%D9%87%D9%85-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D9%89-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9-%D9%8A%D8%AD%D8%B5%D9%84%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%88%D9%84-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D9%85%D9%86%D8%B0-15-%D8%B9%D8%A7%D9%85%D8%A7-",
             "source": "العربية"
           },
           {
-            "title": "زوج الممثلة الشهيرة ينشر أول صورة لزوجته وابنته بعد الولادة",
-            "url": "https://www.arabwindow.net/celebrities/129031/%D8%B2%D9%88%D8%AC-%D8%A7%D9%84%D9%85%D9%85%D8%AB%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%87%D9%8A%D8%B1%D8%A9-%D9%8A%D9%86%D8%B4%D8%B1-%D8%A3%D9%88%D9%84-%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D8%B2%D9%88%D8%AC/",
-            "source": "نافذة العرب"
+            "title": "البحيرة - مليون دولار زيادة لأحدهم.. أعلى 5 زعماء دول أجرا في العالم",
+            "url": "https://www.masrawy.com/news/news_publicaffairs/details/2026/9/9/3045537/%D8%A7%D9%84%D8%A8%D8%AD%D9%8A%D8%B1%D8%A9-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D9%84%D8%A3%D8%AD%D8%AF%D9%87%D9%85-%D8%A3%D8%B9%D9%84%D9%89-5-%D8%B2%D8%B9%D9%85%D8%A7%D8%A1-%D8%AF%D9%88%D9%84-%D8%A3%D8%AC%D8%B1%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
+            "source": "Masrawy"
           }
         ],
         "isRTL": true,
@@ -555,29 +724,29 @@
         ]
       },
       {
-        "key": "gtrend:لاعب كرة قدم",
-        "label": "لاعب كرة قدم",
+        "key": "gtrend:أسماء أبو اليزيد",
+        "label": "أسماء أبو اليزيد",
         "rank": 6,
-        "views": 500,
+        "views": 1000,
         "posts": null,
-        "approxTraffic": "500+",
+        "approxTraffic": "1000+",
         "pubDate": "Wed, 9 Sep 2026 04:10:00 -0700",
-        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgeUAkJMlKir5veHN539kSzV3PqJz6Go3nOPVJuhaKjHIkkswicFuUVAblzuM",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPzfRlSoTPJi6SstAVkHQJHt1INgkDVhtg6MQQW77iA4ihLBlVQPOiLsobY7g",
         "why": [
           {
-            "title": "وفاة لاعبي كرة قدم غرقاً خلال معسكر رياضي في مصر",
-            "url": "https://www.alarabiya.net/arab-and-world/egypt/2026/09/09/%D9%88%D9%81%D8%A7%D8%A9-%D9%84%D8%A7%D8%B9%D8%A8%D9%8A-%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D8%BA%D8%B1%D9%82%D8%A7-%D8%AE%D9%84%D8%A7%D9%84-%D9%85%D8%B9%D8%B3%D9%83%D8%B1-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1",
-            "source": "العربية"
-          },
-          {
-            "title": "أول تعليق من نادى طلخا بعد مصرع لاعبين غرقا.. ويوقف الأنشطة 3 أيام حدادا",
-            "url": "https://www.youm7.com/story/2026/9/9/%D8%A3%D9%88%D9%84-%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D9%85%D9%86-%D9%86%D8%A7%D8%AF%D9%89-%D8%B7%D9%84%D8%AE%D8%A7-%D8%A8%D8%B9%D8%AF-%D9%85%D8%B5%D8%B1%D8%B9-%D9%84%D8%A7%D8%B9%D8%A8%D9%8A%D9%86-%D8%BA%D8%B1%D9%82%D8%A7-%D9%88%D9%8A%D9%88%D9%82%D9%81/7540691",
+            "title": "بعد أيام من ولادة ابنتها أمينة.. أسماء أبو اليزيد تنشر أول صور لطفلتها",
+            "url": "https://www.youm7.com/story/2026/9/9/%D8%A8%D8%B9%D8%AF-%D8%A3%D9%8A%D8%A7%D9%85-%D9%85%D9%86-%D9%88%D9%84%D8%A7%D8%AF%D8%A9-%D8%A7%D8%A8%D9%86%D8%AA%D9%87%D8%A7-%D8%A3%D9%85%D9%8A%D9%86%D8%A9-%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-%D8%A3%D8%A8%D9%88-%D8%A7%D9%84%D9%8A%D8%B2%D9%8A%D8%AF-%D8%AA%D9%86%D8%B4%D8%B1/7540746",
             "source": "اليوم السابع"
           },
           {
-            "title": "تفاصيل مأساوية لغـ.ـرق لاعبين من فريق طلخا في جمصة.. مدرب الفريق يكشف كواليس الواقعة",
-            "url": "https://www.elbalad.news/7100795",
+            "title": "«أمينة» أجمل نعمة .. أسماء أبو اليزيد تشارك صورًا مع مولودتها داخل المستشفى",
+            "url": "https://www.elbalad.news/7100784",
             "source": "صدى البلد"
+          },
+          {
+            "title": "أسماء أبو اليزيد تنشر الصور الأولى لمولودتها أمينة من داخل المستشفى",
+            "url": "https://www.alarabiya.net/culture-and-art/2026/09/09/%D8%A7%D8%B3%D9%85%D8%A7%D8%A1-%D8%A7%D8%A8%D9%88-%D8%A7%D9%84%D9%8A%D8%B2%D9%8A%D8%AF-%D8%AA%D9%86%D8%B4%D8%B1-%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D9%88%D9%84%D9%89-%D9%84%D9%85%D9%88%D9%84%D9%88%D8%AF%D8%AA%D9%87%D8%A7-%D8%A7%D9%85%D9%8A%D9%86%D8%A9-%D9%85%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89",
+            "source": "العربية"
           }
         ],
         "isRTL": true,
@@ -617,32 +786,32 @@
         ]
       },
       {
-        "key": "gtrend:navier stokes equation",
-        "label": "navier stokes equation",
+        "key": "gtrend:لاعب كرة قدم",
+        "label": "لاعب كرة قدم",
         "rank": 7,
-        "views": 100,
+        "views": 500,
         "posts": null,
-        "approxTraffic": "100+",
-        "pubDate": "Wed, 9 Sep 2026 02:50:00 -0700",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNRroCBb2WWsQ_8V3fmReT5LpPPQHQbJ4ihGodZQeWjM0NOoMh-BIxDL61z9k",
+        "approxTraffic": "500+",
+        "pubDate": "Wed, 9 Sep 2026 04:10:00 -0700",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgeUAkJMlKir5veHN539kSzV3PqJz6Go3nOPVJuhaKjHIkkswicFuUVAblzuM",
         "why": [
           {
-            "title": "On the Navier–Stokes Millennium Prize Problem",
-            "url": "https://openai.com/index/navier-stokes-solution/",
-            "source": "OpenAI"
+            "title": "وفاة لاعبي كرة قدم غرقاً خلال معسكر رياضي في مصر",
+            "url": "https://www.alarabiya.net/arab-and-world/egypt/2026/09/09/%D9%88%D9%81%D8%A7%D8%A9-%D9%84%D8%A7%D8%B9%D8%A8%D9%8A-%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D8%BA%D8%B1%D9%82%D8%A7-%D8%AE%D9%84%D8%A7%D9%84-%D9%85%D8%B9%D8%B3%D9%83%D8%B1-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1",
+            "source": "العربية"
           },
           {
-            "title": "AI Has Solved One of Math’s $1 Million Millennium Prize Problems",
-            "url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
-            "source": "Quanta Magazine"
+            "title": "أول تعليق من نادى طلخا بعد مصرع لاعبين غرقا.. ويوقف الأنشطة 3 أيام حدادا",
+            "url": "https://www.youm7.com/story/2026/9/9/%D8%A3%D9%88%D9%84-%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D9%85%D9%86-%D9%86%D8%A7%D8%AF%D9%89-%D8%B7%D9%84%D8%AE%D8%A7-%D8%A8%D8%B9%D8%AF-%D9%85%D8%B5%D8%B1%D8%B9-%D9%84%D8%A7%D8%B9%D8%A8%D9%8A%D9%86-%D8%BA%D8%B1%D9%82%D8%A7-%D9%88%D9%8A%D9%88%D9%82%D9%81/7540691",
+            "source": "اليوم السابع"
           },
           {
-            "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-            "url": "https://www.bbc.com/news/articles/cy7zygy3rl2o",
-            "source": "BBC"
+            "title": "رئيس نادي طلخا: اللاعبان المتوفيان في واقعة جمصة غير مدرجين على السيستم",
+            "url": "https://gate.ahram.org.eg/News/5923773.aspx",
+            "source": "بوابة الأهرام"
           }
         ],
-        "isRTL": false,
+        "isRTL": true,
         "source": "google-trends",
         "commercialSafe": true,
         "firstSeen": "2026-09-09",
@@ -679,32 +848,32 @@
         ]
       },
       {
-        "key": "gtrend:صلاة الظهر",
-        "label": "صلاة الظهر",
+        "key": "gtrend:navier stokes equation",
+        "label": "navier stokes equation",
         "rank": 8,
-        "views": 500,
+        "views": 100,
         "posts": null,
-        "approxTraffic": "500+",
+        "approxTraffic": "100+",
         "pubDate": "Wed, 9 Sep 2026 02:50:00 -0700",
-        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSr_TMSlwr1-waq7pIC0jCJUpir9dSZsf_BgOsO20HZO_S4Wl0COBMVx6iG6aU",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNRroCBb2WWsQ_8V3fmReT5LpPPQHQbJ4ihGodZQeWjM0NOoMh-BIxDL61z9k",
         "why": [
           {
-            "title": "مواقيت الصلاة اليوم الأربعاء، موعد أذان الظهر في القاهرة والمحافظات",
-            "url": "https://www.vetogate.com/5722059",
-            "source": "فيتو"
+            "title": "On the Navier–Stokes Millennium Prize Problem",
+            "url": "https://openai.com/index/navier-stokes-solution/",
+            "source": "OpenAI"
           },
           {
-            "title": "مواقيت الصلاة اليوم الأربعاء 9 سبتمبر 2026 في القاهرة والمحافظات",
-            "url": "https://gate.ahram.org.eg/News/5919603.aspx",
-            "source": "بوابة الأهرام"
+            "title": "AI Has Solved One of Math’s $1 Million Millennium Prize Problems",
+            "url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+            "source": "Quanta Magazine"
           },
           {
-            "title": "العشاء «8:27 مساء».. تعرف على مواقيت الصلاة اليوم الاثنين بمحافظة بورسعيد",
-            "url": "https://www.almasryalyoum.com/news/details/4354280",
-            "source": "المصري اليوم"
+            "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+            "url": "https://www.bbc.com/news/articles/cy7zygy3rl2o",
+            "source": "BBC"
           }
         ],
-        "isRTL": true,
+        "isRTL": false,
         "source": "google-trends",
         "commercialSafe": true,
         "firstSeen": "2026-09-09",
@@ -741,29 +910,29 @@
         ]
       },
       {
-        "key": "gtrend:مؤتمر ابل",
-        "label": "مؤتمر ابل",
+        "key": "gtrend:صلاة الظهر",
+        "label": "صلاة الظهر",
         "rank": 9,
-        "views": 1000,
+        "views": 500,
         "posts": null,
-        "approxTraffic": "1000+",
-        "pubDate": "Wed, 9 Sep 2026 02:10:00 -0700",
-        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSU7O5UAyU8hCfGWdJNc5A0EzvscxQ8ckPLAcIRswf7_I0xUae70INuLeG2HhA",
+        "approxTraffic": "500+",
+        "pubDate": "Wed, 9 Sep 2026 02:50:00 -0700",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSr_TMSlwr1-waq7pIC0jCJUpir9dSZsf_BgOsO20HZO_S4Wl0COBMVx6iG6aU",
         "why": [
           {
-            "title": "ليس آيفون الذي اعتدناه.. تغيير تاريخي مرتقب من أبل",
-            "url": "https://www.skynewsarabia.com/technology/1890902-%D9%84%D9%8A%D8%B3-%D8%A2%D9%8A%D9%81%D9%88%D9%86-%D8%A7%D8%B9%D8%AA%D8%AF%D9%86%D8%A7%D9%87-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D9%85%D8%B1%D8%AA%D9%82%D8%A8-%D8%A3%D8%A8%D9%84",
-            "source": "سكاي نيوز عربية"
+            "title": "مواقيت الصلاة اليوم الأربعاء، موعد أذان الظهر في القاهرة والمحافظات",
+            "url": "https://www.vetogate.com/5722059",
+            "source": "فيتو"
           },
           {
-            "title": "قبل مؤتمر أبل بساعات.. تسريب يكشف أسعار iPhone 18 Pro",
-            "url": "https://www.alarabiya.net/technology/smart-phones/2026/09/09/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1-%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D8%A7%D9%8A%D9%81%D9%88%D9%86-18-%D8%A8%D8%B1%D9%88-%D9%82%D8%A8%D9%84-%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA-%D9%85%D9%86-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D8%A8%D9%84-2026",
-            "source": "العربية"
+            "title": "مواقيت الصلاة اليوم الأربعاء 9 سبتمبر 2026 في القاهرة والمحافظات",
+            "url": "https://gate.ahram.org.eg/News/5919603.aspx",
+            "source": "بوابة الأهرام"
           },
           {
-            "title": "آيفون Duo القابل للطى قد يحصل على ميزة مفاجئة.. دعم Apple Pencil يقترب",
-            "url": "https://www.youm7.com/story/2026/9/9/%D8%A2%D9%8A%D9%81%D9%88%D9%86-Duo-%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D9%84-%D9%84%D9%84%D8%B7%D9%89-%D9%82%D8%AF-%D9%8A%D8%AD%D8%B5%D9%84-%D8%B9%D9%84%D9%89-%D9%85%D9%8A%D8%B2%D8%A9-%D9%85%D9%81%D8%A7%D8%AC%D8%A6%D8%A9-%D8%AF%D8%B9%D9%85/7540852",
-            "source": "اليوم السابع"
+            "title": "العشاء «8:27 مساء».. تعرف على مواقيت الصلاة اليوم الاثنين بمحافظة بورسعيد",
+            "url": "https://www.almasryalyoum.com/news/details/4354280",
+            "source": "المصري اليوم"
           }
         ],
         "isRTL": true,
@@ -803,29 +972,29 @@
         ]
       },
       {
-        "key": "gtrend:إيران",
-        "label": "إيران",
+        "key": "gtrend:مؤتمر ابل",
+        "label": "مؤتمر ابل",
         "rank": 10,
         "views": 1000,
         "posts": null,
         "approxTraffic": "1000+",
-        "pubDate": "Wed, 9 Sep 2026 02:00:00 -0700",
-        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrTcjr4y7ECbYCdDyBIkuR4A61so0lGKJZZGCYsHYgrlE9rAR8ocrDM-OyyW4",
+        "pubDate": "Wed, 9 Sep 2026 02:10:00 -0700",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSU7O5UAyU8hCfGWdJNc5A0EzvscxQ8ckPLAcIRswf7_I0xUae70INuLeG2HhA",
         "why": [
           {
-            "title": "سنتكوم تنفي رواية الحرس الثوري بشأن \"مدمرتين أميركيتين\"",
-            "url": "https://www.skynewsarabia.com/world/1890903-%D8%B3%D9%86%D8%AA%D9%83%D9%88%D9%85-%D8%AA%D9%86%D9%81%D9%8A-%D8%B1%D9%88%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D8%AF%D9%85%D8%B1%D8%AA%D9%8A%D9%86-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%AA%D9%8A%D9%86",
+            "title": "ليس آيفون الذي اعتدناه.. تغيير تاريخي مرتقب من أبل",
+            "url": "https://www.skynewsarabia.com/technology/1890902-%D9%84%D9%8A%D8%B3-%D8%A2%D9%8A%D9%81%D9%88%D9%86-%D8%A7%D8%B9%D8%AA%D8%AF%D9%86%D8%A7%D9%87-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D9%85%D8%B1%D8%AA%D9%82%D8%A8-%D8%A3%D8%A8%D9%84",
             "source": "سكاي نيوز عربية"
           },
           {
-            "title": "الحرس الثورى يستهدف سفينتين أمريكيتين ردا على تدمير 5 ناقلات نفط إيرانية",
-            "url": "https://www.youm7.com/story/2026/9/9/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%89-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%B3%D9%81%D9%8A%D9%86%D8%AA%D9%8A%D9%86-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%AA%D9%8A%D9%86-%D8%B1%D8%AF%D8%A7-%D8%B9%D9%84%D9%89-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-5-%D9%86%D8%A7%D9%82%D9%84%D8%A7%D8%AA/7540575",
-            "source": "اليوم السابع"
+            "title": "قبل مؤتمر أبل بساعات.. تسريب يكشف أسعار iPhone 18 Pro",
+            "url": "https://www.alarabiya.net/technology/smart-phones/2026/09/09/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1-%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D8%A7%D9%8A%D9%81%D9%88%D9%86-18-%D8%A8%D8%B1%D9%88-%D9%82%D8%A8%D9%84-%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA-%D9%85%D9%86-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D8%A8%D9%84-2026",
+            "source": "العربية"
           },
           {
-            "title": "واشنطن تنفي استهداف سفنها وتؤكد تدمير 10 ناقلات إيرانية",
-            "url": "https://www.mubasher.info/news/4670081/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D9%86%D9%81%D9%8A-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%B3%D9%81%D9%86%D9%87%D8%A7-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-10-%D9%86%D8%A7%D9%82%D9%84%D8%A7%D8%AA-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9/",
-            "source": "معلومات مباشر"
+            "title": "آيفون Duo القابل للطى قد يحصل على ميزة مفاجئة.. دعم Apple Pencil يقترب",
+            "url": "https://www.youm7.com/story/2026/9/9/%D8%A2%D9%8A%D9%81%D9%88%D9%86-Duo-%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D9%84-%D9%84%D9%84%D8%B7%D9%89-%D9%82%D8%AF-%D9%8A%D8%AD%D8%B5%D9%84-%D8%B9%D9%84%D9%89-%D9%85%D9%8A%D8%B2%D8%A9-%D9%85%D9%81%D8%A7%D8%AC%D8%A6%D8%A9-%D8%AF%D8%B9%D9%85/7540852",
+            "source": "اليوم السابع"
           }
         ],
         "isRTL": true,
@@ -3315,7 +3484,20 @@
       }
     ]
   },
-  "competitorPanel": [],
+  "competitorPanel": [
+    {
+      "key": "igacct:competitor handles",
+      "label": "@competitor handles",
+      "error": "HTTP 400 from graph.facebook.com: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"ApsXovfI54Epv_7BGbHmRp_\"}}",
+      "source": "instagram-business-discovery"
+    },
+    {
+      "key": "igacct:comma-separated",
+      "label": "@comma-separated",
+      "error": "HTTP 400 from graph.facebook.com: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AyrF1L3UTYaUINGAUaK2zdC\"}}",
+      "source": "instagram-business-discovery"
+    }
+  ],
   "notes": {
     "hashtagVideoGeo": "TikTok limits hashtag video lookups to the hashtag's own top-5 countries, so example videos may come from another market. Each example records countryUsed.",
     "instagram": "Instagram publishes no trending-audio metrics and no country filter, and media objects carry no audio field. IG rows are unranked names; use the manual log for Instagram.",
