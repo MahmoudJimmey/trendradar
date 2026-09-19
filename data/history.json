@@ -105,6 +105,14 @@
         "views": null,
         "posts": null
       }
+    ],
+    "fmt:افلام مصريه": [
+      {
+        "date": "2026-09-19",
+        "rank": null,
+        "views": null,
+        "posts": null
+      }
     ]
   },
   "keywords": {},
@@ -561,6 +569,12 @@
         "rank": 6,
         "views": 200,
         "posts": null
+      },
+      {
+        "date": "2026-09-19",
+        "rank": 10,
+        "views": 200,
+        "posts": null
       }
     ],
     "gtrend:تحديث ios 27": [
@@ -582,6 +596,12 @@
         "date": "2026-09-17",
         "rank": 7,
         "views": 100,
+        "posts": null
+      },
+      {
+        "date": "2026-09-19",
+        "rank": 8,
+        "views": 200,
         "posts": null
       }
     ],
@@ -819,6 +839,70 @@
       {
         "date": "2026-09-18",
         "rank": 10,
+        "views": 500,
+        "posts": null
+      }
+    ],
+    "gtrend:افلام مصرية": [
+      {
+        "date": "2026-09-19",
+        "rank": 1,
+        "views": 100,
+        "posts": null
+      }
+    ],
+    "gtrend:مصر الرقمية": [
+      {
+        "date": "2026-09-19",
+        "rank": 2,
+        "views": 100,
+        "posts": null
+      }
+    ],
+    "gtrend:القران الكريم": [
+      {
+        "date": "2026-09-19",
+        "rank": 3,
+        "views": 100,
+        "posts": null
+      }
+    ],
+    "gtrend:قران كريم": [
+      {
+        "date": "2026-09-19",
+        "rank": 4,
+        "views": 100,
+        "posts": null
+      }
+    ],
+    "gtrend:ناصر ماهر": [
+      {
+        "date": "2026-09-19",
+        "rank": 5,
+        "views": 100,
+        "posts": null
+      }
+    ],
+    "gtrend:f": [
+      {
+        "date": "2026-09-19",
+        "rank": 6,
+        "views": 100,
+        "posts": null
+      }
+    ],
+    "gtrend:مصرف": [
+      {
+        "date": "2026-09-19",
+        "rank": 7,
+        "views": 200,
+        "posts": null
+      }
+    ],
+    "gtrend:تيك توك": [
+      {
+        "date": "2026-09-19",
+        "rank": 9,
         "views": 500,
         "posts": null
       }
