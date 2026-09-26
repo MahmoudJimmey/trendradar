@@ -580,6 +580,11 @@
       "date": "2026-09-14",
       "weight": 4,
       "sources": 1
+    },
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
     }
   ],
   "احمد السعدني": [
@@ -686,6 +691,11 @@
     },
     {
       "date": "2026-09-25",
+      "weight": 4,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-26",
       "weight": 4,
       "sources": 1
     }
@@ -900,6 +910,11 @@
       "date": "2026-09-22",
       "weight": 14,
       "sources": 1
+    },
+    {
+      "date": "2026-09-26",
+      "weight": 4,
+      "sources": 1
     }
   ],
   "سعر الصرف": [
@@ -1065,6 +1080,11 @@
       "date": "2026-09-23",
       "weight": 7,
       "sources": 1
+    },
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
     }
   ],
   "التوقيت الشتوي": [
@@ -1077,6 +1097,11 @@
       "date": "2026-09-23",
       "weight": 7,
       "sources": 1
+    },
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
     }
   ],
   "الشتوي": [
@@ -1087,6 +1112,11 @@
     },
     {
       "date": "2026-09-23",
+      "weight": 7,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-26",
       "weight": 7,
       "sources": 1
     }
@@ -1355,6 +1385,11 @@
       "date": "2026-09-16",
       "weight": 4,
       "sources": 1
+    },
+    {
+      "date": "2026-09-26",
+      "weight": 5,
+      "sources": 1
     }
   ],
   "محمود الخطيب": [
@@ -1564,6 +1599,11 @@
     {
       "date": "2026-09-22",
       "weight": 5,
+      "sources": 1
+    },
+    {
+      "date": "2026-09-26",
+      "weight": 7,
       "sources": 1
     }
   ],
@@ -3197,6 +3237,202 @@
   "خبر": [
     {
       "date": "2026-09-25",
+      "weight": 7,
+      "sources": 1
+    }
+  ],
+  "اثيوبيا": [
+    {
+      "date": "2026-09-26",
+      "weight": 5,
+      "sources": 1
+    }
+  ],
+  "الدولار مقابل": [
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
+    }
+  ],
+  "مقابل": [
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
+    }
+  ],
+  "مقابل الجنيه": [
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
+    }
+  ],
+  "الجنيه": [
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
+    }
+  ],
+  "احمد الزند": [
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
+    }
+  ],
+  "الزند": [
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
+    }
+  ],
+  "manchester": [
+    {
+      "date": "2026-09-26",
+      "weight": 4,
+      "sources": 1
+    }
+  ],
+  "manchester city": [
+    {
+      "date": "2026-09-26",
+      "weight": 4,
+      "sources": 1
+    }
+  ],
+  "city": [
+    {
+      "date": "2026-09-26",
+      "weight": 4,
+      "sources": 1
+    }
+  ],
+  "مسلسل": [
+    {
+      "date": "2026-09-26",
+      "weight": 6,
+      "sources": 1
+    }
+  ],
+  "مسلسل القصه": [
+    {
+      "date": "2026-09-26",
+      "weight": 6,
+      "sources": 1
+    }
+  ],
+  "القصه": [
+    {
+      "date": "2026-09-26",
+      "weight": 6,
+      "sources": 1
+    }
+  ],
+  "القصه الكامله": [
+    {
+      "date": "2026-09-26",
+      "weight": 6,
+      "sources": 1
+    }
+  ],
+  "الكامله": [
+    {
+      "date": "2026-09-26",
+      "weight": 6,
+      "sources": 1
+    }
+  ],
+  "turkey": [
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
+    }
+  ],
+  "turkey national": [
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
+    }
+  ],
+  "national": [
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
+    }
+  ],
+  "national football": [
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
+    }
+  ],
+  "football": [
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
+    }
+  ],
+  "football team": [
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
+    }
+  ],
+  "team": [
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
+    }
+  ],
+  "team vs": [
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
+    }
+  ],
+  "vs france": [
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
+    }
+  ],
+  "france": [
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
+    }
+  ],
+  "france national": [
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
+    }
+  ],
+  "team standings": [
+    {
+      "date": "2026-09-26",
+      "weight": 7,
+      "sources": 1
+    }
+  ],
+  "standings": [
+    {
+      "date": "2026-09-26",
       "weight": 7,
       "sources": 1
     }
