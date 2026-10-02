@@ -144,6 +144,12 @@
         "rank": null,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": null,
+        "views": null,
+        "posts": null
       }
     ],
     "fmt:منتخب انغولا": [
@@ -539,6 +545,12 @@
         "rank": 5,
         "views": 100,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 6,
+        "views": 200,
+        "posts": null
       }
     ],
     "gtrend:ولي عهد": [
@@ -804,6 +816,12 @@
       },
       {
         "date": "2026-09-24",
+        "rank": 5,
+        "views": 100,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
         "rank": 5,
         "views": 100,
         "posts": null
@@ -1417,6 +1435,12 @@
         "rank": 7,
         "views": 2000,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 9,
+        "views": 10000,
+        "posts": null
       }
     ],
     "gtrend:ريال مدريد للسيدات ضد باريس سان جيرمان للسيدات": [
@@ -1448,6 +1472,12 @@
         "date": "2026-09-24",
         "rank": 1,
         "views": 200,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 7,
+        "views": 5000,
         "posts": null
       }
     ],
@@ -1503,6 +1533,12 @@
         "rank": 8,
         "views": 2000,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 4,
+        "views": 2000,
+        "posts": null
       }
     ],
     "gtrend:المصري اليوم": [
@@ -1538,6 +1574,12 @@
         "date": "2026-09-29",
         "rank": 4,
         "views": 5000,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 3,
+        "views": 20000,
         "posts": null
       }
     ],
@@ -1620,6 +1662,12 @@
         "date": "2026-09-26",
         "rank": 1,
         "views": 200,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 10,
+        "views": 10000,
         "posts": null
       }
     ],
@@ -1998,6 +2046,30 @@
         "views": 20000,
         "posts": null
       }
+    ],
+    "gtrend:south korea vs venezuela": [
+      {
+        "date": "2026-10-02",
+        "rank": 1,
+        "views": 200,
+        "posts": null
+      }
+    ],
+    "gtrend:بحر": [
+      {
+        "date": "2026-10-02",
+        "rank": 2,
+        "views": 200,
+        "posts": null
+      }
+    ],
+    "gtrend:صابرين": [
+      {
+        "date": "2026-10-02",
+        "rank": 8,
+        "views": 200,
+        "posts": null
+      }
     ]
   },
   "rising": {},
@@ -2129,6 +2201,12 @@
         "rank": 1,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 3,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6797577235": [
@@ -2254,6 +2332,12 @@
       },
       {
         "date": "2026-10-01",
+        "rank": 6,
+        "views": null,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
         "rank": 6,
         "views": null,
         "posts": null
@@ -2385,6 +2469,12 @@
         "rank": 7,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 9,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6783339191": [
@@ -2510,6 +2600,12 @@
       },
       {
         "date": "2026-10-01",
+        "rank": 11,
+        "views": null,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
         "rank": 11,
         "views": null,
         "posts": null
@@ -2641,6 +2737,12 @@
         "rank": 16,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 16,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6799391413": [
@@ -2767,6 +2869,12 @@
       {
         "date": "2026-10-01",
         "rank": 8,
+        "views": null,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 7,
         "views": null,
         "posts": null
       }
@@ -2897,6 +3005,12 @@
         "rank": 19,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 20,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6796409260": [
@@ -3023,6 +3137,12 @@
       {
         "date": "2026-10-01",
         "rank": 27,
+        "views": null,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 26,
         "views": null,
         "posts": null
       }
@@ -3153,6 +3273,12 @@
         "rank": 10,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 8,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6796409444": [
@@ -3279,6 +3405,12 @@
       {
         "date": "2026-10-01",
         "rank": 25,
+        "views": null,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 28,
         "views": null,
         "posts": null
       }
@@ -3409,6 +3541,12 @@
         "rank": 29,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 30,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6797576803": [
@@ -3537,6 +3675,12 @@
         "rank": 31,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 32,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6771734686": [
@@ -3662,6 +3806,12 @@
       },
       {
         "date": "2026-10-01",
+        "rank": 15,
+        "views": null,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
         "rank": 15,
         "views": null,
         "posts": null
@@ -3793,6 +3943,12 @@
         "rank": 13,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 13,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6797577228": [
@@ -3921,6 +4077,12 @@
         "rank": 34,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 36,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6781349378": [
@@ -4046,6 +4208,12 @@
       },
       {
         "date": "2026-10-01",
+        "rank": 14,
+        "views": null,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
         "rank": 14,
         "views": null,
         "posts": null
@@ -4177,6 +4345,12 @@
         "rank": 21,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 17,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6793040769": [
@@ -4303,6 +4477,12 @@
       {
         "date": "2026-10-01",
         "rank": 30,
+        "views": null,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 29,
         "views": null,
         "posts": null
       }
@@ -4433,6 +4613,12 @@
         "rank": 22,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 21,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6793040764": [
@@ -4561,6 +4747,12 @@
         "rank": 33,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 31,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6803568785": [
@@ -4687,6 +4879,12 @@
       {
         "date": "2026-10-01",
         "rank": 18,
+        "views": null,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 19,
         "views": null,
         "posts": null
       }
@@ -4909,6 +5107,12 @@
         "rank": 28,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 27,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:1877135052": [
@@ -5035,6 +5239,12 @@
       {
         "date": "2026-10-01",
         "rank": 26,
+        "views": null,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 25,
         "views": null,
         "posts": null
       }
@@ -5165,6 +5375,12 @@
         "rank": 41,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 39,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:582048008": [
@@ -5293,6 +5509,12 @@
         "rank": 23,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 23,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:1867566024": [
@@ -5418,6 +5640,12 @@
       },
       {
         "date": "2026-10-01",
+        "rank": 24,
+        "views": null,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
         "rank": 24,
         "views": null,
         "posts": null
@@ -5769,6 +5997,12 @@
         "rank": 43,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 44,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6795519311": [
@@ -5894,6 +6128,12 @@
       },
       {
         "date": "2026-10-01",
+        "rank": 2,
+        "views": null,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
         "rank": 2,
         "views": null,
         "posts": null
@@ -6117,6 +6357,12 @@
         "rank": 38,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 37,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6792757021": [
@@ -6243,6 +6489,12 @@
       {
         "date": "2026-10-01",
         "rank": 20,
+        "views": null,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 18,
         "views": null,
         "posts": null
       }
@@ -6373,6 +6625,12 @@
         "rank": 35,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 33,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:1894301836": [
@@ -6499,6 +6757,12 @@
       {
         "date": "2026-10-01",
         "rank": 42,
+        "views": null,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 38,
         "views": null,
         "posts": null
       }
@@ -6629,6 +6893,12 @@
         "rank": 37,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 41,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6792757014": [
@@ -6757,6 +7027,12 @@
         "rank": 36,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 35,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6780180026": [
@@ -6883,6 +7159,12 @@
       {
         "date": "2026-10-01",
         "rank": 40,
+        "views": null,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 42,
         "views": null,
         "posts": null
       }
@@ -7077,6 +7359,12 @@
         "rank": 46,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 46,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:1798985627": [
@@ -7213,6 +7501,12 @@
         "rank": 5,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 5,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:1825148913": [
@@ -7341,6 +7635,12 @@
         "rank": 44,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 45,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:1775936888": [
@@ -7433,6 +7733,12 @@
         "rank": 48,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 47,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:1824213210": [
@@ -7517,6 +7823,12 @@
       {
         "date": "2026-10-01",
         "rank": 47,
+        "views": null,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 43,
         "views": null,
         "posts": null
       }
@@ -7645,6 +7957,12 @@
       {
         "date": "2026-10-01",
         "rank": 39,
+        "views": null,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 40,
         "views": null,
         "posts": null
       }
@@ -7865,6 +8183,12 @@
         "rank": 12,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 12,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6810970908": [
@@ -8013,6 +8337,12 @@
         "rank": 50,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 49,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:1857738845": [
@@ -8119,6 +8449,12 @@
         "rank": 45,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 48,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6812723532": [
@@ -8203,6 +8539,12 @@
         "rank": 49,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 50,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6813445326": [
@@ -8259,6 +8601,12 @@
         "rank": 9,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 10,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6811945696": [
@@ -8300,6 +8648,12 @@
       },
       {
         "date": "2026-10-01",
+        "rank": 4,
+        "views": null,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
         "rank": 4,
         "views": null,
         "posts": null
@@ -8347,6 +8701,12 @@
         "rank": 32,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 34,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6815268303": [
@@ -8385,6 +8745,12 @@
         "rank": 3,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 1,
+        "views": null,
+        "posts": null
       }
     ],
     "apple:6815736795": [
@@ -8421,6 +8787,12 @@
       {
         "date": "2026-10-01",
         "rank": 17,
+        "views": null,
+        "posts": null
+      },
+      {
+        "date": "2026-10-02",
+        "rank": 22,
         "views": null,
         "posts": null
       }
