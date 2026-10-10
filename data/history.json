@@ -162,6 +162,12 @@
         "rank": null,
         "views": null,
         "posts": null
+      },
+      {
+        "date": "2026-10-10",
+        "rank": null,
+        "views": null,
+        "posts": null
       }
     ],
     "fmt:منتخب انغولا": [
@@ -351,6 +357,22 @@
     "fmt:anne carson": [
       {
         "date": "2026-10-09",
+        "rank": null,
+        "views": null,
+        "posts": null
+      }
+    ],
+    "fmt:arsenal vs": [
+      {
+        "date": "2026-10-10",
+        "rank": null,
+        "views": null,
+        "posts": null
+      }
+    ],
+    "fmt:مباراه اليوم": [
+      {
+        "date": "2026-10-10",
         "rank": null,
         "views": null,
         "posts": null
@@ -1110,6 +1132,12 @@
         "date": "2026-09-18",
         "rank": 2,
         "views": 200,
+        "posts": null
+      },
+      {
+        "date": "2026-10-10",
+        "rank": 8,
+        "views": 500,
         "posts": null
       }
     ],
@@ -2676,6 +2704,78 @@
         "date": "2026-10-09",
         "rank": 10,
         "views": 200,
+        "posts": null
+      }
+    ],
+    "gtrend:آرسنال ضد ليدز": [
+      {
+        "date": "2026-10-10",
+        "rank": 1,
+        "views": 1000,
+        "posts": null
+      }
+    ],
+    "gtrend:arsenal vs leeds": [
+      {
+        "date": "2026-10-10",
+        "rank": 2,
+        "views": 1000,
+        "posts": null
+      }
+    ],
+    "gtrend:جمال الليثي": [
+      {
+        "date": "2026-10-10",
+        "rank": 3,
+        "views": 100,
+        "posts": null
+      }
+    ],
+    "gtrend:سبيكة": [
+      {
+        "date": "2026-10-10",
+        "rank": 4,
+        "views": 2000,
+        "posts": null
+      }
+    ],
+    "gtrend:البنك التجاري الدولي": [
+      {
+        "date": "2026-10-10",
+        "rank": 5,
+        "views": 500,
+        "posts": null
+      }
+    ],
+    "gtrend:مباراة اليوم": [
+      {
+        "date": "2026-10-10",
+        "rank": 6,
+        "views": 200,
+        "posts": null
+      }
+    ],
+    "gtrend:ليلى علوي": [
+      {
+        "date": "2026-10-10",
+        "rank": 7,
+        "views": 100,
+        "posts": null
+      }
+    ],
+    "gtrend:سامية جمال": [
+      {
+        "date": "2026-10-10",
+        "rank": 9,
+        "views": 100,
+        "posts": null
+      }
+    ],
+    "gtrend:محكمة دستورية": [
+      {
+        "date": "2026-10-10",
+        "rank": 10,
+        "views": 100,
         "posts": null
       }
     ]
