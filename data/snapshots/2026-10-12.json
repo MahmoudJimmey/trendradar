@@ -1,0 +1,1080 @@
+{
+  "generatedAt": "2026-10-12T12:47:12.509Z",
+  "date": "2026-10-12",
+  "country": "EG",
+  "dateRange": "7DAY",
+  "sample": false,
+  "daysOfHistory": 34,
+  "summary": {
+    "formats": 0,
+    "formatsSpiking": 0,
+    "formatsActionable": 0,
+    "tracked": 10,
+    "sounds": 0,
+    "hashtags": 0,
+    "newToday": 0,
+    "rising": 0,
+    "actNow": 0,
+    "tooLate": 0,
+    "crossovers": 0,
+    "verticalFit": 0,
+    "commercialSafeSounds": 0,
+    "droppedOut": 0
+  },
+  "topics": {
+    "realestate": "Real estate",
+    "automotive": "Automotive",
+    "football": "Football",
+    "food": "Food",
+    "entertainment": "TV & film"
+  },
+  "health": [
+    {
+      "source": "topics",
+      "status": "ok",
+      "count": 5,
+      "note": "tagging: Real estate, Automotive, Football, Food, TV & film — everything else still collected",
+      "at": "2026-10-12T12:45:59.736Z"
+    },
+    {
+      "source": "tiktok-hashtags:ALL",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:00.135Z"
+    },
+    {
+      "source": "tiktok-sounds:ALL",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:00.156Z"
+    },
+    {
+      "source": "tiktok-keywords",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:00.247Z"
+    },
+    {
+      "source": "tiktok-hashtags:NEWS_AND_ENTERTAINMENT",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:00.418Z"
+    },
+    {
+      "source": "tiktok-sounds:ARABIC_POP",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:00.424Z"
+    },
+    {
+      "source": "tiktok-hashtags:GAMES",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:00.680Z"
+    },
+    {
+      "source": "tiktok-sounds:POP",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:00.718Z"
+    },
+    {
+      "source": "tiktok-hashtags:FOOD_AND_BEVERAGE",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:00.938Z"
+    },
+    {
+      "source": "tiktok-sounds:HIP_HOP_RAP",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:00.997Z"
+    },
+    {
+      "source": "tiktok-hashtags:SPORTS_AND_OUTDOOR",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:01.190Z"
+    },
+    {
+      "source": "tiktok-sounds:ELECTRONIC",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:01.254Z"
+    },
+    {
+      "source": "tiktok-hashtags:BEAUTY_AND_PERSONAL_CARE",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:01.433Z"
+    },
+    {
+      "source": "tiktok-sounds:DANCE",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:01.508Z"
+    },
+    {
+      "source": "tiktok-hashtags:APPAREL_AND_ACCESSORIES",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:01.687Z"
+    },
+    {
+      "source": "tiktok-sounds:R_AND_B",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:01.802Z"
+    },
+    {
+      "source": "tiktok-hashtags:TECH_AND_ELECTRONICS",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:01.941Z"
+    },
+    {
+      "source": "tiktok-sounds:ROCK",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:02.091Z"
+    },
+    {
+      "source": "tiktok-hashtags:EDUCATION",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:02.189Z"
+    },
+    {
+      "source": "tiktok-sounds:LATIN",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:02.352Z"
+    },
+    {
+      "source": "tiktok-hashtags:HEALTH",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:02.442Z"
+    },
+    {
+      "source": "tiktok-sounds:AFRO-POP",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:02.609Z"
+    },
+    {
+      "source": "tiktok-hashtags:TRAVEL",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:02.736Z"
+    },
+    {
+      "source": "tiktok-sounds:TURKISH_POP",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:02.895Z"
+    },
+    {
+      "source": "tiktok-hashtags:VEHICLE_AND_TRANSPORTATION",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:03.031Z"
+    },
+    {
+      "source": "tiktok-sounds:CLASSICAL",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:03.250Z"
+    },
+    {
+      "source": "tiktok-hashtags:HOME_IMPROVEMENT",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:03.305Z"
+    },
+    {
+      "source": "tiktok-sounds:JAZZ",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:03.504Z"
+    },
+    {
+      "source": "tiktok-hashtags:HOUSEHOLD_PRODUCTS",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:03.580Z"
+    },
+    {
+      "source": "tiktok-sounds:COUNTRY",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:03.779Z"
+    },
+    {
+      "source": "tiktok-hashtags:BABY_KIDS_AND_MATERNITY",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:03.841Z"
+    },
+    {
+      "source": "tiktok-sounds:REGGAE",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:04.052Z"
+    },
+    {
+      "source": "tiktok-hashtags:PETS",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:04.130Z"
+    },
+    {
+      "source": "tiktok-sounds:SOUNDTRACK",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:04.328Z"
+    },
+    {
+      "source": "tiktok-hashtags:FINANCIAL_SERVICES",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:04.378Z"
+    },
+    {
+      "source": "tiktok-hashtags:LIFE_SERVICES",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:04.628Z"
+    },
+    {
+      "source": "tiktok-hashtags:BUSINESS_SERVICES",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:46:04.870Z"
+    },
+    {
+      "source": "google-trends",
+      "status": "ok",
+      "count": 10,
+      "note": "Trending Now RSS, geo=EG",
+      "at": "2026-10-12T12:46:05.516Z"
+    },
+    {
+      "source": "google-trends-api",
+      "status": "skipped",
+      "count": 0,
+      "note": "GOOGLE_TRENDS_API_KEY or TREND_SEED_TERMS not set",
+      "at": "2026-10-12T12:46:05.516Z"
+    },
+    {
+      "source": "apple-music",
+      "status": "error",
+      "count": 0,
+      "note": "This operation was aborted",
+      "at": "2026-10-12T12:47:09.122Z"
+    },
+    {
+      "source": "youtube",
+      "status": "error",
+      "count": 0,
+      "note": "HTTP 400 from www.googleapis.com: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"errors\": [\n      {\n        \"message\": \"API key not valid. Please pass a valid API key.\",\n        \"domain\": \"global\",\n        \"reason\": \"b",
+      "at": "2026-10-12T12:47:09.187Z"
+    },
+    {
+      "source": "instagram-audio:music",
+      "status": "error",
+      "count": 0,
+      "note": "Invalid OAuth access token - Cannot parse access token [code 190] — Token is invalid or expired. IG_ACCESS_TOKEN must be a long-lived Page token from FACEBOOK Login — Instagram Login tokens do not work on this endpoint at all.",
+      "at": "2026-10-12T12:47:09.239Z"
+    },
+    {
+      "source": "instagram-audio:original_sound",
+      "status": "error",
+      "count": 0,
+      "note": "Invalid OAuth access token - Cannot parse access token [code 190] — Token is invalid or expired. IG_ACCESS_TOKEN must be a long-lived Page token from FACEBOOK Login — Instagram Login tokens do not work on this endpoint at all.",
+      "at": "2026-10-12T12:47:09.259Z"
+    },
+    {
+      "source": "instagram-panel",
+      "status": "error",
+      "count": 0,
+      "note": "all 2 accounts failed — HTTP 400 from graph.facebook.com: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"Ab5NheZnQQuxIGKdSnzQCxS\"}}",
+      "at": "2026-10-12T12:47:09.309Z"
+    },
+    {
+      "source": "tiktok-seed-probe:challenge",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:47:09.613Z"
+    },
+    {
+      "source": "tiktok-seed-probe:تحدي",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:47:09.905Z"
+    },
+    {
+      "source": "tiktok-seed-probe:80s",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:47:10.192Z"
+    },
+    {
+      "source": "tiktok-seed-probe:الثمانينات",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:47:10.440Z"
+    },
+    {
+      "source": "tiktok-seed-probe:90s",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:47:10.682Z"
+    },
+    {
+      "source": "tiktok-seed-probe:قبل وبعد",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:47:10.930Z"
+    },
+    {
+      "source": "tiktok-seed-probe:before after",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:47:11.197Z"
+    },
+    {
+      "source": "tiktok-seed-probe:transition",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:47:11.457Z"
+    },
+    {
+      "source": "tiktok-seed-probe:room tour",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:47:11.708Z"
+    },
+    {
+      "source": "tiktok-seed-probe:روم تور",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:47:11.968Z"
+    },
+    {
+      "source": "tiktok-seed-probe:pov",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:47:12.221Z"
+    },
+    {
+      "source": "tiktok-seed-probe:rate my",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-10-12T12:47:12.487Z"
+    },
+    {
+      "source": "format-detection",
+      "status": "ok",
+      "count": 0,
+      "note": "0 spiking phrases from 31 n-grams",
+      "at": "2026-10-12T12:47:12.508Z"
+    }
+  ],
+  "sections": {
+    "formats": [],
+    "sounds": [],
+    "hashtags": [],
+    "keywords": [],
+    "searchDemand": [
+      {
+        "key": "gtrend:النادى المصرى",
+        "label": "النادى المصرى",
+        "rank": 1,
+        "views": 100,
+        "posts": null,
+        "approxTraffic": "100+",
+        "pubDate": "Mon, 12 Oct 2026 05:30:00 -0700",
+        "image": null,
+        "why": [],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-10-12",
+        "lastSeen": "2026-10-12",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 1,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-10-12",
+            "rank": 1
+          }
+        ]
+      },
+      {
+        "key": "gtrend:كوريا الشمالية",
+        "label": "كوريا الشمالية",
+        "rank": 2,
+        "views": 100,
+        "posts": null,
+        "approxTraffic": "100+",
+        "pubDate": "Mon, 12 Oct 2026 05:10:00 -0700",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBpj4Lh7k6T613qE-UmXtXBjzpvrWCZF5NY9pMRnKNZFhR2j4nv-4WSRmOeQk",
+        "why": [
+          {
+            "title": "كوريا الشمالية تصعد.. إطلاق صواريخ باتجاه الشرق",
+            "url": "https://www.skynewsarabia.com/world/1897736-%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B5%D8%B9%D8%AF-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%A7%D9%84%D8%B4%D8%B1%D9%82",
+            "source": "سكاي نيوز عربية"
+          },
+          {
+            "title": "كوريا الشمالية تطلق عدة صواريخ باليستية باتجاه بحر اليابان",
+            "url": "https://www.alarabiya.net/arab-and-world/2026/10/12/%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D8%A7-%D8%A8%D8%A7%D9%84%D9%8A%D8%B3%D8%AA%D9%8A%D8%A7-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-",
+            "source": "العربية"
+          },
+          {
+            "title": "سول: اجتماع طارىء فى كوريا الجنوبية لبحث الإطلاق الطاروخى لبيونج يانج",
+            "url": "https://www.youm7.com/story/2026/10/12/%D8%B3%D9%88%D9%84-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%B7%D8%A7%D8%B1%D9%89%D8%A1-%D9%81%D9%89-%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9-%D9%84%D8%A8%D8%AD%D8%AB-%D8%A7%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B7%D8%A7%D8%B1%D9%88%D8%AE%D9%89-%D9%84%D8%A8%D9%8A%D9%88%D9%86%D8%AC/7576275",
+            "source": "اليوم السابع"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-10-12",
+        "lastSeen": "2026-10-12",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 2,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-10-12",
+            "rank": 2
+          }
+        ]
+      },
+      {
+        "key": "gtrend:جمال الليثي",
+        "label": "جمال الليثي",
+        "rank": 3,
+        "views": 100,
+        "posts": null,
+        "approxTraffic": "100+",
+        "pubDate": "Mon, 12 Oct 2026 05:10:00 -0700",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4vgDCDxYRyVetE1qzXwh1ZbyMctgXOFK3CRImxH1rtQuSEDcJHG6mJjpi3L4",
+        "why": [
+          {
+            "title": "جنازة ابن عم عمرو الليثي",
+            "url": "https://m.youm7.com/Tags/Index?id=3614698&tag=%D8%AC%D9%86%D8%A7%D8%B2%D8%A9-%D8%A7%D8%A8%D9%86-%D8%B9%D9%85-%D8%B9%D9%85%D8%B1%D9%88-%D8%A7%D9%84%D9%84%D9%8A%D8%AB%D9%8A",
+            "source": "اليوم السابع"
+          },
+          {
+            "title": "وفاة المهندس هشام جمال الليثي نجل المنتج الراحل جمال الليثي",
+            "url": "https://www.elbalad.news/7133115",
+            "source": "صدى البلد"
+          },
+          {
+            "title": "عمرو الليثى يتلقى عزاء ابن عمه.. خالد زكى وطارق علام أول الحضور",
+            "url": "https://www.youm7.com/story/2026/10/11/%D8%B9%D9%85%D8%B1%D9%88-%D8%A7%D9%84%D9%84%D9%8A%D8%AB%D9%89-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%B9%D8%B2%D8%A7%D8%A1-%D8%A7%D8%A8%D9%86-%D8%B9%D9%85%D9%87-%D8%AE%D8%A7%D9%84%D8%AF-%D8%B2%D9%83%D9%89-%D9%88%D8%B7%D8%A7%D8%B1%D9%82-%D8%B9%D9%84%D8%A7%D9%85/7575909",
+            "source": "اليوم السابع"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-10-10",
+        "lastSeen": "2026-10-12",
+        "daysTracked": 3,
+        "rankPrev": 3,
+        "rankDelta": 0,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 3,
+        "daysSincePeak": 0,
+        "viewsDelta": 0,
+        "viewsGrowthPct": 0,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 6,
+        "isNew": false,
+        "alerts": [
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-10-10",
+            "rank": 3
+          },
+          {
+            "date": "2026-10-12",
+            "rank": 3
+          }
+        ]
+      },
+      {
+        "key": "gtrend:السودان",
+        "label": "السودان",
+        "rank": 4,
+        "views": 500,
+        "posts": null,
+        "approxTraffic": "500+",
+        "pubDate": "Mon, 12 Oct 2026 05:00:00 -0700",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcJKT8e70VwWp6x8NgdRZIdWvLBvj6rqBd06DUwV-Hzt9MskkUrM---tVXyyI",
+        "why": [
+          {
+            "title": "قصف مواقع تعدين قرب حدود السودان ومصر يثير غضباً وجدلاً بشأن المسؤولية والسيادة",
+            "url": "https://www.bbc.com/arabic/articles/cm3wv10147qgo",
+            "source": "BBC"
+          },
+          {
+            "title": "منظمة سودانية تتهم مصر بالمسؤولية عن مقتل عشرات عمال الذهب السودانيين",
+            "url": "https://www.dw.com/ar/%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D9%87%D9%85-%D9%85%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D8%B9%D9%86-%D9%85%D9%82%D8%AA%D9%84-%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D9%8A%D9%86/a-79635028",
+            "source": "DW.com"
+          },
+          {
+            "title": "مقتل 72 عاملًا في منجم ذهب قرب الحدود المصرية السودانية.. من المسؤول؟ | التلفزيون العربي",
+            "url": "https://www.alaraby.com/news/%D9%85%D9%82%D8%AA%D9%84-72-%D8%B9%D8%A7%D9%85%D9%84%D9%8B%D8%A7-%D9%81%D9%8A-%D9%85%D9%86%D8%AC%D9%85-%D8%B0%D9%87%D8%A8-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84",
+            "source": "التلفزيون العربي"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-09-27",
+        "lastSeen": "2026-10-12",
+        "daysTracked": 16,
+        "rankPrev": 2,
+        "rankDelta": -2,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": -0.13,
+        "acceleration": null,
+        "peakRank": 2,
+        "daysSincePeak": 15,
+        "viewsDelta": -4500,
+        "viewsGrowthPct": -90,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-09-27",
+            "rank": 2
+          },
+          {
+            "date": "2026-10-12",
+            "rank": 4
+          }
+        ]
+      },
+      {
+        "key": "gtrend:أسعار الذهب اليوم في مصر عيار 21 بالمصنعية",
+        "label": "أسعار الذهب اليوم في مصر عيار 21 بالمصنعية",
+        "rank": 5,
+        "views": 200,
+        "posts": null,
+        "approxTraffic": "200+",
+        "pubDate": "Mon, 12 Oct 2026 04:30:00 -0700",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcxDS2x3leK57byU-L1lGUYuzRP5T3udCkRFowMrES_PM5ohR6V6ckMwEmXgI",
+        "why": [
+          {
+            "title": "تعرف على آخر تطورات سعر الذهب اليوم.. عيار 24 بـ7050 جنيها",
+            "url": "https://www.youm7.com/story/2026/10/12/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A2%D8%AE%D8%B1-%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%B9%D9%8A%D8%A7%D8%B1-24-%D8%A8%D9%807050/7576714",
+            "source": "اليوم السابع"
+          },
+          {
+            "title": "سعر الذهب اليوم الإثنين 12-10-2026 في مصر صباحًا",
+            "url": "https://gate.ahram.org.eg/News/5943343.aspx",
+            "source": "بوابة الأهرام"
+          },
+          {
+            "title": "سعر الذهب اليوم في مصر يرتفع مع بداية تعاملات الاثنين",
+            "url": "https://www.masrawy.com/news/news_economy/details/2026/10/12/3061526/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D9%8A%D8%B1%D8%AA%D9%81%D8%B9-%D9%85%D8%B9-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%AA%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86-",
+            "source": "Masrawy"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-10-12",
+        "lastSeen": "2026-10-12",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 5,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-10-12",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "key": "gtrend:الأزهر الشريف",
+        "label": "الأزهر الشريف",
+        "rank": 6,
+        "views": 200,
+        "posts": null,
+        "approxTraffic": "200+",
+        "pubDate": "Mon, 12 Oct 2026 03:50:00 -0700",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIFsggZmQslV2jyp1qrSfGQXMEJUk0DS2vD7Ua7tJsOs1L9JNNTv80CYcUf8c",
+        "why": [
+          {
+            "title": "انطلاق حفل خريجي الشهادة الثانوية وتكريم المتفوقين بمعاهد البعوث الإسلامية بالأزهر",
+            "url": "https://www.youm7.com/story/2026/10/12/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%AD%D9%81%D9%84-%D8%AE%D8%B1%D9%8A%D8%AC%D9%8A-%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%88%D9%8A%D8%A9-%D9%88%D8%AA%D9%83%D8%B1%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D9%81%D9%88%D9%82%D9%8A%D9%86-%D8%A8%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D8%A8%D8%B9%D9%88%D8%AB-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9/7576477",
+            "source": "اليوم السابع"
+          },
+          {
+            "title": "نهلة الصعيدي: خريجو الأزهر الوافدون سفراء للعلم والاعتدال وجسور للتواصل بين الشعوب| صور",
+            "url": "https://gate.ahram.org.eg/News/5943551.aspx",
+            "source": "بوابة الأهرام"
+          },
+          {
+            "title": "وكيل المعاهد الأزهرية يشيد برسالة المعلمين ويوجه نصيحة لخريجي معهد البعوث الإسلامية",
+            "url": "https://www.almasryalyoum.com/news/details/4381241",
+            "source": "المصري اليوم"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-10-12",
+        "lastSeen": "2026-10-12",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 6,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-10-12",
+            "rank": 6
+          }
+        ]
+      },
+      {
+        "key": "gtrend:sudan",
+        "label": "sudan",
+        "rank": 7,
+        "views": 100,
+        "posts": null,
+        "approxTraffic": "100+",
+        "pubDate": "Mon, 12 Oct 2026 03:40:00 -0700",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvEuBJ-VkBb3MBG16i78ZxJbiCkO2GSx3s1LDouSodMe2RDQ5di0N5RtRk6M",
+        "why": [
+          {
+            "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+            "url": "https://www.bbc.com/news/articles/cqy43vrk8wv8o",
+            "source": "BBC"
+          },
+          {
+            "title": "At least 72 Sudanese miners killed in air strike: Rights monitor",
+            "url": "https://www.aljazeera.com/news/2026/10/11/at-least-72-sudanese-miners-killed-in-air-strike-rights-monitor",
+            "source": "Al Jazeera"
+          },
+          {
+            "title": "'At least 72' miners killed in airstrike on Sudan-Egypt border",
+            "url": "https://news.sky.com/story/at-least-72-miners-killed-in-airstrike-on-sudan-egypt-border-13597904",
+            "source": "Sky News"
+          }
+        ],
+        "isRTL": false,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-10-12",
+        "lastSeen": "2026-10-12",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 7,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-10-12",
+            "rank": 7
+          }
+        ]
+      },
+      {
+        "key": "gtrend:tom welling",
+        "label": "tom welling",
+        "rank": 8,
+        "views": 100,
+        "posts": null,
+        "approxTraffic": "100+",
+        "pubDate": "Mon, 12 Oct 2026 03:40:00 -0700",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxfQ6HsuV3iyOGMbXdUJQvWkZLpK_ZOYmu4UVZzSM_vCrVqGnBf3zJKK9yXmU",
+        "why": [
+          {
+            "title": "‘Smallville’ star Tom Welling accidentally exposes himself in hotel window reflection",
+            "url": "https://pagesix.com/2026/10/10/celebrity-news/smallville-star-tom-welling-accidentally-exposes-himself-in-hotel-window-reflection/",
+            "source": "Page Six"
+          },
+          {
+            "title": "Tom Welling Appears at New York Comic Con After Deleted Nude Photo Drama: ‘Come Say Hi’",
+            "url": "https://www.yahoo.com/entertainment/tv/articles/tom-welling-appears-york-comic-210041162.html",
+            "source": "Yahoo"
+          },
+          {
+            "title": "TV Star Breaks Silence On Social Media Frenzy After He Accidentally Exposed Himself To Fans",
+            "url": "https://www.aol.com/articles/tv-star-breaks-silence-social-115838000.html",
+            "source": "AOL.com"
+          }
+        ],
+        "isRTL": false,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-10-12",
+        "lastSeen": "2026-10-12",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 8,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-10-12",
+            "rank": 8
+          }
+        ]
+      },
+      {
+        "key": "gtrend:قانون التصالح",
+        "label": "قانون التصالح",
+        "rank": 9,
+        "views": 2000,
+        "posts": null,
+        "approxTraffic": "2000+",
+        "pubDate": "Mon, 12 Oct 2026 03:30:00 -0700",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5U-mV-XdaO_VtnvKCedyL3IfuF8wJ4zZp6JneYglyfeXtqxZTlZt2JQLsWQY",
+        "why": [
+          {
+            "title": "الإسكان تحدد 50 جنيها للمتر قيمة التصالح في مخالفات البناء للأنشطة الدينية وغير الهادفة للربح",
+            "url": "https://www.youm7.com/story/2026/10/12/%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D8%A7%D9%86-%D8%AA%D8%AD%D8%AF%D8%AF-50-%D8%AC%D9%86%D9%8A%D9%87%D8%A7-%D9%84%D9%84%D9%85%D8%AA%D8%B1-%D9%82%D9%8A%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B5%D8%A7%D9%84%D8%AD-%D9%81%D9%8A-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%86%D8%A7%D8%A1/7576471",
+            "source": "اليوم السابع"
+          },
+          {
+            "title": "بعد قرار مد المهلة.. حالات يجيز فيها القانون التصالح في مخالفات البناء",
+            "url": "https://www.elbalad.news/7137722",
+            "source": "صدى البلد"
+          },
+          {
+            "title": "تقنين أراضي الدولة 2026.. مد فترة تقديم الطلبات وخطوات متابعة الطلب والفحص والبت",
+            "url": "https://www.mobtada.com/egypt/1658527/%D8%AA%D9%82%D9%86%D9%8A%D9%86-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-2026-%D9%85%D8%AF-%D9%81%D8%AA%D8%B1%D8%A9-%D8%AA%D9%82%D8%AF%D9%8A%D9%85-%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A7%D8%AA-%D9%88%D8%AE%D8%B7%D9%88%D8%A7%D8%AA-%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D8%A7%D9%84%D8%B7%D9%84%D8%A8-%D9%88%D8%A7%D9%84%D9%81%D8%AD%D8%B5-%D9%88%D8%A7%D9%84%D8%A8%D8%AA",
+            "source": "مبتدا"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-09-12",
+        "lastSeen": "2026-10-12",
+        "daysTracked": 31,
+        "rankPrev": 6,
+        "rankDelta": -3,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": -0.17,
+        "acceleration": null,
+        "peakRank": 4,
+        "daysSincePeak": 30,
+        "viewsDelta": 1000,
+        "viewsGrowthPct": 100,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-09-12",
+            "rank": 4
+          },
+          {
+            "date": "2026-10-01",
+            "rank": 6
+          },
+          {
+            "date": "2026-10-12",
+            "rank": 9
+          }
+        ]
+      },
+      {
+        "key": "gtrend:شادية",
+        "label": "شادية",
+        "rank": 10,
+        "views": 200,
+        "posts": null,
+        "approxTraffic": "200+",
+        "pubDate": "Mon, 12 Oct 2026 03:20:00 -0700",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevyOIlOL-4CKVw8QgXQtGNrO_FfoyiLY3oKf9u_wlThilckMUOINk0ZpxBkM",
+        "why": [
+          {
+            "title": "اختيار رواية «الخواجاية» لفيموني عكاشة ضمن 10 روايات في ملتقى «من الكتاب إلى الشاشة» بمهرجان القاهرة السينمائي",
+            "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=11102026&id=27cf2ced-1def-4d62-841e-47cdaa798ee2",
+            "source": "بوابة الشروق"
+          },
+          {
+            "title": "«فؤادة تفتح هويس البوسترات».. تصميمات افتراضية لأفيش مهرجان القاهرة السينمائي بعد جدل صورة شادية",
+            "url": "https://www.almasryalyoum.com/news/details/4381156",
+            "source": "المصري اليوم"
+          },
+          {
+            "title": "«القاهرة السينمائى» يحتفى بنصف قرن من الإبداع",
+            "url": "https://gate.ahram.org.eg/daily/News/205738/16/1032161/%D8%A7%D9%84%D8%A7%D8%AE%D9%8A%D8%B1%D8%A9/%C2%AB%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D9%85%D8%A7%D8%A6%D9%89%C2%BB-%D9%8A%D8%AD%D8%AA%D9%81%D9%89-%D8%A8%D9%86%D8%B5%D9%81-%D9%82%D8%B1%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%A5%D8%A8%D8%AF%D8%A7%D8%B9.aspx",
+            "source": "بوابة الأهرام"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-10-12",
+        "lastSeen": "2026-10-12",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 10,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-10-12",
+            "rank": 10
+          }
+        ]
+      }
+    ],
+    "rising": [],
+    "videos": [],
+    "audioCharts": [],
+    "igSounds": []
+  },
+  "dropouts": {
+    "sounds": [],
+    "hashtags": []
+  },
+  "competitorPanel": [
+    {
+      "key": "igacct:competitor handles",
+      "label": "@competitor handles",
+      "error": "HTTP 400 from graph.facebook.com: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"Ab5NheZnQQuxIGKdSnzQCxS\"}}",
+      "source": "instagram-business-discovery"
+    },
+    {
+      "key": "igacct:comma-separated",
+      "label": "@comma-separated",
+      "error": "HTTP 400 from graph.facebook.com: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AMXOBJjUVe676-Zw1H8-_cn\"}}",
+      "source": "instagram-business-discovery"
+    }
+  ],
+  "notes": {
+    "hashtagVideoGeo": "TikTok limits hashtag video lookups to the hashtag's own top-5 countries, so example videos may come from another market. Each example records countryUsed.",
+    "instagram": "Instagram publishes no trending-audio metrics and no country filter, and media objects carry no audio field. IG rows are unranked names; use the manual log for Instagram.",
+    "keywords": "TikTok trending search keywords have no volume and no country parameter. Order only."
+  }
+}

@@ -591,6 +591,12 @@
         "rank": 6,
         "views": 1000,
         "posts": null
+      },
+      {
+        "date": "2026-10-12",
+        "rank": 9,
+        "views": 2000,
+        "posts": null
       }
     ],
     "gtrend:تضخم اقتصادي": [
@@ -1893,6 +1899,12 @@
         "rank": 2,
         "views": 5000,
         "posts": null
+      },
+      {
+        "date": "2026-10-12",
+        "rank": 4,
+        "views": 500,
+        "posts": null
       }
     ],
     "gtrend:البطاقة التموينية": [
@@ -2749,6 +2761,12 @@
         "rank": 3,
         "views": 100,
         "posts": null
+      },
+      {
+        "date": "2026-10-12",
+        "rank": 3,
+        "views": 100,
+        "posts": null
       }
     ],
     "gtrend:سبيكة": [
@@ -2866,6 +2884,62 @@
     "gtrend:فولوديمير زيلينسكي": [
       {
         "date": "2026-10-11",
+        "rank": 10,
+        "views": 200,
+        "posts": null
+      }
+    ],
+    "gtrend:النادى المصرى": [
+      {
+        "date": "2026-10-12",
+        "rank": 1,
+        "views": 100,
+        "posts": null
+      }
+    ],
+    "gtrend:كوريا الشمالية": [
+      {
+        "date": "2026-10-12",
+        "rank": 2,
+        "views": 100,
+        "posts": null
+      }
+    ],
+    "gtrend:أسعار الذهب اليوم في مصر عيار 21 بالمصنعية": [
+      {
+        "date": "2026-10-12",
+        "rank": 5,
+        "views": 200,
+        "posts": null
+      }
+    ],
+    "gtrend:الأزهر الشريف": [
+      {
+        "date": "2026-10-12",
+        "rank": 6,
+        "views": 200,
+        "posts": null
+      }
+    ],
+    "gtrend:sudan": [
+      {
+        "date": "2026-10-12",
+        "rank": 7,
+        "views": 100,
+        "posts": null
+      }
+    ],
+    "gtrend:tom welling": [
+      {
+        "date": "2026-10-12",
+        "rank": 8,
+        "views": 100,
+        "posts": null
+      }
+    ],
+    "gtrend:شادية": [
+      {
+        "date": "2026-10-12",
         "rank": 10,
         "views": 200,
         "posts": null
