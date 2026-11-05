@@ -1,0 +1,5925 @@
+{
+  "generatedAt": "2026-11-05T12:56:42.220Z",
+  "date": "2026-11-05",
+  "country": "EG",
+  "dateRange": "7DAY",
+  "sample": false,
+  "daysOfHistory": 58,
+  "summary": {
+    "formats": 0,
+    "formatsSpiking": 0,
+    "formatsActionable": 0,
+    "tracked": 60,
+    "sounds": 0,
+    "hashtags": 0,
+    "newToday": 0,
+    "rising": 0,
+    "actNow": 0,
+    "tooLate": 0,
+    "crossovers": 0,
+    "verticalFit": 0,
+    "commercialSafeSounds": 0,
+    "droppedOut": 0
+  },
+  "topics": {
+    "realestate": "Real estate",
+    "automotive": "Automotive",
+    "football": "Football",
+    "food": "Food",
+    "entertainment": "TV & film"
+  },
+  "health": [
+    {
+      "source": "topics",
+      "status": "ok",
+      "count": 5,
+      "note": "tagging: Real estate, Automotive, Football, Food, TV & film — everything else still collected",
+      "at": "2026-11-05T12:56:12.050Z"
+    },
+    {
+      "source": "tiktok-hashtags:ALL",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:12.412Z"
+    },
+    {
+      "source": "tiktok-keywords",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:12.460Z"
+    },
+    {
+      "source": "tiktok-sounds:ALL",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:12.491Z"
+    },
+    {
+      "source": "tiktok-sounds:ARABIC_POP",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:12.805Z"
+    },
+    {
+      "source": "tiktok-hashtags:NEWS_AND_ENTERTAINMENT",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:12.837Z"
+    },
+    {
+      "source": "tiktok-hashtags:GAMES",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:13.089Z"
+    },
+    {
+      "source": "tiktok-sounds:POP",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:13.092Z"
+    },
+    {
+      "source": "tiktok-hashtags:FOOD_AND_BEVERAGE",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:13.329Z"
+    },
+    {
+      "source": "tiktok-sounds:HIP_HOP_RAP",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:13.409Z"
+    },
+    {
+      "source": "tiktok-hashtags:SPORTS_AND_OUTDOOR",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:13.566Z"
+    },
+    {
+      "source": "tiktok-sounds:ELECTRONIC",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:13.664Z"
+    },
+    {
+      "source": "tiktok-hashtags:BEAUTY_AND_PERSONAL_CARE",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:13.810Z"
+    },
+    {
+      "source": "tiktok-sounds:DANCE",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:13.909Z"
+    },
+    {
+      "source": "tiktok-hashtags:APPAREL_AND_ACCESSORIES",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:14.081Z"
+    },
+    {
+      "source": "tiktok-sounds:R_AND_B",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:14.183Z"
+    },
+    {
+      "source": "tiktok-hashtags:TECH_AND_ELECTRONICS",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:14.325Z"
+    },
+    {
+      "source": "tiktok-sounds:ROCK",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:14.438Z"
+    },
+    {
+      "source": "tiktok-hashtags:EDUCATION",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:14.581Z"
+    },
+    {
+      "source": "tiktok-sounds:LATIN",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:14.693Z"
+    },
+    {
+      "source": "tiktok-hashtags:HEALTH",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:14.824Z"
+    },
+    {
+      "source": "tiktok-sounds:AFRO-POP",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:14.955Z"
+    },
+    {
+      "source": "tiktok-hashtags:TRAVEL",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:15.076Z"
+    },
+    {
+      "source": "tiktok-sounds:TURKISH_POP",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:15.212Z"
+    },
+    {
+      "source": "tiktok-hashtags:VEHICLE_AND_TRANSPORTATION",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:15.334Z"
+    },
+    {
+      "source": "tiktok-sounds:CLASSICAL",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:15.462Z"
+    },
+    {
+      "source": "tiktok-hashtags:HOME_IMPROVEMENT",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:15.580Z"
+    },
+    {
+      "source": "tiktok-sounds:JAZZ",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:15.710Z"
+    },
+    {
+      "source": "tiktok-hashtags:HOUSEHOLD_PRODUCTS",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:15.824Z"
+    },
+    {
+      "source": "tiktok-sounds:COUNTRY",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:15.968Z"
+    },
+    {
+      "source": "tiktok-hashtags:BABY_KIDS_AND_MATERNITY",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:16.075Z"
+    },
+    {
+      "source": "tiktok-sounds:REGGAE",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:16.214Z"
+    },
+    {
+      "source": "tiktok-hashtags:PETS",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:16.315Z"
+    },
+    {
+      "source": "tiktok-sounds:SOUNDTRACK",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:16.470Z"
+    },
+    {
+      "source": "tiktok-hashtags:FINANCIAL_SERVICES",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:16.557Z"
+    },
+    {
+      "source": "tiktok-hashtags:LIFE_SERVICES",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:16.811Z"
+    },
+    {
+      "source": "tiktok-hashtags:BUSINESS_SERVICES",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:17.063Z"
+    },
+    {
+      "source": "google-trends",
+      "status": "ok",
+      "count": 10,
+      "note": "Trending Now RSS, geo=EG",
+      "at": "2026-11-05T12:56:17.261Z"
+    },
+    {
+      "source": "google-trends-api",
+      "status": "skipped",
+      "count": 0,
+      "note": "GOOGLE_TRENDS_API_KEY or TREND_SEED_TERMS not set",
+      "at": "2026-11-05T12:56:17.261Z"
+    },
+    {
+      "source": "apple-music",
+      "status": "ok",
+      "count": 50,
+      "note": "updated Thu, 5 Nov 2026 12:56:38 +0000",
+      "at": "2026-11-05T12:56:38.835Z"
+    },
+    {
+      "source": "youtube",
+      "status": "error",
+      "count": 0,
+      "note": "HTTP 400 from www.googleapis.com: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"errors\": [\n      {\n        \"message\": \"API key not valid. Please pass a valid API key.\",\n        \"domain\": \"global\",\n        \"reason\": \"b",
+      "at": "2026-11-05T12:56:38.879Z"
+    },
+    {
+      "source": "instagram-audio:music",
+      "status": "error",
+      "count": 0,
+      "note": "Invalid OAuth access token - Cannot parse access token [code 190] — Token is invalid or expired. IG_ACCESS_TOKEN must be a long-lived Page token from FACEBOOK Login — Instagram Login tokens do not work on this endpoint at all.",
+      "at": "2026-11-05T12:56:38.962Z"
+    },
+    {
+      "source": "instagram-audio:original_sound",
+      "status": "error",
+      "count": 0,
+      "note": "Invalid OAuth access token - Cannot parse access token [code 190] — Token is invalid or expired. IG_ACCESS_TOKEN must be a long-lived Page token from FACEBOOK Login — Instagram Login tokens do not work on this endpoint at all.",
+      "at": "2026-11-05T12:56:38.973Z"
+    },
+    {
+      "source": "instagram-panel",
+      "status": "error",
+      "count": 0,
+      "note": "all 2 accounts failed — HTTP 400 from graph.facebook.com: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AG0CAl1o8x2Jrvf1xO95j1P\"}}",
+      "at": "2026-11-05T12:56:39.015Z"
+    },
+    {
+      "source": "tiktok-seed-probe:challenge",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:39.330Z"
+    },
+    {
+      "source": "tiktok-seed-probe:تحدي",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:39.600Z"
+    },
+    {
+      "source": "tiktok-seed-probe:80s",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:39.853Z"
+    },
+    {
+      "source": "tiktok-seed-probe:الثمانينات",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:40.116Z"
+    },
+    {
+      "source": "tiktok-seed-probe:90s",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:40.385Z"
+    },
+    {
+      "source": "tiktok-seed-probe:قبل وبعد",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:40.650Z"
+    },
+    {
+      "source": "tiktok-seed-probe:before after",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:40.896Z"
+    },
+    {
+      "source": "tiktok-seed-probe:transition",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:41.155Z"
+    },
+    {
+      "source": "tiktok-seed-probe:room tour",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:41.401Z"
+    },
+    {
+      "source": "tiktok-seed-probe:روم تور",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:41.684Z"
+    },
+    {
+      "source": "tiktok-seed-probe:pov",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:41.944Z"
+    },
+    {
+      "source": "tiktok-seed-probe:rate my",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-05T12:56:42.200Z"
+    },
+    {
+      "source": "format-detection",
+      "status": "ok",
+      "count": 0,
+      "note": "0 spiking phrases from 32 n-grams",
+      "at": "2026-11-05T12:56:42.219Z"
+    }
+  ],
+  "sections": {
+    "formats": [],
+    "sounds": [],
+    "hashtags": [],
+    "keywords": [],
+    "searchDemand": [
+      {
+        "key": "gtrend:موعد اذان العصر",
+        "label": "موعد اذان العصر",
+        "rank": 1,
+        "views": 1000,
+        "posts": null,
+        "approxTraffic": "1000+",
+        "pubDate": "Thu, 5 Nov 2026 04:40:00 -0800",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKBzaKUN1yk8xrHfFKc2sPdg1GZ7IzFlzrUyK3JGPS2Lx9vU3iUhj0aKB2dmE",
+        "why": [
+          {
+            "title": "مواقيت الصلاة اليوم الخميس 5 نوفمبر 2026 بمحافظات الجمهورية",
+            "url": "https://www.youm7.com/story/2026/11/5/%D9%85%D9%88%D8%A7%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-5-%D9%86%D9%88%D9%81%D9%85%D8%A8%D8%B1-2026-%D8%A8%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9/7605780",
+            "source": "اليوم السابع"
+          },
+          {
+            "title": "مواقيت الصلاة اليوم الأحد 1 نوفمبر 2026 في القاهرة والمحافظات",
+            "url": "https://gate.ahram.org.eg/News/5972990.aspx",
+            "source": "بوابة الأهرام"
+          },
+          {
+            "title": "موعد أذان وصلاة المغرب اليوم الثلاثاء الموافق 3 نوفمبر",
+            "url": "https://www.masrawy.com/islameyat/others-islamic_ppl_news/details/2026/11/3/3073046/%D9%85%D9%88%D8%B9%D8%AF-%D8%A3%D8%B0%D8%A7%D9%86-%D9%88%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%81%D9%82-3-%D9%86%D9%88%D9%81%D9%85%D8%A8%D8%B1-",
+            "source": "Masrawy"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-11-05",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 1,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-11-05",
+            "rank": 1
+          }
+        ]
+      },
+      {
+        "key": "gtrend:محمد عبد المنصف",
+        "label": "محمد عبد المنصف",
+        "rank": 2,
+        "views": 100,
+        "posts": null,
+        "approxTraffic": "100+",
+        "pubDate": "Thu, 5 Nov 2026 04:20:00 -0800",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHLSwRooKWIaKeaGd-yiuJZzcKVHwe1VKh5_DrHwmPYICCzqvaLFLsxxU73OI",
+        "why": [
+          {
+            "title": "طليقة محمد عبدالمنصف تخرج عن صمتها.. وتوضح حقيقة عودتهما",
+            "url": "https://www.alarabiya.net/culture-and-art/2026/11/05/%D8%B7%D9%84%D9%8A%D9%82%D8%A9-%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%85%D9%86%D8%B5%D9%81-%D8%AA%D8%AD%D8%B3%D9%85-%D8%AC%D8%AF%D9%84-%D8%B9%D9%88%D8%AF%D8%AA%D9%87%D9%85%D8%A7-%D9%8A%D8%A7%D8%B1%D8%A8-%D8%A7%D9%84%D9%86%D8%A7%D8%B3-%D8%AA%D9%87%D8%AF%D8%A7",
+            "source": "العربية"
+          },
+          {
+            "title": "إيمان الزيدي تثير التساؤلات حول عودتها الى زوج لقاء الخميسي",
+            "url": "https://www.lahamag.com/article/242543-%D8%A5%D9%8A%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%AA%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B3%D8%A7%D8%A4%D9%84%D8%A7%D8%AA-%D8%AD%D9%88%D9%84-%D8%B9%D9%88%D8%AF%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D9%89-%D8%B2%D9%88%D8%AC-%D9%84%D9%82%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3%D9%8A",
+            "source": "مجلة لها"
+          },
+          {
+            "title": "الفنانه إيمان الزيدي تثير الجدل عن عبد المنصف: والله العظيم مرجعنا ولا هنرجع",
+            "url": "https://www.youlyou.com/87587",
+            "source": "https://www.youlyou.com/"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-11-05",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 2,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-11-05",
+            "rank": 2
+          }
+        ]
+      },
+      {
+        "key": "gtrend:مضيق هرمز",
+        "label": "مضيق هرمز",
+        "rank": 3,
+        "views": 100,
+        "posts": null,
+        "approxTraffic": "100+",
+        "pubDate": "Thu, 5 Nov 2026 04:20:00 -0800",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvG2EKOK07L3hATRfnTZ3INKgQKpc8q115U5uIuJ9XYfRYsKKggvD3plPI3u8",
+        "why": [
+          {
+            "title": "حرائق في ناقلتَي نفط بمضيق هرمز، وكوريا الجنوبية تعتزم نشر طائرة دورية وفريق لإزالة المتفجرات",
+            "url": "https://www.bbc.com/arabic/articles/c63elqyd7944o",
+            "source": "BBC"
+          },
+          {
+            "title": "الحرس الثوري يعلن اندلاع حريق في ناقلتي نفط وقاطرة بحرية في مضيق هرمز",
+            "url": "https://arabic.cnn.com/middle-east/article/2026/11/05/irgc-announces-fire-oil-tankers-hormuz",
+            "source": "CNN Arabic"
+          },
+          {
+            "title": "الحرس الثوري يعلن حرائق في ناقلتين وقاطرة بحرية بمضيق هرمز",
+            "url": "https://www.ajnet.me/news/2026/11/5/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%86%D8%AF%D9%84%D8%A7%D8%B9-%D8%AD%D8%B1%D9%8A%D9%82-%D9%81%D9%8A",
+            "source": "الجزيرة نت"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-09-10",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 57,
+        "rankPrev": 1,
+        "rankDelta": -2,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": -0.04,
+        "acceleration": null,
+        "peakRank": 1,
+        "daysSincePeak": 56,
+        "viewsDelta": 0,
+        "viewsGrowthPct": 0,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-09-10",
+            "rank": 1
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 3
+          }
+        ]
+      },
+      {
+        "key": "gtrend:egypt cup",
+        "label": "egypt cup",
+        "rank": 4,
+        "views": 1000,
+        "posts": null,
+        "approxTraffic": "1000+",
+        "pubDate": "Thu, 5 Nov 2026 04:20:00 -0800",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTJFw_ELC78yOg4xqfympdyxLiLIPZbPwhDSOVLhYgni1MCnai-wfo03gKLLw",
+        "why": [
+          {
+            "title": "الأهلي يفتح صفحة كأس مصر بمواجهة السكة الحديد.. موعد المباراة والقناة الناقلة",
+            "url": "https://www.youm7.com/story/2026/11/5/%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D9%8A%D9%81%D8%AA%D8%AD-%D8%B5%D9%81%D8%AD%D8%A9-%D9%83%D8%A3%D8%B3-%D9%85%D8%B5%D8%B1-%D8%A8%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B3%D9%83%D8%A9-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF-%D9%85%D9%88%D8%B9%D8%AF-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/7604180",
+            "source": "اليوم السابع"
+          },
+          {
+            "title": "مران الأهلي| الفريق يبدأ استعداده لمواجهة السكة الحديد في كأس مصر",
+            "url": "https://www.alahlyegypt.com/ar/news/article/%D9%85%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%A7%D9%84%D9%81%D8%B1%D9%8A%D9%82-%D9%8A%D8%A8%D8%AF%D8%A3-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D9%87-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B3%D9%83%D8%A9-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D9%83%D8%A3%D8%B3-%D9%85%D8%B5%D8%B1",
+            "source": "الموقع الرسمي للنادي الأهلي المصري"
+          },
+          {
+            "title": "لقاء يتجدد بعد 33 عامًا.. حكاية 21 مواجهة جمعت الأهلي والسكة الحديد",
+            "url": "https://www.yallakora.com/egypt-cup/3066/news/571835/%D9%84%D9%82%D8%A7%D8%A1-%D9%8A%D8%AA%D8%AC%D8%AF%D8%AF-%D8%A8%D8%B9%D8%AF-33-%D8%B9%D8%A7%D9%85-%D8%A7-%D8%AD%D9%83%D8%A7%D9%8A%D8%A9-21-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%AC%D9%85%D8%B9%D8%AA-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D9%88%D8%A7%D9%84%D8%B3%D9%83%D8%A9-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF",
+            "source": "يلاكورة"
+          }
+        ],
+        "isRTL": false,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-11-05",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 4,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-11-05",
+            "rank": 4
+          }
+        ]
+      },
+      {
+        "key": "gtrend:cristiano ronaldo",
+        "label": "cristiano ronaldo",
+        "rank": 5,
+        "views": 200,
+        "posts": null,
+        "approxTraffic": "200+",
+        "pubDate": "Thu, 5 Nov 2026 03:40:00 -0800",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw_eN_Qc102cZb1giHc6DnTgbBUZz6Yt_UzW7HkjCv6Oihc9pyvqRmPn6QXmY",
+        "why": [
+          {
+            "title": "Cristiano Ronaldo retires: Portugal forward says he is quitting international football",
+            "url": "https://www.bbc.com/sport/football/articles/cme8rxx2e1w9o",
+            "source": "BBC"
+          },
+          {
+            "title": "Portugal's Ronaldo announces international retirement",
+            "url": "https://www.reuters.com/sports/soccer/cristiano-ronaldo-announces-retirement-portuguese-national-team-2026-11-05/",
+            "source": "Reuters"
+          },
+          {
+            "title": "PHOTO GALLERY: Cristiano Ronaldo bids farewell to international football",
+            "url": "https://english.ahram.org.eg/NewsContent/6/153/581778/Sports/Multimedia/PHOTO-GALLERY-Cristiano-Ronaldo-bids-farewell-to-i.aspx",
+            "source": "Ahram Online"
+          }
+        ],
+        "isRTL": false,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-11-05",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 5,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-11-05",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "key": "gtrend:كريستيانو رونالدو",
+        "label": "كريستيانو رونالدو",
+        "rank": 6,
+        "views": 1000,
+        "posts": null,
+        "approxTraffic": "1000+",
+        "pubDate": "Thu, 5 Nov 2026 03:20:00 -0800",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJlJXRwgWTZv0eK1xGfkbsqLRNapcnfoSEJJcWE65B3SL6lUgroH7De8yJIaQ",
+        "why": [
+          {
+            "title": "نهاية زمن العمالقة.. ميسي ورونالدو يودعان الأرجنتين والبرتغال في 66 يوماً",
+            "url": "https://www.youm7.com/story/2026/11/5/%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%B2%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%D9%82%D8%A9-%D9%85%D9%8A%D8%B3%D9%8A-%D9%88%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D9%8A%D9%88%D8%AF%D8%B9%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84-%D9%81%D9%8A-66/7607089",
+            "source": "اليوم السابع"
+          },
+          {
+            "title": "رونالدو يعتزل اللعب الدولي مع منتخب البرتغال",
+            "url": "https://www.skynewsarabia.com/sport/1902883-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D9%8A%D8%B9%D8%AA%D8%B2%D9%84-%D8%A7%D9%84%D9%84%D8%B9%D8%A8-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84",
+            "source": "سكاي نيوز عربية"
+          },
+          {
+            "title": "كريستيانو رونالدو يعلن نهاية مشواره الدولي مع منتخب البرتغال",
+            "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=05112026&id=31fa7d6e-31a6-4918-ad7d-cfbc923fffcb",
+            "source": "بوابة الشروق"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-11-05",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 6,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-11-05",
+            "rank": 6
+          }
+        ]
+      },
+      {
+        "key": "gtrend:اقالة حسام حسن",
+        "label": "اقالة حسام حسن",
+        "rank": 7,
+        "views": 200,
+        "posts": null,
+        "approxTraffic": "200+",
+        "pubDate": "Thu, 5 Nov 2026 03:00:00 -0800",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-T8YRe-v50TM5THtoXH0KiGtsIX2bNNoggxo6u9-IA1Yx_-5Q3pOm0WLSGTM",
+        "why": [
+          {
+            "title": "بقرار رسمي.. منع ظهور حسام حسن على كافة الفضائيات في مصر",
+            "url": "https://www.alarabiya.net/arab-and-world/egypt/2026/11/04/%D8%A8%D9%82%D8%B1%D8%A7%D8%B1-%D8%B1%D8%B3%D9%85%D9%8A-%D9%85%D9%86%D8%B9-%D8%B8%D9%87%D9%88%D8%B1-%D8%AD%D8%B3%D8%A7%D9%85-%D8%AD%D8%B3%D9%86-%D8%B9%D9%84%D9%89-%D9%83%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1",
+            "source": "العربية"
+          },
+          {
+            "title": "مصر.. منع حسام حسن من الظهور الإعلامي",
+            "url": "https://www.skynewsarabia.com/sport/1902639-%D9%85%D8%B5%D8%B1-%D9%85%D9%86%D8%B9-%D8%AD%D8%B3%D8%A7%D9%85-%D8%AD%D8%B3%D9%86-%D8%A7%D9%84%D8%B8%D9%87%D9%88%D8%B1-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A",
+            "source": "سكاي نيوز عربية"
+          },
+          {
+            "title": "نعتقد أن معه حق : تعليق معتز الشامي على قرار المجلس الاعلى لـ الاعلام منع ظهور حسام حسن",
+            "url": "https://www.zamalektoday.com/index.php?go=news&more=188135",
+            "source": "الزمالك اليوم"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-11-05",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 7,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-11-05",
+            "rank": 7
+          }
+        ]
+      },
+      {
+        "key": "gtrend:مرام علي",
+        "label": "مرام علي",
+        "rank": 8,
+        "views": 100,
+        "posts": null,
+        "approxTraffic": "100+",
+        "pubDate": "Thu, 5 Nov 2026 03:00:00 -0800",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx2l5lA7S_S-tLop83bJ_YNCy8_ceqlnhbj9KUGd-kLX7X8ymkUCAmDmM0Wko",
+        "why": [
+          {
+            "title": "«كان بيقولي أنتي أختي».. مرام علي: تعرضت للتحرش اللفظي.. وكلامي للمتحرش خلاه يعيط",
+            "url": "https://www.almasryalyoum.com/news/details/4400904",
+            "source": "المصري اليوم"
+          },
+          {
+            "title": "\"اخترت الصمت\".. مرام علي تكشف \"تفاصيل صادمة\" حول تعرضها للخيانة",
+            "url": "https://www.eremnews.com/entertainment/qdv61lb",
+            "source": "إرم نيوز"
+          },
+          {
+            "title": "مرام علي: تعرضت للتحرش اللفظي.. وكلامي للشخص المتحرش خلاه يعيط",
+            "url": "https://akhbarelyom.com/news/newdetails/4901657/1/%D9%85%D8%B1%D8%A7%D9%85-%D8%B9%D9%84%D9%8A-%D8%AA%D8%B9%D8%B1%D8%B6%D8%AA-%D9%84%D9%84%D8%AA%D8%AD%D8%B1%D8%B4-%D8%A7%D9%84%D9%84%D9%81%D8%B8%D9%8A-%D9%88%D9%83%D9%84%D8%A7%D9%85%D9%8A-%D9%84%D9%84%D8%B4%D8%AE",
+            "source": "بوابة أخبار اليوم الإلكترونية"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-11-05",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 8,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-11-05",
+            "rank": 8
+          }
+        ]
+      },
+      {
+        "key": "gtrend:xiaomi hyperos 4",
+        "label": "xiaomi hyperos 4",
+        "rank": 9,
+        "views": 100,
+        "posts": null,
+        "approxTraffic": "100+",
+        "pubDate": "Thu, 5 Nov 2026 02:50:00 -0800",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_orImf1tKQd3QVPxlNL7guipQzF4PFRop6gILcej6g_eGajLLcZBiV2FYRH8",
+        "why": [
+          {
+            "title": "Xiaomi unveils the HyperOS 4 update rollout schedule - GSMArena.com news",
+            "url": "https://www.gsmarena.com/xiaomi_sets_the_hyperos_4_update_rollout_schedule-news-75340.php",
+            "source": "GSMArena.com"
+          },
+          {
+            "title": "Xiaomi Starts Android 17 HyperOS 4 Rollout: Is Your Redmi or Poco Phone Eligible?",
+            "url": "https://www.techrepublic.com/article/news-xiaomi-hyperos-4-rollout-eligible-devices/",
+            "source": "TechRepublic"
+          },
+          {
+            "title": "Stable HyperOS 4 rollout begins: 33 out of 82 devices scheduled for early November",
+            "url": "https://www.gizmochina.com/2026/11/04/stable-hyperos-4-rollout-begins-33-out-of-82-devices-scheduled-for-early-november/",
+            "source": "Gizmochina"
+          }
+        ],
+        "isRTL": false,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-11-05",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 9,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-11-05",
+            "rank": 9
+          }
+        ]
+      },
+      {
+        "key": "gtrend:hossam hassan",
+        "label": "hossam hassan",
+        "rank": 10,
+        "views": 200,
+        "posts": null,
+        "approxTraffic": "200+",
+        "pubDate": "Thu, 5 Nov 2026 02:30:00 -0800",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkftGL5UqlFO81TxLQNPAGG4zNi3aEymWWwpk6DRgg8TLe57LJ6Mo5BhenQkU",
+        "why": [
+          {
+            "title": "Officially: Hossam Hassan banned from media appearances",
+            "url": "https://www.goal.com/en/news/officially-hossam-hassan-banned-from-media-appearances/blt0b3bba0ba4c9cfe5",
+            "source": "Goal.com"
+          },
+          {
+            "title": "In video: the Football Association opens the file on sacking Hossam Hassan, with two candidates in line to succeed him",
+            "url": "https://www.goal.com/en-in/news/in-video-the-football-association-opens-the-file-on-sacking-hossam-hassan-with-two-candidates-in-line-to-succeed-him/bltd61f0a5d7f7924b6",
+            "source": "Goal.com"
+          },
+          {
+            "title": "SCMR bans Egypt coach Hossam from media appearances - National Teams - Sports",
+            "url": "https://english.ahram.org.eg/NewsContent/6/52/581693/Sports/National-Teams/SCMR-bans-Egypt-coach-Hossam-from-media-appearance.aspx",
+            "source": "Ahram Online"
+          }
+        ],
+        "isRTL": false,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-11-05",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 10,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-11-05",
+            "rank": 10
+          }
+        ]
+      }
+    ],
+    "rising": [],
+    "videos": [],
+    "audioCharts": [
+      {
+        "key": "apple:6822434904",
+        "id": "6822434904",
+        "label": "El Hazz",
+        "artist": "Wegz",
+        "rank": 1,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-10-19",
+        "genre": "Pop",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/f0/ec/33f0ece3-d007-4cdd-03b7-de6dfaa1442b/199806680476.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/el-hazz/6822433775?i=6822434904",
+        "artistUrl": "https://music.apple.com/eg/artist/wegz/1451910317",
+        "daysSinceRelease": 18,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-10-21",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 16,
+        "rankPrev": 1,
+        "rankDelta": 0,
+        "rank7dAgo": 6,
+        "rankDelta7d": 5,
+        "velocity3d": 0,
+        "acceleration": -0.33,
+        "peakRank": 1,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 23
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 20
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 14
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 7
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 6
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 4
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 3
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 3
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 2
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 2
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 1
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 1
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 1
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 1
+          }
+        ]
+      },
+      {
+        "key": "apple:6824513072",
+        "id": "6824513072",
+        "label": "طب دا كلام ياطيري",
+        "artist": "Hamo El Morshedy",
+        "rank": 2,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-10-17",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/0b/68/db0b68bd-e1a6-5396-404d-ff3cd4fd3dc1/cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/%D8%B7%D8%A8-%D8%AF%D8%A7-%D9%83%D9%84%D8%A7%D9%85-%D9%8A%D8%A7%D8%B7%D9%8A%D8%B1%D9%8A/6824513062?i=6824513072",
+        "artistUrl": "https://music.apple.com/eg/artist/hamo-el-morshedy/1572784672",
+        "daysSinceRelease": 20,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-10-21",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 16,
+        "rankPrev": 2,
+        "rankDelta": 0,
+        "rank7dAgo": 1,
+        "rankDelta7d": -1,
+        "velocity3d": 0,
+        "acceleration": 0.33,
+        "peakRank": 1,
+        "daysSincePeak": 4,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 1
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 1
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 1
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 1
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 1
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 1
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 1
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 1
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 1
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 1
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 2
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 2
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 2
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 2
+          }
+        ]
+      },
+      {
+        "key": "apple:6786618014",
+        "id": "6786618014",
+        "label": "EL BADLA WEL FOSTAN",
+        "artist": "abulhawa",
+        "rank": 3,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-07-14",
+        "genre": "Pop, Singer/Songwriter",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/b3/31/c9b3319b-2686-9d1c-4fcd-9c629c8f3161/artwork.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/el-badla-wel-fostan/6786618013?i=6786618014",
+        "artistUrl": "https://music.apple.com/eg/artist/abulhawa/6786269239",
+        "daysSinceRelease": 115,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 3,
+        "rankDelta": 0,
+        "rank7dAgo": 2,
+        "rankDelta7d": -1,
+        "velocity3d": 0,
+        "acceleration": 0,
+        "peakRank": 1,
+        "daysSincePeak": 14,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 2
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 2
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 2
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 2
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 2
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 2
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 2
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 2
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 3
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 3
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 3
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 3
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 3
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 3
+          }
+        ]
+      },
+      {
+        "key": "apple:6795519311",
+        "id": "6795519311",
+        "label": "اخوك جايبها م الصفر",
+        "artist": "Hamo El Morshedy",
+        "rank": 4,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-07-28",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/19/10/f81910e9-0e0a-5d77-fda2-9b80571cf162/6221216981868_Artwork.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/%D8%A7%D8%AE%D9%88%D9%83-%D8%AC%D8%A7%D9%8A%D8%A8%D9%87%D8%A7-%D9%85-%D8%A7%D9%84%D8%B5%D9%81%D8%B1/6795519308?i=6795519311",
+        "artistUrl": "https://music.apple.com/eg/artist/hamo-el-morshedy/1572784672",
+        "daysSinceRelease": 101,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 5,
+        "rankDelta": 1,
+        "rank7dAgo": 4,
+        "rankDelta7d": 0,
+        "velocity3d": 0.67,
+        "acceleration": 0.67,
+        "peakRank": 2,
+        "daysSincePeak": 27,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 4
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 4
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 4
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 4
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 4
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 6
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 5
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 5
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 5
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 5
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 6
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 5
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 5
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 4
+          }
+        ]
+      },
+      {
+        "key": "apple:6815268303",
+        "id": "6815268303",
+        "label": "SUPREME",
+        "artist": "Afroto & Hamo El Morshedy",
+        "rank": 5,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-09-24",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/23/d2/1523d2aa-ef0a-ed01-9008-7013c44558fc/619165335553.jpg/100x102bb.jpg",
+        "url": "https://music.apple.com/eg/album/supreme/6815268087?i=6815268303",
+        "artistUrl": "https://music.apple.com/eg/artist/afroto/1474733637",
+        "daysSinceRelease": 43,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-26",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 41,
+        "rankPrev": 6,
+        "rankDelta": 1,
+        "rank7dAgo": 3,
+        "rankDelta7d": -2,
+        "velocity3d": -0.33,
+        "acceleration": 0.34,
+        "peakRank": 1,
+        "daysSincePeak": 19,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 3
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 3
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 3
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 3
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 3
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 3
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 4
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 4
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 4
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 4
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 4
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 6
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 6
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "key": "apple:6793679161",
+        "id": "6793679161",
+        "label": "Shoft Kalam",
+        "artist": "Marwan Pablo, Lege-Cy & HatemBas",
+        "rank": 6,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-07-22",
+        "genre": "Worldwide",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/c4/31/01c43187-da8b-fc50-b68e-2e71cd1d7c85/885288123609.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/shoft-kalam/6793678943?i=6793679161",
+        "artistUrl": "https://music.apple.com/eg/artist/marwan-pablo/1474157282",
+        "daysSinceRelease": 107,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 4,
+        "rankDelta": -2,
+        "rank7dAgo": 5,
+        "rankDelta7d": -1,
+        "velocity3d": -0.33,
+        "acceleration": -1,
+        "peakRank": 1,
+        "daysSincePeak": 35,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 5
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 5
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 5
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 5
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 5
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 5
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 6
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 6
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 6
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 6
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 5
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 4
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 4
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 6
+          }
+        ]
+      },
+      {
+        "key": "apple:6811945696",
+        "id": "6811945696",
+        "label": "عشان بحبك",
+        "artist": "Amr Mostafa, Hamo El Morshedy & Wezza Montaser",
+        "rank": 7,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-09-08",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/09/1b/9f091b0a-2bad-4413-0ebf-4f6e7df65452/6221117233622.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/%D8%B9%D8%B4%D8%A7%D9%86-%D8%A8%D8%AD%D8%A8%D9%83/6811945693?i=6811945696",
+        "artistUrl": "https://music.apple.com/eg/artist/amr-mostafa/279841444",
+        "daysSinceRelease": 59,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-25",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 42,
+        "rankPrev": 7,
+        "rankDelta": 0,
+        "rank7dAgo": 7,
+        "rankDelta7d": 0,
+        "velocity3d": 0,
+        "acceleration": 0,
+        "peakRank": 1,
+        "daysSincePeak": 41,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 6
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 6
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 6
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 6
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 7
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 7
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 7
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 7
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 7
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 7
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 7
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 7
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 7
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 7
+          }
+        ]
+      },
+      {
+        "key": "apple:6813445326",
+        "id": "6813445326",
+        "label": "HASESS BIK",
+        "artist": "Zaid Khaled & Nasser",
+        "rank": 8,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-09-21",
+        "genre": "Pop",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/c8/b1/0ac8b1a4-a758-66bd-5d81-814d257c8313/26UM1IM20600.rgb.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/hasess-bik/6813444889?i=6813445326",
+        "artistUrl": "https://music.apple.com/eg/artist/zaid-khaled/1516522688",
+        "daysSinceRelease": 46,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-23",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 44,
+        "rankPrev": 9,
+        "rankDelta": 1,
+        "rank7dAgo": 11,
+        "rankDelta7d": 3,
+        "velocity3d": 0,
+        "acceleration": 0,
+        "peakRank": 5,
+        "daysSincePeak": 31,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 9
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 9
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 10
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 10
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 11
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 8
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 8
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 10
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 10
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 9
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 8
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 9
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 9
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 8
+          }
+        ]
+      },
+      {
+        "key": "apple:6799391413",
+        "id": "6799391413",
+        "label": "اركب الدبابه",
+        "artist": "Hamo El Morshedy",
+        "rank": 9,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-08-08",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/d6/c1/f7d6c105-d70a-aa47-f9a4-2b273c579498/6221216993755_Artwork.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/%D8%A7%D8%B1%D9%83%D8%A8-%D8%A7%D9%84%D8%AF%D8%A8%D8%A7%D8%A8%D9%87/6799391412?i=6799391413",
+        "artistUrl": "https://music.apple.com/eg/artist/hamo-el-morshedy/1572784672",
+        "daysSinceRelease": 90,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 8,
+        "rankDelta": -1,
+        "rank7dAgo": 12,
+        "rankDelta7d": 3,
+        "velocity3d": 0,
+        "acceleration": 0,
+        "peakRank": 6,
+        "daysSincePeak": 27,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 10
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 8
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 8
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 11
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 12
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 12
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 12
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 9
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 8
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 8
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 9
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 8
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 8
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 9
+          }
+        ]
+      },
+      {
+        "key": "apple:6792757021",
+        "id": "6792757021",
+        "label": "Wlad ElHalal",
+        "artist": "Tamer Ashour",
+        "rank": 10,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-07-20",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1e/cd/a11ecd2f-ee9c-16f9-b38d-e760b43afc2a/619165335423.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/wlad-elhalal/6792757012?i=6792757021",
+        "artistUrl": "https://music.apple.com/eg/artist/tamer-ashour/196529633",
+        "daysSinceRelease": 109,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 10,
+        "rankDelta": 0,
+        "rank7dAgo": 10,
+        "rankDelta7d": 0,
+        "velocity3d": 0.33,
+        "acceleration": 0.33,
+        "peakRank": 9,
+        "daysSincePeak": 8,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 12
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 11
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 11
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 12
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 10
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 9
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 10
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 11
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 11
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 10
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 11
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 11
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 10
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 10
+          }
+        ]
+      },
+      {
+        "key": "apple:1833232274",
+        "id": "1833232274",
+        "label": "Kelma",
+        "artist": "Ramy Sabry",
+        "rank": 11,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2008-11-03",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/86/6b/d6866b86-9c68-5488-ea5b-b406ce47ebfb/689860602922_cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/kelma/1833232028?i=1833232274",
+        "artistUrl": "https://music.apple.com/eg/artist/ramy-sabry/303753612",
+        "daysSinceRelease": 6577,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 11,
+        "rankDelta": 0,
+        "rank7dAgo": 15,
+        "rankDelta7d": 4,
+        "velocity3d": 1,
+        "acceleration": 0.33,
+        "peakRank": 10,
+        "daysSincePeak": 40,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 17
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 16
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 16
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 15
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 15
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 14
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 15
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 14
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 15
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 13
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 14
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 12
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 11
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 11
+          }
+        ]
+      },
+      {
+        "key": "apple:6797576801",
+        "id": "6797576801",
+        "label": "Men Gheir Kalam",
+        "artist": "TUL8TE",
+        "rank": 12,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-08-06",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/2f/73/2d2f739c-eb8c-fd9e-c67a-f7704d3fb66e/cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/men-gheir-kalam/6797576792?i=6797576801",
+        "artistUrl": "https://music.apple.com/eg/artist/tul8te/1637337830",
+        "daysSinceRelease": 92,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 13,
+        "rankDelta": 1,
+        "rank7dAgo": 9,
+        "rankDelta7d": -3,
+        "velocity3d": -0.67,
+        "acceleration": -0.34,
+        "peakRank": 5,
+        "daysSincePeak": 42,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 8
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 10
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 9
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 9
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 9
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 10
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 11
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 12
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 12
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 12
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 10
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 10
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 13
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 12
+          }
+        ]
+      },
+      {
+        "key": "apple:6803568785",
+        "id": "6803568785",
+        "label": "يا حبيبنا | ريدبُل مزيكا صالونات",
+        "artist": "Red Bull Sika, Hakim, Houda Bondok & Ahmed Tarek Yehia",
+        "rank": 13,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-08-20",
+        "genre": "Pop",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/ed/7e/b7ed7e10-b16d-4799-3232-458cd81bafbf/759009835259.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/%D9%8A%D8%A7-%D8%AD%D8%A8%D9%8A%D8%A8%D9%86%D8%A7-%D8%B1%D9%8A%D8%AF%D8%A8-%D9%84-%D9%85%D8%B2%D9%8A%D9%83%D8%A7-%D8%B5%D8%A7%D9%84%D9%88%D9%86%D8%A7%D8%AA/6803568777?i=6803568785",
+        "artistUrl": "https://music.apple.com/eg/artist/red-bull-sika/1852788092",
+        "daysSinceRelease": 78,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 14,
+        "rankDelta": 1,
+        "rank7dAgo": 18,
+        "rankDelta7d": 5,
+        "velocity3d": 0,
+        "acceleration": 0,
+        "peakRank": 13,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 18
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 18
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 18
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 19
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 18
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 17
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 16
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 16
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 13
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 14
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 13
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 14
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 14
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 13
+          }
+        ]
+      },
+      {
+        "key": "apple:6809517923",
+        "id": "6809517923",
+        "label": "لاعبت الكبار",
+        "artist": "Hamo El Morshedy",
+        "rank": 14,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-09-07",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/7f/24/8d7f245f-589b-2b70-a23e-4fc3c6a66d66/cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/%D9%84%D8%A7%D8%B9%D8%A8%D8%AA-%D8%A7%D9%84%D9%83%D8%A8%D8%A7%D8%B1/6809517915?i=6809517923",
+        "artistUrl": "https://music.apple.com/eg/artist/hamo-el-morshedy/1572784672",
+        "daysSinceRelease": 60,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 12,
+        "rankDelta": -2,
+        "rank7dAgo": 8,
+        "rankDelta7d": -6,
+        "velocity3d": -0.67,
+        "acceleration": -0.34,
+        "peakRank": 3,
+        "daysSincePeak": 40,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 7
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 7
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 7
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 8
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 8
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 11
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 9
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 8
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 9
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 11
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 12
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 13
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 12
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 14
+          }
+        ]
+      },
+      {
+        "key": "apple:6799628008",
+        "id": "6799628008",
+        "label": "كوكب النسيان",
+        "artist": "Hamo El Morshedy",
+        "rank": 15,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-08-08",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/6d/d0/956dd0cb-9ec9-b311-85d7-7e7623270bec/6221216995742_Artwork.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/%D9%83%D9%88%D9%83%D8%A8-%D8%A7%D9%84%D9%86%D8%B3%D9%8A%D8%A7%D9%86/6799628007?i=6799628008",
+        "artistUrl": "https://music.apple.com/eg/artist/hamo-el-morshedy/1572784672",
+        "daysSinceRelease": 90,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 15,
+        "rankDelta": 0,
+        "rank7dAgo": 14,
+        "rankDelta7d": -1,
+        "velocity3d": 0,
+        "acceleration": 0,
+        "peakRank": 8,
+        "daysSincePeak": 34,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 15
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 14
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 13
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 14
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 14
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 15
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 14
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 13
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 14
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 15
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 15
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 15
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 15
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 15
+          }
+        ]
+      },
+      {
+        "key": "apple:6797577235",
+        "id": "6797577235",
+        "label": "Wala Ash Wala Kan",
+        "artist": "TUL8TE",
+        "rank": 16,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-08-06",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/2f/73/2d2f739c-eb8c-fd9e-c67a-f7704d3fb66e/cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/wala-ash-wala-kan/6797576792?i=6797577235",
+        "artistUrl": "https://music.apple.com/eg/artist/tul8te/1637337830",
+        "daysSinceRelease": 92,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 16,
+        "rankDelta": 0,
+        "rank7dAgo": 13,
+        "rankDelta7d": -3,
+        "velocity3d": 0,
+        "acceleration": 0,
+        "peakRank": 4,
+        "daysSincePeak": 42,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 11
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 12
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 12
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 13
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 13
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 13
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 13
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 15
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 17
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 16
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 16
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 16
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 16
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 16
+          }
+        ]
+      },
+      {
+        "key": "apple:6783339191",
+        "id": "6783339191",
+        "label": "Garee2a Awy - A COLORS SHOW",
+        "artist": "TUL8TE",
+        "rank": 17,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-07-06",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/16/d8/1716d894-4de6-0494-3568-5d36af85304e/840054915345.png/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/garee2a-awy-a-colors-show/6783339190?i=6783339191",
+        "artistUrl": "https://music.apple.com/eg/artist/tul8te/1637337830",
+        "daysSinceRelease": 123,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 17,
+        "rankDelta": 0,
+        "rank7dAgo": 16,
+        "rankDelta7d": -1,
+        "velocity3d": 0,
+        "acceleration": 0,
+        "peakRank": 6,
+        "daysSincePeak": 42,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 14
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 13
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 15
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 16
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 16
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 16
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 17
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 17
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 16
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 17
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 17
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 18
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 17
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 17
+          }
+        ]
+      },
+      {
+        "key": "apple:6781349378",
+        "id": "6781349378",
+        "label": "عيال جديدة لانج",
+        "artist": "Hamo El Morshedy",
+        "rank": 18,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-06-17",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/8f/72/4c8f72b1-5b27-6bf8-2ed3-6a5665e5bdb5/cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/%D8%B9%D9%8A%D8%A7%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%A7%D9%86%D8%AC/6781349237?i=6781349378",
+        "artistUrl": "https://music.apple.com/eg/artist/hamo-el-morshedy/1572784672",
+        "daysSinceRelease": 142,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 18,
+        "rankDelta": 0,
+        "rank7dAgo": 17,
+        "rankDelta7d": -1,
+        "velocity3d": 0,
+        "acceleration": 0,
+        "peakRank": 12,
+        "daysSincePeak": 41,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 19
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 19
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 19
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 17
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 17
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 18
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 18
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 18
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 18
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 18
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 18
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 17
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 18
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 18
+          }
+        ]
+      },
+      {
+        "key": "apple:582048008",
+        "id": "582048008",
+        "label": "Khalik Maaya",
+        "artist": "Amr Diab",
+        "rank": 19,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2005-05-03",
+        "genre": "Pop",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/be/aa/f0/beaaf038-dcc3-7cc3-0537-ff032c32594b/dj.rzniqsgh.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/khalik-maaya/582047931?i=582048008",
+        "artistUrl": "https://music.apple.com/eg/artist/amr-diab/15869915",
+        "daysSinceRelease": 7857,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 19,
+        "rankDelta": 0,
+        "rank7dAgo": 21,
+        "rankDelta7d": 2,
+        "velocity3d": 0,
+        "acceleration": 0,
+        "peakRank": 17,
+        "daysSincePeak": 28,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 25
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 23
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 23
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 25
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 21
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 21
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 19
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 21
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 20
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 19
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 19
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 19
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 19
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 19
+          }
+        ]
+      },
+      {
+        "key": "apple:1834403065",
+        "id": "1834403065",
+        "label": "3alam Kadaba (From The TV Series Ma Trah Lays Kama Ybdo)",
+        "artist": "Lege-Cy",
+        "rank": 20,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2025-08-22",
+        "genre": "Pop",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/cd/c1/c6cdc191-22a6-6395-7a3d-e28865940c38/25UM1IM22988.rgb.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/3alam-kadaba-from-the-tv-series-ma-trah-lays-kama-ybdo/1834402793?i=1834403065",
+        "artistUrl": "https://music.apple.com/eg/artist/lege-cy/1476427706",
+        "daysSinceRelease": 441,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 20,
+        "rankDelta": 0,
+        "rank7dAgo": 25,
+        "rankDelta7d": 5,
+        "velocity3d": 0,
+        "acceleration": -0.33,
+        "peakRank": 17,
+        "daysSincePeak": 29,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 2,
+        "verticals": [
+          "entertainment"
+        ],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [
+          "vertical-fit:entertainment"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 24
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 26
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 24
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 22
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 25
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 19
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 20
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 20
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 21
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 21
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 20
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 20
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 20
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 20
+          }
+        ]
+      },
+      {
+        "key": "apple:6771734686",
+        "id": "6771734686",
+        "label": "الولا حمو جه",
+        "artist": "Hamo El Morshedy",
+        "rank": 21,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-05-19",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/14/e3/2214e37b-dad6-707e-9495-aae762338d19/6221216940070_Artwork.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/%D8%A7%D9%84%D9%88%D9%84%D8%A7-%D8%AD%D9%85%D9%88-%D8%AC%D9%87/6771734683?i=6771734686",
+        "artistUrl": "https://music.apple.com/eg/artist/hamo-el-morshedy/1572784672",
+        "daysSinceRelease": 171,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 21,
+        "rankDelta": 0,
+        "rank7dAgo": 20,
+        "rankDelta7d": -1,
+        "velocity3d": 0,
+        "acceleration": 0.33,
+        "peakRank": 12,
+        "daysSincePeak": 42,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 20
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 22
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 21
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 20
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 20
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 24
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 21
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 19
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 19
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 20
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 21
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 22
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 21
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 21
+          }
+        ]
+      },
+      {
+        "key": "apple:1867566024",
+        "id": "1867566024",
+        "label": "Seneen",
+        "artist": "TUL8TE",
+        "rank": 22,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-01-11",
+        "genre": "Pop",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/8c/38/b48c3805-c878-3c15-0220-d2018e83428b/cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/seneen/1867566022?i=1867566024",
+        "artistUrl": "https://music.apple.com/eg/artist/tul8te/1637337830",
+        "daysSinceRelease": 299,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 22,
+        "rankDelta": 0,
+        "rank7dAgo": 22,
+        "rankDelta7d": 0,
+        "velocity3d": 0,
+        "acceleration": -0.67,
+        "peakRank": 17,
+        "daysSincePeak": 17,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 22
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 24
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 26
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 21
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 22
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 23
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 22
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 23
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 24
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 24
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 22
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 21
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 22
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 22
+          }
+        ]
+      },
+      {
+        "key": "apple:6771043152",
+        "id": "6771043152",
+        "label": "Nano",
+        "artist": "TUL8TE & Saint Levant",
+        "rank": 23,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-06-01",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/e4/8f/e9e48fb1-33f2-487f-3eca-433ba3e8b0ca/cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/nano/6771043145?i=6771043152",
+        "artistUrl": "https://music.apple.com/eg/artist/tul8te/1637337830",
+        "daysSinceRelease": 158,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 25,
+        "rankDelta": 2,
+        "rank7dAgo": 24,
+        "rankDelta7d": 1,
+        "velocity3d": 0,
+        "acceleration": 1,
+        "peakRank": 11,
+        "daysSincePeak": 45,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 21
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 21
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 22
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 24
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 24
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 22
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 23
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 22
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 22
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 22
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 23
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 25
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 25
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 23
+          }
+        ]
+      },
+      {
+        "key": "apple:6778083559",
+        "id": "6778083559",
+        "label": "صباحك بيور",
+        "artist": "Hamo El Morshedy",
+        "rank": 24,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-05-29",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/4c/91/8c4c9102-3277-8c95-16c3-505572ee35d9/cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/%D8%B5%D8%A8%D8%A7%D8%AD%D9%83-%D8%A8%D9%8A%D9%88%D8%B1/6778083132?i=6778083559",
+        "artistUrl": "https://music.apple.com/eg/artist/hamo-el-morshedy/1572784672",
+        "daysSinceRelease": 161,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 23,
+        "rankDelta": -1,
+        "rank7dAgo": 26,
+        "rankDelta7d": 2,
+        "velocity3d": 0.33,
+        "acceleration": 0.33,
+        "peakRank": 16,
+        "daysSincePeak": 41,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 28
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 25
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 27
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 27
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 26
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 27
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 25
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 24
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 23
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 23
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 25
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 24
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 23
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 24
+          }
+        ]
+      },
+      {
+        "key": "apple:1828448343",
+        "id": "1828448343",
+        "label": "Heseeny",
+        "artist": "TUL8TE",
+        "rank": 25,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2025-07-31",
+        "genre": "Latin",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/fd/a2/4bfda2f7-d1ca-f702-7be3-8e46b514005c/cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/heseeny/1828447926?i=1828448343",
+        "artistUrl": "https://music.apple.com/eg/artist/tul8te/1637337830",
+        "daysSinceRelease": 463,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 26,
+        "rankDelta": 1,
+        "rank7dAgo": 29,
+        "rankDelta7d": 4,
+        "velocity3d": -0.33,
+        "acceleration": -0.33,
+        "peakRank": 23,
+        "daysSincePeak": 2,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 30
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 29
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 29
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 29
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 29
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 28
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 26
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 26
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 26
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 26
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 24
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 23
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 26
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 25
+          }
+        ]
+      },
+      {
+        "key": "apple:1894623298",
+        "id": "1894623298",
+        "label": "M3a Nafsi",
+        "artist": "Ramy Sabry",
+        "rank": 26,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2022-02-20",
+        "genre": "Pop",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/d9/19/d3d9197d-942b-74b8-9a2b-944829eefe45/3616844610731_cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/m3a-nafsi/1894623292?i=1894623298",
+        "artistUrl": "https://music.apple.com/eg/artist/ramy-sabry/303753612",
+        "daysSinceRelease": 1720,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-25",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 42,
+        "rankPrev": 24,
+        "rankDelta": -2,
+        "rank7dAgo": 27,
+        "rankDelta7d": 1,
+        "velocity3d": 1,
+        "acceleration": -0.67,
+        "peakRank": 21,
+        "daysSincePeak": 21,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 29
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 28
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 28
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 28
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 27
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 26
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 27
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 28
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 29
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 29
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 29
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 26
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 24
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 26
+          }
+        ]
+      },
+      {
+        "key": "apple:1851322099",
+        "id": "1851322099",
+        "label": "البخت",
+        "artist": "Wegz",
+        "rank": 27,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2022-02-26",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/07/3b/e2073b69-e9a9-0377-2a37-8eabccbc8ef5/6221216329950.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/%D8%A7%D9%84%D8%A8%D8%AE%D8%AA/1851322097?i=1851322099",
+        "artistUrl": "https://music.apple.com/eg/artist/wegz/1451910317",
+        "daysSinceRelease": 1714,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-21",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 46,
+        "rankPrev": 30,
+        "rankDelta": 3,
+        "rank7dAgo": 34,
+        "rankDelta7d": 7,
+        "velocity3d": 1,
+        "acceleration": 1,
+        "peakRank": 27,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-17",
+            "rank": 49
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 48
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 41
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 36
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 34
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 32
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 32
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 32
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 31
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 30
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 30
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 27
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 30
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 27
+          }
+        ]
+      },
+      {
+        "key": "apple:6792757014",
+        "id": "6792757014",
+        "label": "Merayt El Hob",
+        "artist": "Tamer Ashour",
+        "rank": 28,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-07-20",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1e/cd/a11ecd2f-ee9c-16f9-b38d-e760b43afc2a/619165335423.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/merayt-el-hob/6792757012?i=6792757014",
+        "artistUrl": "https://music.apple.com/eg/artist/tamer-ashour/196529633",
+        "daysSinceRelease": 109,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 28,
+        "rankDelta": 0,
+        "rank7dAgo": 31,
+        "rankDelta7d": 3,
+        "velocity3d": 0,
+        "acceleration": 0,
+        "peakRank": 28,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 35
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 36
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 32
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 32
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 31
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 30
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 30
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 29
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 28
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 28
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 28
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 29
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 28
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 28
+          }
+        ]
+      },
+      {
+        "key": "apple:6817482012",
+        "id": "6817482012",
+        "label": "El Alb Mat",
+        "artist": "Houda",
+        "rank": 29,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-10-01",
+        "genre": "Pop",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/d5/fe/c9d5feb3-2b7f-3e44-357d-7e0676d65c41/5283024062611_Cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/el-alb-mat/6817482002?i=6817482012",
+        "artistUrl": "https://music.apple.com/eg/artist/houda/1527743104",
+        "daysSinceRelease": 36,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-10-07",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 30,
+        "rankPrev": 27,
+        "rankDelta": -2,
+        "rank7dAgo": 28,
+        "rankDelta7d": -1,
+        "velocity3d": -0.67,
+        "acceleration": 0,
+        "peakRank": 15,
+        "daysSincePeak": 21,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 27
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 27
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 25
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 26
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 28
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 29
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 28
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 27
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 25
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 25
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 27
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 28
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 27
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 29
+          }
+        ]
+      },
+      {
+        "key": "apple:1877135052",
+        "id": "1877135052",
+        "label": "انا 5 استار على كوكبى",
+        "artist": "Hamo El Morshedy",
+        "rank": 30,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-02-11",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/3d/36/de3d36dc-50cd-6d16-9b71-61a5d5ba30ef/cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/%D8%A7%D9%86%D8%A7-5-%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D8%B9%D9%84%D9%89-%D9%83%D9%88%D9%83%D8%A8%D9%89/1877134885?i=1877135052",
+        "artistUrl": "https://music.apple.com/eg/artist/hamo-el-morshedy/1572784672",
+        "daysSinceRelease": 268,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 29,
+        "rankDelta": -1,
+        "rank7dAgo": 30,
+        "rankDelta7d": 0,
+        "velocity3d": 0.33,
+        "acceleration": -0.34,
+        "peakRank": 24,
+        "daysSincePeak": 27,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 32
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 30
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 30
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 30
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 30
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 31
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 31
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 30
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 30
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 31
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 31
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 32
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 29
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 30
+          }
+        ]
+      },
+      {
+        "key": "apple:6823175149",
+        "id": "6823175149",
+        "label": "عايش | ريد بُل مزيكا صالونات",
+        "artist": "Marwan Pablo, Hesham Nazih & Red Bull Sika",
+        "rank": 31,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-10-15",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/86/20/bc86204c-eb15-4e81-de9c-b05442c033a5/6221117234964.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/%D8%B9%D8%A7%D9%8A%D8%B4-%D8%B1%D9%8A%D8%AF-%D8%A8-%D9%84-%D9%85%D8%B2%D9%8A%D9%83%D8%A7-%D8%B5%D8%A7%D9%84%D9%88%D9%86%D8%A7%D8%AA/6823175148?i=6823175149",
+        "artistUrl": "https://music.apple.com/eg/artist/marwan-pablo/1474157282",
+        "daysSinceRelease": 22,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-10-16",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 21,
+        "rankPrev": 31,
+        "rankDelta": 0,
+        "rank7dAgo": 19,
+        "rankDelta7d": -12,
+        "velocity3d": -1.67,
+        "acceleration": -0.34,
+        "peakRank": 3,
+        "daysSincePeak": 18,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "declining",
+        "verdict": "too-late",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 16
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 17
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 17
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 18
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 19
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 20
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 24
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 25
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 27
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 27
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 26
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 30
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 31
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 31
+          }
+        ]
+      },
+      {
+        "key": "apple:1775914889",
+        "id": "1775914889",
+        "label": "Ragea",
+        "artist": "Amr Diab",
+        "rank": 32,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2016-04-25",
+        "genre": "Pop",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/81/9f/a8819f9f-99f8-eb28-6a73-fcae47843bc8/3616842352848.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/ragea/1775914652?i=1775914889",
+        "artistUrl": "https://music.apple.com/eg/artist/amr-diab/15869915",
+        "daysSinceRelease": 3847,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 32,
+        "rankDelta": 0,
+        "rank7dAgo": 32,
+        "rankDelta7d": 0,
+        "velocity3d": 0,
+        "acceleration": 0,
+        "peakRank": 28,
+        "daysSincePeak": 22,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 39
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 37
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 36
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 33
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 32
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 35
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 33
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 34
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 34
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 32
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 32
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 31
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 32
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 32
+          }
+        ]
+      },
+      {
+        "key": "apple:880940097",
+        "id": "880940097",
+        "label": "Tamly Maak",
+        "artist": "Amr Diab",
+        "rank": 33,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2000-01-01",
+        "genre": "Pop, Dance, Rock",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/31/4d/d4/314dd42d-3246-e7a3-107a-3d521fa9a7e2/dj.iiicnpub.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/tamly-maak/880940009?i=880940097",
+        "artistUrl": "https://music.apple.com/eg/artist/amr-diab/15869915",
+        "daysSinceRelease": 9806,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 33,
+        "rankDelta": 0,
+        "rank7dAgo": 36,
+        "rankDelta7d": 3,
+        "velocity3d": 0,
+        "acceleration": 0,
+        "peakRank": 29,
+        "daysSincePeak": 20,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 45
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 40
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 34
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 34
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 36
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 39
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 36
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 35
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 32
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 33
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 33
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 33
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 33
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 33
+          }
+        ]
+      },
+      {
+        "key": "apple:534190622",
+        "id": "534190622",
+        "label": "Teadar Tetkalem",
+        "artist": "Amr Diab",
+        "rank": 34,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2005-05-22",
+        "genre": "Rock, Dance",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music32/v4/c3/62/ba/c362bacb-8556-d411-172f-7803bb6a5f6b/mzm.bzmpdxsk.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/teadar-tetkalem/534190615?i=534190622",
+        "artistUrl": "https://music.apple.com/eg/artist/amr-diab/15869915",
+        "daysSinceRelease": 7838,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 37,
+        "rankDelta": 3,
+        "rank7dAgo": 40,
+        "rankDelta7d": 6,
+        "velocity3d": 1.33,
+        "acceleration": -0.34,
+        "peakRank": 34,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 46
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 41
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 40
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 42
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 40
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 41
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 43
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 43
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 40
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 42
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 38
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 39
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 37
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 34
+          }
+        ]
+      },
+      {
+        "key": "apple:1894664047",
+        "id": "1894664047",
+        "label": "هيجيلي موجوع",
+        "artist": "Tamer Ashour",
+        "rank": 35,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2024-01-11",
+        "genre": "Pop",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/5b/a6/bc5ba615-b439-9a1a-28c9-fcb2fadd31f2/3617382720432_cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/%D9%87%D9%8A%D8%AC%D9%8A%D9%84%D9%8A-%D9%85%D9%88%D8%AC%D9%88%D8%B9/1894664006?i=1894664047",
+        "artistUrl": "https://music.apple.com/eg/artist/tamer-ashour/196529633",
+        "daysSinceRelease": 1030,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-10-17",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 20,
+        "rankPrev": 34,
+        "rankDelta": -1,
+        "rank7dAgo": 50,
+        "rankDelta7d": 15,
+        "velocity3d": 2.33,
+        "acceleration": 0.66,
+        "peakRank": 34,
+        "daysSincePeak": 1,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "rising",
+        "verdict": "act-now",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 50
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 45
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 42
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 47
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 50
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 42
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 39
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 36
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 42
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 39
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 42
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 38
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 34
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 35
+          }
+        ]
+      },
+      {
+        "key": "apple:6796409276",
+        "id": "6796409276",
+        "label": "Ana Fadel",
+        "artist": "Cairokee",
+        "rank": 36,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-08-03",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/a0/00/7fa00086-e72c-191b-6547-e8992f774a9a/885288056853.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/ana-fadel/6796408980?i=6796409276",
+        "artistUrl": "https://music.apple.com/eg/artist/cairokee/559870896",
+        "daysSinceRelease": 95,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 40,
+        "rankDelta": 4,
+        "rank7dAgo": 35,
+        "rankDelta7d": -1,
+        "velocity3d": 0.33,
+        "acceleration": 2.33,
+        "peakRank": 8,
+        "daysSincePeak": 44,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 38
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 35
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 33
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 35
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 35
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 34
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 34
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 33
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 38
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 34
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 37
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 35
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 40
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 36
+          }
+        ]
+      },
+      {
+        "key": "apple:1828447931",
+        "id": "1828447931",
+        "label": "Narein",
+        "artist": "TUL8TE",
+        "rank": 37,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2025-07-31",
+        "genre": "Latin",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/fd/a2/4bfda2f7-d1ca-f702-7be3-8e46b514005c/cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/narein/1828447926?i=1828447931",
+        "artistUrl": "https://music.apple.com/eg/artist/tul8te/1637337830",
+        "daysSinceRelease": 463,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 42,
+        "rankDelta": 5,
+        "rank7dAgo": 39,
+        "rankDelta7d": 2,
+        "velocity3d": -0.33,
+        "acceleration": 1,
+        "peakRank": 30,
+        "daysSincePeak": 17,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 40
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 42
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 43
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 38
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 39
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 36
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 38
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 40
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 43
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 38
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 36
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 37
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 42
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 37
+          }
+        ]
+      },
+      {
+        "key": "apple:1825148913",
+        "id": "1825148913",
+        "label": "بحكيلك عن الأيام",
+        "artist": "Ramy Sabry",
+        "rank": 38,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2025-07-17",
+        "genre": "Pop",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/b0/71/30b071e5-33b5-7aae-99bb-106e1eeb2646/197048051771_cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/%D8%A8%D8%AD%D9%83%D9%8A%D9%84%D9%83-%D8%B9%D9%86-%D8%A7%D9%84%D8%A3%D9%8A%D8%A7%D9%85/1825148911?i=1825148913",
+        "artistUrl": "https://music.apple.com/eg/artist/ramy-sabry/303753612",
+        "daysSinceRelease": 477,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 38,
+        "rankDelta": 0,
+        "rank7dAgo": 37,
+        "rankDelta7d": -1,
+        "velocity3d": 1,
+        "acceleration": -1,
+        "peakRank": 37,
+        "daysSincePeak": 8,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 41
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 44
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 44
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 41
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 37
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 37
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 41
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 44
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 44
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 44
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 41
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 41
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 38
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 38
+          }
+        ]
+      },
+      {
+        "key": "apple:1775936888",
+        "id": "1775936888",
+        "label": "Awel Kol Haga",
+        "artist": "Amr Diab",
+        "rank": 39,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2017-08-13",
+        "genre": "Pop",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/e1/97/d2e19759-e749-749a-a439-1e310ac89f14/889502763589.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/awel-kol-haga/1775936881?i=1775936888",
+        "artistUrl": "https://music.apple.com/eg/artist/amr-diab/15869915",
+        "daysSinceRelease": 3372,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-23",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 44,
+        "rankPrev": 39,
+        "rankDelta": 0,
+        "rank7dAgo": 45,
+        "rankDelta7d": 6,
+        "velocity3d": 1.33,
+        "acceleration": 0.66,
+        "peakRank": 39,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-21",
+            "rank": 50
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 50
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 48
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 46
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 45
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 46
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 44
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 45
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 45
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 41
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 43
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 43
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 39
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 39
+          }
+        ]
+      },
+      {
+        "key": "apple:1829420259",
+        "id": "1829420259",
+        "label": "BALINI",
+        "artist": "ZIAD ZAZA",
+        "rank": 40,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2025-07-28",
+        "genre": "Pop, Hip-Hop/Rap",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/28/12/7b2812f4-a293-b287-f298-c5349a67691d/196873462837.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/balini/1829420256?i=1829420259",
+        "artistUrl": "https://music.apple.com/eg/artist/ziad-zaza/1620814699",
+        "daysSinceRelease": 466,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-10-09",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 28,
+        "rankPrev": 47,
+        "rankDelta": 7,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0.38,
+        "acceleration": 0.5,
+        "peakRank": 40,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-09",
+            "rank": 44
+          },
+          {
+            "date": "2026-10-11",
+            "rank": 45
+          },
+          {
+            "date": "2026-10-13",
+            "rank": 44
+          },
+          {
+            "date": "2026-10-14",
+            "rank": 44
+          },
+          {
+            "date": "2026-10-15",
+            "rank": 48
+          },
+          {
+            "date": "2026-10-19",
+            "rank": 45
+          },
+          {
+            "date": "2026-10-20",
+            "rank": 46
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 48
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 47
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 40
+          }
+        ]
+      },
+      {
+        "key": "apple:6792757294",
+        "id": "6792757294",
+        "label": "Nzelt Etmashet",
+        "artist": "Tamer Ashour",
+        "rank": 41,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-07-20",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1e/cd/a11ecd2f-ee9c-16f9-b38d-e760b43afc2a/619165335423.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/nzelt-etmashet/6792757012?i=6792757294",
+        "artistUrl": "https://music.apple.com/eg/artist/tamer-ashour/196529633",
+        "daysSinceRelease": 109,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-10-28",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 9,
+        "rankPrev": 35,
+        "rankDelta": -6,
+        "rank7dAgo": 49,
+        "rankDelta7d": 8,
+        "velocity3d": -2,
+        "acceleration": -2,
+        "peakRank": 34,
+        "daysSincePeak": 2,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "declining",
+        "verdict": "too-late",
+        "runwayDays": 3,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-28",
+            "rank": 49
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 45
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 39
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 37
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 35
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 35
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 34
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 35
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 41
+          }
+        ]
+      },
+      {
+        "key": "apple:6797577228",
+        "id": "6797577228",
+        "label": "Ha'ak Alaya",
+        "artist": "TUL8TE",
+        "rank": 42,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-08-06",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/2f/73/2d2f739c-eb8c-fd9e-c67a-f7704d3fb66e/cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/haak-alaya/6797576792?i=6797577228",
+        "artistUrl": "https://music.apple.com/eg/artist/tul8te/1637337830",
+        "daysSinceRelease": 92,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 36,
+        "rankDelta": -6,
+        "rank7dAgo": 41,
+        "rankDelta7d": -1,
+        "velocity3d": -2.67,
+        "acceleration": -3,
+        "peakRank": 24,
+        "daysSincePeak": 45,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "declining",
+        "verdict": "too-late",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 36
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 38
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 37
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 37
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 41
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 38
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 37
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 38
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 36
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 37
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 34
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 36
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 36
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 42
+          }
+        ]
+      },
+      {
+        "key": "apple:1806802247",
+        "id": "1806802247",
+        "label": "LEH",
+        "artist": "Nasser",
+        "rank": 43,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2025-04-04",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/26/7d/ed267d75-d04e-1943-e710-36e518e5f719/6221117195913.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/leh/1806802246?i=1806802247",
+        "artistUrl": "https://music.apple.com/eg/artist/nasser/1664916851",
+        "daysSinceRelease": 581,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 41,
+        "rankDelta": -2,
+        "rank7dAgo": 38,
+        "rankDelta7d": -5,
+        "velocity3d": 0.67,
+        "acceleration": -0.66,
+        "peakRank": 31,
+        "daysSincePeak": 16,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 43
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 47
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 46
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 40
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 38
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 40
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 40
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 41
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 41
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 45
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 45
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 42
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 41
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 43
+          }
+        ]
+      },
+      {
+        "key": "apple:1833232031",
+        "id": "1833232031",
+        "label": "Fi Eih",
+        "artist": "Ramy Sabry",
+        "rank": 44,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2008-11-03",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/86/6b/d6866b86-9c68-5488-ea5b-b406ce47ebfb/689860602922_cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/fi-eih/1833232028?i=1833232031",
+        "artistUrl": "https://music.apple.com/eg/artist/ramy-sabry/303753612",
+        "daysSinceRelease": 6577,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-10-04",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 33,
+        "rankPrev": 43,
+        "rankDelta": -1,
+        "rank7dAgo": 46,
+        "rankDelta7d": 2,
+        "velocity3d": 0.67,
+        "acceleration": -0.33,
+        "peakRank": 43,
+        "daysSincePeak": 1,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-06",
+            "rank": 46
+          },
+          {
+            "date": "2026-10-07",
+            "rank": 49
+          },
+          {
+            "date": "2026-10-09",
+            "rank": 50
+          },
+          {
+            "date": "2026-10-11",
+            "rank": 46
+          },
+          {
+            "date": "2026-10-14",
+            "rank": 46
+          },
+          {
+            "date": "2026-10-17",
+            "rank": 45
+          },
+          {
+            "date": "2026-10-18",
+            "rank": 49
+          },
+          {
+            "date": "2026-10-19",
+            "rank": 49
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 49
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 46
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 46
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 45
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 43
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 44
+          }
+        ]
+      },
+      {
+        "key": "apple:6797576803",
+        "id": "6797576803",
+        "label": "Enta Habeeby",
+        "artist": "TUL8TE",
+        "rank": 45,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-08-06",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/2f/73/2d2f739c-eb8c-fd9e-c67a-f7704d3fb66e/cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/enta-habeeby/6797576792?i=6797576803",
+        "artistUrl": "https://music.apple.com/eg/artist/tul8te/1637337830",
+        "daysSinceRelease": 92,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 45,
+        "rankDelta": 0,
+        "rank7dAgo": 33,
+        "rankDelta7d": -12,
+        "velocity3d": -1.67,
+        "acceleration": -1,
+        "peakRank": 19,
+        "daysSincePeak": 44,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "declining",
+        "verdict": "too-late",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 34
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 32
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 31
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 31
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 33
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 33
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 35
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 37
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 39
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 43
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 40
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 40
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 45
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 45
+          }
+        ]
+      },
+      {
+        "key": "apple:6793040764",
+        "id": "6793040764",
+        "label": "Lola El Banat",
+        "artist": "Amr Diab",
+        "rank": 46,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-07-22",
+        "genre": "Pop, Classical",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/5b/fd/4b5bfdec-c374-afcc-ed93-26207f245082/196874624913.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/lola-el-banat/6793040762?i=6793040764",
+        "artistUrl": "https://music.apple.com/eg/artist/amr-diab/15869915",
+        "daysSinceRelease": 107,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-20",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 47,
+        "rankPrev": 49,
+        "rankDelta": 3,
+        "rank7dAgo": 43,
+        "rankDelta7d": -3,
+        "velocity3d": -0.67,
+        "acceleration": 2.33,
+        "peakRank": 20,
+        "daysSincePeak": 46,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-23",
+            "rank": 42
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 33
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 35
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 39
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 43
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 43
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 42
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 42
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 33
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 40
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 44
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 47
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 49
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 46
+          }
+        ]
+      },
+      {
+        "key": "apple:6780180026",
+        "id": "6780180026",
+        "label": "لو تعرف",
+        "artist": "Ramy Sabry",
+        "rank": 47,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-06-16",
+        "genre": "Pop",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/79/b4/9879b499-a6b8-2ae4-4b7a-f4486b30199b/197048057292_cover.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/%D9%84%D9%88-%D8%AA%D8%B9%D8%B1%D9%81/6780179668?i=6780180026",
+        "artistUrl": "https://music.apple.com/eg/artist/ramy-sabry/303753612",
+        "daysSinceRelease": 143,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-18",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 49,
+        "rankPrev": 48,
+        "rankDelta": 1,
+        "rank7dAgo": 44,
+        "rankDelta7d": -3,
+        "velocity3d": -0.37,
+        "acceleration": 0.3,
+        "peakRank": 36,
+        "daysSincePeak": 31,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-17",
+            "rank": 42
+          },
+          {
+            "date": "2026-10-18",
+            "rank": 37
+          },
+          {
+            "date": "2026-10-19",
+            "rank": 43
+          },
+          {
+            "date": "2026-10-20",
+            "rank": 47
+          },
+          {
+            "date": "2026-10-21",
+            "rank": 48
+          },
+          {
+            "date": "2026-10-22",
+            "rank": 48
+          },
+          {
+            "date": "2026-10-23",
+            "rank": 48
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 50
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 48
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 44
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 44
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 46
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 48
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 47
+          }
+        ]
+      },
+      {
+        "key": "apple:6793040769",
+        "id": "6793040769",
+        "label": "Getlak",
+        "artist": "Amr Diab",
+        "rank": 48,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2026-07-22",
+        "genre": "Pop",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/5b/fd/4b5bfdec-c374-afcc-ed93-26207f245082/196874624913.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/getlak/6793040762?i=6793040769",
+        "artistUrl": "https://music.apple.com/eg/artist/amr-diab/15869915",
+        "daysSinceRelease": 107,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-17",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 50,
+        "rankPrev": 47,
+        "rankDelta": -1,
+        "rank7dAgo": 42,
+        "rankDelta7d": -6,
+        "velocity3d": 0.17,
+        "acceleration": 0.17,
+        "peakRank": 18,
+        "daysSincePeak": 45,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-20",
+            "rank": 41
+          },
+          {
+            "date": "2026-10-21",
+            "rank": 46
+          },
+          {
+            "date": "2026-10-22",
+            "rank": 47
+          },
+          {
+            "date": "2026-10-23",
+            "rank": 44
+          },
+          {
+            "date": "2026-10-24",
+            "rank": 39
+          },
+          {
+            "date": "2026-10-25",
+            "rank": 38
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 43
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 42
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 47
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 47
+          },
+          {
+            "date": "2026-10-30",
+            "rank": 49
+          },
+          {
+            "date": "2026-10-31",
+            "rank": 48
+          },
+          {
+            "date": "2026-11-01",
+            "rank": 47
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 48
+          }
+        ]
+      },
+      {
+        "key": "apple:1792566420",
+        "id": "1792566420",
+        "label": "Ayami Bik (Wana a'dar)",
+        "artist": "Elissa",
+        "rank": 49,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2007-12-18",
+        "genre": "Pop",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/89/5a/12895a62-376f-b559-a5a6-81f6300decfd/6281130204504.png/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/ayami-bik-wana-adar/1792566418?i=1792566420",
+        "artistUrl": "https://music.apple.com/eg/artist/elissa/28117976",
+        "daysSinceRelease": 6898,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-10-03",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 34,
+        "rankPrev": 50,
+        "rankDelta": 1,
+        "rank7dAgo": 49,
+        "rankDelta7d": 0,
+        "velocity3d": 0,
+        "acceleration": 0,
+        "peakRank": 47,
+        "daysSincePeak": 3,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-03",
+            "rank": 50
+          },
+          {
+            "date": "2026-10-18",
+            "rank": 50
+          },
+          {
+            "date": "2026-10-29",
+            "rank": 49
+          },
+          {
+            "date": "2026-11-02",
+            "rank": 47
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 50
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 49
+          }
+        ]
+      },
+      {
+        "key": "apple:1103943989",
+        "id": "1103943989",
+        "label": "Ana Mosh Anani",
+        "artist": "Amr Diab",
+        "rank": 50,
+        "views": null,
+        "posts": null,
+        "releaseDate": "2014-01-05",
+        "genre": "",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/cc/05/b5/cc05b59e-9ad9-d031-3892-759b3c4ba85d/190374633796.jpg/100x100bb.jpg",
+        "url": "https://music.apple.com/eg/album/ana-mosh-anani/1103943612?i=1103943989",
+        "artistUrl": "https://music.apple.com/eg/artist/amr-diab/15869915",
+        "daysSinceRelease": 4688,
+        "source": "apple-music-eg",
+        "commercialSafe": null,
+        "firstSeen": "2026-09-27",
+        "lastSeen": "2026-11-05",
+        "daysTracked": 40,
+        "rankPrev": 48,
+        "rankDelta": -2,
+        "rank7dAgo": 47,
+        "rankDelta7d": -3,
+        "velocity3d": -0.33,
+        "acceleration": 0.11,
+        "peakRank": 44,
+        "daysSincePeak": 10,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "plateau",
+        "verdict": "monitor",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-01",
+            "rank": 50
+          },
+          {
+            "date": "2026-10-06",
+            "rank": 48
+          },
+          {
+            "date": "2026-10-08",
+            "rank": 50
+          },
+          {
+            "date": "2026-10-11",
+            "rank": 47
+          },
+          {
+            "date": "2026-10-13",
+            "rank": 45
+          },
+          {
+            "date": "2026-10-14",
+            "rank": 45
+          },
+          {
+            "date": "2026-10-15",
+            "rank": 50
+          },
+          {
+            "date": "2026-10-16",
+            "rank": 47
+          },
+          {
+            "date": "2026-10-20",
+            "rank": 50
+          },
+          {
+            "date": "2026-10-26",
+            "rank": 44
+          },
+          {
+            "date": "2026-10-27",
+            "rank": 47
+          },
+          {
+            "date": "2026-10-28",
+            "rank": 50
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 48
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 50
+          }
+        ]
+      }
+    ],
+    "igSounds": []
+  },
+  "dropouts": {
+    "sounds": [],
+    "hashtags": []
+  },
+  "competitorPanel": [
+    {
+      "key": "igacct:competitor handles",
+      "label": "@competitor handles",
+      "error": "HTTP 400 from graph.facebook.com: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AG0CAl1o8x2Jrvf1xO95j1P\"}}",
+      "source": "instagram-business-discovery"
+    },
+    {
+      "key": "igacct:comma-separated",
+      "label": "@comma-separated",
+      "error": "HTTP 400 from graph.facebook.com: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AbKyhe1E8ipJQB_ofncqVQI\"}}",
+      "source": "instagram-business-discovery"
+    }
+  ],
+  "notes": {
+    "hashtagVideoGeo": "TikTok limits hashtag video lookups to the hashtag's own top-5 countries, so example videos may come from another market. Each example records countryUsed.",
+    "instagram": "Instagram publishes no trending-audio metrics and no country filter, and media objects carry no audio field. IG rows are unranked names; use the manual log for Instagram.",
+    "keywords": "TikTok trending search keywords have no volume and no country parameter. Order only."
+  }
+}
