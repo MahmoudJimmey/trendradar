@@ -1785,9 +1785,9 @@
     ],
     "gtrend:kick": [
       {
-        "date": "2026-09-22",
-        "rank": 7,
-        "views": 500,
+        "date": "2026-11-18",
+        "rank": 10,
+        "views": 1000,
         "posts": null
       }
     ],
@@ -1971,9 +1971,9 @@
     ],
     "gtrend:اسعار البنزين اليوم": [
       {
-        "date": "2026-09-24",
+        "date": "2026-11-18",
         "rank": 7,
-        "views": 200,
+        "views": 100,
         "posts": null
       }
     ],
@@ -2800,6 +2800,12 @@
         "date": "2026-10-05",
         "rank": 6,
         "views": 1000,
+        "posts": null
+      },
+      {
+        "date": "2026-11-18",
+        "rank": 9,
+        "views": 200,
         "posts": null
       }
     ],
@@ -5872,6 +5878,62 @@
         "date": "2026-11-17",
         "rank": 10,
         "views": 200,
+        "posts": null
+      }
+    ],
+    "gtrend:رئيس وزراء التشيك": [
+      {
+        "date": "2026-11-18",
+        "rank": 1,
+        "views": 100,
+        "posts": null
+      }
+    ],
+    "gtrend:جنسن هوانغ انفيديا": [
+      {
+        "date": "2026-11-18",
+        "rank": 2,
+        "views": 100,
+        "posts": null
+      }
+    ],
+    "gtrend:جلوب سوكر": [
+      {
+        "date": "2026-11-18",
+        "rank": 3,
+        "views": 100,
+        "posts": null
+      }
+    ],
+    "gtrend:صدام حسين": [
+      {
+        "date": "2026-11-18",
+        "rank": 4,
+        "views": 200,
+        "posts": null
+      }
+    ],
+    "gtrend:وزير التعليم": [
+      {
+        "date": "2026-11-18",
+        "rank": 5,
+        "views": 500,
+        "posts": null
+      }
+    ],
+    "gtrend:سعر الذهب الآن": [
+      {
+        "date": "2026-11-18",
+        "rank": 6,
+        "views": 1000,
+        "posts": null
+      }
+    ],
+    "gtrend:وزير البترول المصري": [
+      {
+        "date": "2026-11-18",
+        "rank": 8,
+        "views": 500,
         "posts": null
       }
     ]

@@ -1,0 +1,1085 @@
+{
+  "generatedAt": "2026-11-18T13:41:54.402Z",
+  "date": "2026-11-18",
+  "country": "EG",
+  "dateRange": "7DAY",
+  "sample": false,
+  "daysOfHistory": 71,
+  "summary": {
+    "formats": 0,
+    "formatsSpiking": 0,
+    "formatsActionable": 0,
+    "tracked": 10,
+    "sounds": 0,
+    "hashtags": 0,
+    "newToday": 0,
+    "rising": 0,
+    "actNow": 0,
+    "tooLate": 0,
+    "crossovers": 0,
+    "verticalFit": 0,
+    "commercialSafeSounds": 0,
+    "droppedOut": 0
+  },
+  "topics": {
+    "realestate": "Real estate",
+    "automotive": "Automotive",
+    "football": "Football",
+    "food": "Food",
+    "entertainment": "TV & film"
+  },
+  "health": [
+    {
+      "source": "topics",
+      "status": "ok",
+      "count": 5,
+      "note": "tagging: Real estate, Automotive, Football, Food, TV & film — everything else still collected",
+      "at": "2026-11-18T13:40:41.598Z"
+    },
+    {
+      "source": "tiktok-keywords",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:42.183Z"
+    },
+    {
+      "source": "tiktok-hashtags:ALL",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:42.497Z"
+    },
+    {
+      "source": "tiktok-sounds:ALL",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:42.532Z"
+    },
+    {
+      "source": "tiktok-hashtags:NEWS_AND_ENTERTAINMENT",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:42.762Z"
+    },
+    {
+      "source": "tiktok-sounds:ARABIC_POP",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:42.802Z"
+    },
+    {
+      "source": "tiktok-hashtags:GAMES",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:42.997Z"
+    },
+    {
+      "source": "tiktok-sounds:POP",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:43.083Z"
+    },
+    {
+      "source": "tiktok-hashtags:FOOD_AND_BEVERAGE",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:43.233Z"
+    },
+    {
+      "source": "tiktok-sounds:HIP_HOP_RAP",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:43.406Z"
+    },
+    {
+      "source": "tiktok-hashtags:SPORTS_AND_OUTDOOR",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:43.474Z"
+    },
+    {
+      "source": "tiktok-sounds:ELECTRONIC",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:43.683Z"
+    },
+    {
+      "source": "tiktok-hashtags:BEAUTY_AND_PERSONAL_CARE",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:43.709Z"
+    },
+    {
+      "source": "tiktok-sounds:DANCE",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:43.919Z"
+    },
+    {
+      "source": "tiktok-hashtags:APPAREL_AND_ACCESSORIES",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:43.953Z"
+    },
+    {
+      "source": "tiktok-sounds:R_AND_B",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:44.162Z"
+    },
+    {
+      "source": "tiktok-hashtags:TECH_AND_ELECTRONICS",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:44.208Z"
+    },
+    {
+      "source": "tiktok-sounds:ROCK",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:44.412Z"
+    },
+    {
+      "source": "tiktok-hashtags:EDUCATION",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:44.444Z"
+    },
+    {
+      "source": "tiktok-sounds:LATIN",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:44.647Z"
+    },
+    {
+      "source": "tiktok-hashtags:HEALTH",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:44.695Z"
+    },
+    {
+      "source": "tiktok-sounds:AFRO-POP",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:44.888Z"
+    },
+    {
+      "source": "tiktok-hashtags:TRAVEL",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:44.928Z"
+    },
+    {
+      "source": "tiktok-sounds:TURKISH_POP",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:45.136Z"
+    },
+    {
+      "source": "tiktok-hashtags:VEHICLE_AND_TRANSPORTATION",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:45.172Z"
+    },
+    {
+      "source": "tiktok-sounds:CLASSICAL",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:45.371Z"
+    },
+    {
+      "source": "tiktok-hashtags:HOME_IMPROVEMENT",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:45.428Z"
+    },
+    {
+      "source": "tiktok-sounds:JAZZ",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:45.615Z"
+    },
+    {
+      "source": "tiktok-hashtags:HOUSEHOLD_PRODUCTS",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:45.660Z"
+    },
+    {
+      "source": "tiktok-sounds:COUNTRY",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:45.855Z"
+    },
+    {
+      "source": "tiktok-hashtags:BABY_KIDS_AND_MATERNITY",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:45.898Z"
+    },
+    {
+      "source": "tiktok-sounds:REGGAE",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:46.127Z"
+    },
+    {
+      "source": "tiktok-hashtags:PETS",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:46.130Z"
+    },
+    {
+      "source": "tiktok-sounds:SOUNDTRACK",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:46.365Z"
+    },
+    {
+      "source": "tiktok-hashtags:FINANCIAL_SERVICES",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:46.373Z"
+    },
+    {
+      "source": "tiktok-hashtags:LIFE_SERVICES",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:46.608Z"
+    },
+    {
+      "source": "tiktok-hashtags:BUSINESS_SERVICES",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:40:46.865Z"
+    },
+    {
+      "source": "google-trends",
+      "status": "ok",
+      "count": 10,
+      "note": "Trending Now RSS, geo=EG",
+      "at": "2026-11-18T13:40:47.285Z"
+    },
+    {
+      "source": "google-trends-api",
+      "status": "skipped",
+      "count": 0,
+      "note": "GOOGLE_TRENDS_API_KEY or TREND_SEED_TERMS not set",
+      "at": "2026-11-18T13:40:47.285Z"
+    },
+    {
+      "source": "apple-music",
+      "status": "error",
+      "count": 0,
+      "note": "This operation was aborted",
+      "at": "2026-11-18T13:41:50.890Z"
+    },
+    {
+      "source": "youtube",
+      "status": "error",
+      "count": 0,
+      "note": "HTTP 400 from www.googleapis.com: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"API key not valid. Please pass a valid API key.\",\n    \"errors\": [\n      {\n        \"message\": \"API key not valid. Please pass a valid API key.\",\n        \"domain\": \"global\",\n        \"reason\": \"b",
+      "at": "2026-11-18T13:41:50.966Z"
+    },
+    {
+      "source": "instagram-audio:music",
+      "status": "error",
+      "count": 0,
+      "note": "Invalid OAuth access token - Cannot parse access token [code 190] — Token is invalid or expired. IG_ACCESS_TOKEN must be a long-lived Page token from FACEBOOK Login — Instagram Login tokens do not work on this endpoint at all.",
+      "at": "2026-11-18T13:41:51.090Z"
+    },
+    {
+      "source": "instagram-audio:original_sound",
+      "status": "error",
+      "count": 0,
+      "note": "Invalid OAuth access token - Cannot parse access token [code 190] — Token is invalid or expired. IG_ACCESS_TOKEN must be a long-lived Page token from FACEBOOK Login — Instagram Login tokens do not work on this endpoint at all.",
+      "at": "2026-11-18T13:41:51.158Z"
+    },
+    {
+      "source": "instagram-panel",
+      "status": "error",
+      "count": 0,
+      "note": "all 2 accounts failed — HTTP 400 from graph.facebook.com: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"Ay0B7ABSiSAuJBL2vUR98Mw\"}}",
+      "at": "2026-11-18T13:41:51.301Z"
+    },
+    {
+      "source": "tiktok-seed-probe:challenge",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:41:51.667Z"
+    },
+    {
+      "source": "tiktok-seed-probe:تحدي",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:41:51.969Z"
+    },
+    {
+      "source": "tiktok-seed-probe:80s",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:41:52.216Z"
+    },
+    {
+      "source": "tiktok-seed-probe:الثمانينات",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:41:52.453Z"
+    },
+    {
+      "source": "tiktok-seed-probe:90s",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:41:52.681Z"
+    },
+    {
+      "source": "tiktok-seed-probe:قبل وبعد",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:41:52.923Z"
+    },
+    {
+      "source": "tiktok-seed-probe:before after",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:41:53.157Z"
+    },
+    {
+      "source": "tiktok-seed-probe:transition",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:41:53.396Z"
+    },
+    {
+      "source": "tiktok-seed-probe:room tour",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:41:53.657Z"
+    },
+    {
+      "source": "tiktok-seed-probe:روم تور",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:41:53.895Z"
+    },
+    {
+      "source": "tiktok-seed-probe:pov",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:41:54.131Z"
+    },
+    {
+      "source": "tiktok-seed-probe:rate my",
+      "status": "error",
+      "count": 0,
+      "note": "TikTok API code 40105: Access token is incorrect or has been revoked.",
+      "at": "2026-11-18T13:41:54.378Z"
+    },
+    {
+      "source": "format-detection",
+      "status": "ok",
+      "count": 0,
+      "note": "0 spiking phrases from 34 n-grams",
+      "at": "2026-11-18T13:41:54.401Z"
+    }
+  ],
+  "sections": {
+    "formats": [],
+    "sounds": [],
+    "hashtags": [],
+    "keywords": [],
+    "searchDemand": [
+      {
+        "key": "gtrend:رئيس وزراء التشيك",
+        "label": "رئيس وزراء التشيك",
+        "rank": 1,
+        "views": 100,
+        "posts": null,
+        "approxTraffic": "100+",
+        "pubDate": "Wed, 18 Nov 2026 05:20:00 -0800",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRagNyVzAJgBrMJrKobwfpPYjLKaYzCI3a1rEu5rW9jrZLbahOxszIsGACGk5Y",
+        "why": [
+          {
+            "title": "حقيقة رفض رئيس وزراء التشيك مصافحة نتنياهو ورفعه إصبعه في وجهه",
+            "url": "https://www.masrawy.com/news/news_publicaffairs/details/2026/11/18/3080667/%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%B1%D9%81%D8%B6-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D8%B4%D9%8A%D9%83-%D9%85%D8%B5%D8%A7%D9%81%D8%AD%D8%A9-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%88%D8%B1%D9%81%D8%B9%D9%87-%D8%A5%D8%B5%D8%A8%D8%B9%D9%87-%D9%81%D9%8A-%D9%88%D8%AC%D9%87%D9%87",
+            "source": "Masrawy"
+          },
+          {
+            "title": "هرتسوغ: إسرائيل تدافع عن أوروبا وتحميها",
+            "url": "https://newturkpost.com/news/136677-%D9%87%D8%B1%D8%AA%D8%B3%D9%88%D8%BA-%D9%8A%D8%B9%D9%84%D9%86%D9%87%D8%A7-%D9%86%D8%AD%D9%86-%D9%86%D8%AF%D8%A7%D9%81%D8%B9-%D8%B9%D9%86-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%88%D9%86%D8%AD%D9%85%D9%8A%D9%87%D8%A7",
+            "source": "نيو ترك بوست"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-11-18",
+        "lastSeen": "2026-11-18",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 1,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-11-18",
+            "rank": 1
+          }
+        ]
+      },
+      {
+        "key": "gtrend:جنسن هوانغ انفيديا",
+        "label": "جنسن هوانغ انفيديا",
+        "rank": 2,
+        "views": 100,
+        "posts": null,
+        "approxTraffic": "100+",
+        "pubDate": "Wed, 18 Nov 2026 05:10:00 -0800",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpk8o1mYOcNoYp98OmXjRrJ3XO9vfOlvG99TtmiQSc8h9p824pn5fJmq9TWfs",
+        "why": [
+          {
+            "title": "سام ألتمان: قطاع الذكاء الاصطناعي سيكون بخير بعد تنحي هوانج",
+            "url": "https://asharq.com/technology/203346/%D8%B3%D8%A7%D9%85-%D8%A3%D9%84%D8%AA%D9%85%D8%A7%D9%86-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%B3%D9%8A%D9%83%D9%88%D9%86-%D8%A8%D8%AE%D9%8A%D8%B1-%D8%A8%D8%B9%D8%AF-%D8%AA%D9%86%D8%AD%D9%8A-%D9%87%D9%88%D8%A7%D9%86%D8%AC/",
+            "source": "الشرق للأخبار"
+          },
+          {
+            "title": "3 لجان بالكونغرس تستعد لاستجواب جنسن هوانغ في ديسمبر",
+            "url": "https://www.skynewsarabia.com/world/1905382-3-%D9%84%D8%AC%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D8%B1%D8%B3-%D8%AA%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%A7%D8%B3%D8%AA%D8%AC%D9%88%D8%A7%D8%A8-%D8%AC%D9%86%D8%B3%D9%86-%D9%87%D9%88%D8%A7%D9%86%D8%BA-%D8%AF%D9%8A%D8%B3%D9%85%D8%A8%D8%B1",
+            "source": "سكاي نيوز عربية"
+          },
+          {
+            "title": "\"الأكاذيب\" و\"الجواسيس\" و\"الجنس\" ليست سوى جزء من قصة \"إنفيديا\".. المخاطر الحقيقية أكبر بكثير",
+            "url": "https://arabic.cnn.com/world/article/2026/11/16/lies-spies-and-sex-are-just-one-part-of-the-nvidia-story-the-real-stakes",
+            "source": "CNN Arabic"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-11-18",
+        "lastSeen": "2026-11-18",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 2,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-11-18",
+            "rank": 2
+          }
+        ]
+      },
+      {
+        "key": "gtrend:جلوب سوكر",
+        "label": "جلوب سوكر",
+        "rank": 3,
+        "views": 100,
+        "posts": null,
+        "approxTraffic": "100+",
+        "pubDate": "Wed, 18 Nov 2026 04:30:00 -0800",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStJPcm-ia7KuXZdrcz1yvvIe1Tc_GpDLuoDlAM053MBgx5ctWqGNqqNc6YzAw",
+        "why": [
+          {
+            "title": "الأهلي ضمن المرشحين لجائزة النادي التاريخي المفضل للجماهير في جلوب سوكر 2026",
+            "url": "https://www.yallakora.com/egyptian-league/3031/news/573785/%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%B6%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%B4%D8%AD%D9%8A%D9%86-%D9%84%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D8%A7%D9%84%D9%85%D9%81%D8%B6%D9%84-%D9%84%D9%84%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1-%D9%81%D9%8A-%D8%AC%D9%84%D9%88%D8%A8-%D8%B3%D9%88%D9%83%D8%B1-2026",
+            "source": "يلاكورة"
+          },
+          {
+            "title": "باب التصويت مفتوح.. الإعلان عن قوائم المرشحين لجوائز جلوب سوكر",
+            "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D9%8A%D8%AA-%D9%85%D9%81%D8%AA%D9%88%D8%AD--%D8%A7%D9%84%D8%A7%D9%95%D8%B9%D9%84%D8%A7%D9%86-%D8%B9%D9%86-%D9%82%D9%88%D8%A7%D9%8A%D9%94%D9%85-%D8%A7%D9%84%D9%85%D8%B1%D8%B4%D8%AD%D9%8A%D9%86-%D9%84%D8%AC%D9%88%D8%A7%D9%8A%D9%94%D8%B2-%D8%AC%D9%84%D9%88%D8%A8-%D8%B3%D9%88%D9%83%D8%B1/bltcd7af526872473c5",
+            "source": "Kooora"
+          },
+          {
+            "title": "الأهلي ينافس ريال مدريد وبرشلونة على جائزة عالمية.. ممثل العرب وأفريقيا الوحيد",
+            "url": "https://www.masrawy.com/sports/sports_news/details/2026/11/18/3080508",
+            "source": "Masrawy"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-11-18",
+        "lastSeen": "2026-11-18",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 3,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-11-18",
+            "rank": 3
+          }
+        ]
+      },
+      {
+        "key": "gtrend:صدام حسين",
+        "label": "صدام حسين",
+        "rank": 4,
+        "views": 200,
+        "posts": null,
+        "approxTraffic": "200+",
+        "pubDate": "Wed, 18 Nov 2026 04:20:00 -0800",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkljj09ZpQqtNF0ouQ5Z0GfZPaShdFAuBq2o2qmn_iQnwfGWTKU6F4ukK1rNA",
+        "why": [
+          {
+            "title": "ما قاله صدام حسين عن السعودية و\"أطماع إيران\" بمذكرات من معتقله كتبها عام 2006 تعيد ابنته نشرها",
+            "url": "https://arabic.cnn.com/middle-east/article/2026/11/18/saddam-hussien-memoirs-saudi-iran-yemen-viral-post-2006",
+            "source": "CNN Arabic"
+          },
+          {
+            "title": "رغد صدام حسين تنشر أجزاء من مذكرات والدها.. ماذا قال عن مصر وإيران والسعودية؟",
+            "url": "https://www.youm7.com/story/2026/11/18/%D8%B1%D8%BA%D8%AF-%D8%B5%D8%AF%D8%A7%D9%85-%D8%AD%D8%B3%D9%8A%D9%86-%D8%AA%D9%86%D8%B4%D8%B1-%D8%A3%D8%AC%D8%B2%D8%A7%D8%A1-%D9%85%D9%86-%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AF%D9%87%D8%A7-%D9%85%D8%A7%D8%B0%D8%A7-%D9%82%D8%A7%D9%84/7623261",
+            "source": "اليوم السابع"
+          },
+          {
+            "title": "ماذا قال صدام حسين عن حرب لبنان؟ مذكرات تخرج إلى العلن!",
+            "url": "https://twaslnews1.twaslnews.com/7901122/",
+            "source": "شبكة تواصل الإخبارية"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-11-18",
+        "lastSeen": "2026-11-18",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 4,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-11-18",
+            "rank": 4
+          }
+        ]
+      },
+      {
+        "key": "gtrend:وزير التعليم",
+        "label": "وزير التعليم",
+        "rank": 5,
+        "views": 500,
+        "posts": null,
+        "approxTraffic": "500+",
+        "pubDate": "Wed, 18 Nov 2026 04:00:00 -0800",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS69N0wCgtKuPOoGmdS3Y6bT5J8pdnaH3u4BpIdazuAy7IlMzuvLyFWOv-wEYc",
+        "why": [
+          {
+            "title": "اعتذار الدكتور عادل عبد الغفار عن منصبه مستشار إعلاميا لوزارة التعليم العالى",
+            "url": "https://www.youm7.com/story/2026/11/18/%D8%A7%D8%B9%D8%AA%D8%B0%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1-%D8%B9%D8%A7%D8%AF%D9%84-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%BA%D9%81%D8%A7%D8%B1-%D8%B9%D9%86-%D9%85%D9%86%D8%B5%D8%A8%D9%87-%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1-%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A%D8%A7-%D9%84%D9%88%D8%B2%D8%A7%D8%B1%D8%A9/7623080",
+            "source": "اليوم السابع"
+          },
+          {
+            "title": "وزير التعليم العالي يقبل اعتذار متحدث الوزارة عن الاستمرار في منصبه",
+            "url": "https://www.masrawy.com/news/education-universityeducation/details/2026/11/18/3080571/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D9%8A%D9%82%D8%A8%D9%84-%D8%A7%D8%B9%D8%AA%D8%B0%D8%A7%D8%B1-%D9%85%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%B9%D9%86-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D9%81%D9%8A-%D9%85%D9%86%D8%B5%D8%A8%D9%87",
+            "source": "Masrawy"
+          },
+          {
+            "title": "المتحدث الإعلامي لوزارة التعليم العالي يتقدم باعتذار عن الاستمرار في منصبه",
+            "url": "https://twaslnews1.twaslnews.com/7897442/",
+            "source": "شبكة تواصل الإخبارية"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-11-18",
+        "lastSeen": "2026-11-18",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 5,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-11-18",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "key": "gtrend:سعر الذهب الآن",
+        "label": "سعر الذهب الآن",
+        "rank": 6,
+        "views": 1000,
+        "posts": null,
+        "approxTraffic": "1000+",
+        "pubDate": "Wed, 18 Nov 2026 03:50:00 -0800",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGlpgVtr5sB38rQ3T4PoPfIkWego2ml-YulHu1yO94KWWb9o6Qt6uzKErdRD8",
+        "why": [
+          {
+            "title": "سعر الذهب يواصل الهبوط.. عيار 21 يفقد 20 جنيها إضافية والأونصة عند 3782 دولارا",
+            "url": "https://www.youm7.com/story/2026/11/18/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D9%87%D8%A8%D9%88%D8%B7-%D8%B9%D9%8A%D8%A7%D8%B1-21-%D9%8A%D9%81%D9%82%D8%AF-20-%D8%AC%D9%86%D9%8A%D9%87%D8%A7-%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9/7623569",
+            "source": "اليوم السابع"
+          },
+          {
+            "title": "الجرام يسجل 5053 جنيهًا للشراء .. هبوط قوي في أسعار الذهب الآن",
+            "url": "https://www.elbalad.news/7184930",
+            "source": "صدى البلد"
+          },
+          {
+            "title": "سعر الذهب اليوم الأربعاء 18-11-2026 في مصر صباحًا",
+            "url": "https://gate.ahram.org.eg/News/5986789.aspx",
+            "source": "بوابة الأهرام"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-11-18",
+        "lastSeen": "2026-11-18",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 6,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-11-18",
+            "rank": 6
+          }
+        ]
+      },
+      {
+        "key": "gtrend:اسعار البنزين اليوم",
+        "label": "اسعار البنزين اليوم",
+        "rank": 7,
+        "views": 100,
+        "posts": null,
+        "approxTraffic": "100+",
+        "pubDate": "Wed, 18 Nov 2026 03:40:00 -0800",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQI_m5mEYtYIXoRpVMRORR29ObLpHrgiuFw8dwJM_b6sPvmpNTu1tquqzANJno",
+        "why": [
+          {
+            "title": "رسميًا.. أسعار البنزين والسولار اليوم الأربعاء 18 نوفمبر 2026 بعد قرار لجنة التسعير",
+            "url": "https://www.almasryalyoum.com/news/details/4413357",
+            "source": "المصري اليوم"
+          },
+          {
+            "title": "سعر أنبوبة البوتجاز اليوم الجمعة بعد قرار لجنة التسعير.. كم تبلغ؟",
+            "url": "https://www.elbalad.news/7178832",
+            "source": "صدى البلد"
+          },
+          {
+            "title": "أسعار البنزين والسولار وأنبوبة البوتاجاز اليوم الإثنين.. كم تدفع الأسرة مقابل الوقود؟",
+            "url": "https://www.mobtada.com/economy/1669800/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D8%B2%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%B3%D9%88%D9%84%D8%A7%D8%B1-%D9%88%D8%A3%D9%86%D8%A8%D9%88%D8%A8%D8%A9-%D8%A7%D9%84%D8%A8%D9%88%D8%AA%D8%A7%D8%AC%D8%A7%D8%B2-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86-%D9%83%D9%85-%D8%AA%D8%AF%D9%81%D8%B9-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF",
+            "source": "مبتدا"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-09-24",
+        "lastSeen": "2026-11-18",
+        "daysTracked": 56,
+        "rankPrev": 7,
+        "rankDelta": 0,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 7,
+        "daysSincePeak": 0,
+        "viewsDelta": -100,
+        "viewsGrowthPct": -50,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-09-24",
+            "rank": 7
+          },
+          {
+            "date": "2026-11-18",
+            "rank": 7
+          }
+        ]
+      },
+      {
+        "key": "gtrend:وزير البترول المصري",
+        "label": "وزير البترول المصري",
+        "rank": 8,
+        "views": 500,
+        "posts": null,
+        "approxTraffic": "500+",
+        "pubDate": "Wed, 18 Nov 2026 03:30:00 -0800",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkesVt9yUuZP2gmnLl72KxgcfLzaspnnLRnbQ78I3roDvKbJRsPfyB_BggspY",
+        "why": [
+          {
+            "title": "وزير البترول يصدر حركة تكليفات موسعة لقيادات البترول ورؤساء عدد من الشركات لدعم تطوير منظومة العمل وزيادة الإنتاج",
+            "url": "https://petro-news.com/182993",
+            "source": "بترونيوز"
+          },
+          {
+            "title": "حركة الترقيات والندب والتكليف بالإدارة العليا بشركات قطاع البترول",
+            "url": "https://m.youm7.com/Tags/Index?id=3658939&tag=%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%82%D9%8A%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%86%D8%AF%D8%A8-%D9%88%D8%A7%D9%84%D8%AA%D9%83%D9%84%D9%8A%D9%81-%D8%A8%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7-%D8%A8%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%A8%D8%AA%D8%B1%D9%88%D9%84",
+            "source": "اليوم السابع"
+          },
+          {
+            "title": "\"ناجي\" نائبا الهيئة للنقل والتوزيع.. وعاطف رئيسا لـ\"مصر للبترول\".. البترول تصدر حركة تكليفات موسعه بالقطاع",
+            "url": "https://gate.ahram.org.eg/News/5986669.aspx",
+            "source": "بوابة الأهرام"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-11-18",
+        "lastSeen": "2026-11-18",
+        "daysTracked": 1,
+        "rankPrev": null,
+        "rankDelta": null,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": 0,
+        "acceleration": null,
+        "peakRank": 8,
+        "daysSincePeak": 0,
+        "viewsDelta": null,
+        "viewsGrowthPct": null,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "emerging",
+        "verdict": "act-now",
+        "runwayDays": 15,
+        "isNew": true,
+        "alerts": [
+          "new-entry",
+          "fast-entry-top-20"
+        ],
+        "sparkline": [
+          {
+            "date": "2026-11-18",
+            "rank": 8
+          }
+        ]
+      },
+      {
+        "key": "gtrend:وزير",
+        "label": "وزير",
+        "rank": 9,
+        "views": 200,
+        "posts": null,
+        "approxTraffic": "200+",
+        "pubDate": "Wed, 18 Nov 2026 03:30:00 -0800",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxSDpOU_wjiub3SINYWr9JEKZcLA_19ntlV_X9F39MB7FmIO3xaU_0T9DayuY",
+        "why": [
+          {
+            "title": "اقتصاد مصر ينمو 4.9% في الربع الأول من سنتها المالية",
+            "url": "https://www.skynewsarabia.com/business/1905586-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%85%D8%B5%D8%B1-%D9%8A%D9%86%D9%85%D9%88-4-9-%D8%A7%D9%84%D8%B1%D8%A8%D8%B9-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D8%B3%D9%86%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9",
+            "source": "سكاي نيوز عربية"
+          },
+          {
+            "title": "خبير: الاقتصاد المصري ينتقل من مرحلة الإصلاح للانطلاق وتعظيم الإنتاج",
+            "url": "https://www.youm7.com/story/2026/11/18/%D8%AE%D8%A8%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D9%86%D8%AA%D9%82%D9%84-%D9%85%D9%86-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%A5%D8%B5%D9%84%D8%A7%D8%AD-%D9%84%D9%84%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%88%D8%AA%D8%B9%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC/7622850",
+            "source": "اليوم السابع"
+          },
+          {
+            "title": "وزير التخطيط: الاقتصاد المصري يظهر صمودا بفضل تنوع مصادر نموه",
+            "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=18112026&id=882b465b-3788-4407-9c12-550fb6d07a76",
+            "source": "بوابة الشروق"
+          }
+        ],
+        "isRTL": true,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-10-05",
+        "lastSeen": "2026-11-18",
+        "daysTracked": 45,
+        "rankPrev": 6,
+        "rankDelta": -3,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": -0.07,
+        "acceleration": null,
+        "peakRank": 6,
+        "daysSincePeak": 44,
+        "viewsDelta": -800,
+        "viewsGrowthPct": -80,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-10-05",
+            "rank": 6
+          },
+          {
+            "date": "2026-11-18",
+            "rank": 9
+          }
+        ]
+      },
+      {
+        "key": "gtrend:kick",
+        "label": "kick",
+        "rank": 10,
+        "views": 1000,
+        "posts": null,
+        "approxTraffic": "1000+",
+        "pubDate": "Wed, 18 Nov 2026 02:50:00 -0800",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0i6ZLTgdg8ioZjJEqti3Z7K0A5QyXfLTYDJG-mxYGIuEz7spUYOw0A4DwC3I",
+        "why": [
+          {
+            "title": "Black Friday and Cyber Monday 2026: a first look at Amazon’s best deals",
+            "url": "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026",
+            "source": "About Amazon"
+          },
+          {
+            "title": "Black Friday 2026 is Nov. 27: what forecasters expect shoppers to spend, and where the discounts are",
+            "url": "https://mlq.ai/news/black-friday-2026-is-nov-27-what-forecasters-expect-shoppers-to-spend-and-where-the-discounts-are/",
+            "source": "MLQ.ai"
+          },
+          {
+            "title": "Amazon Offering Early Black Friday Discounts on TVs, Headphones, and Charging Devices",
+            "url": "https://www.macrumors.com/2026/11/17/amazon-black-friday-discounts-on-tvs-headphones/",
+            "source": "MacRumors"
+          }
+        ],
+        "isRTL": false,
+        "source": "google-trends",
+        "commercialSafe": true,
+        "firstSeen": "2026-09-22",
+        "lastSeen": "2026-11-18",
+        "daysTracked": 58,
+        "rankPrev": 7,
+        "rankDelta": -3,
+        "rank7dAgo": null,
+        "rankDelta7d": null,
+        "velocity3d": -0.05,
+        "acceleration": null,
+        "peakRank": 7,
+        "daysSincePeak": 57,
+        "viewsDelta": 500,
+        "viewsGrowthPct": 100,
+        "postsDelta": null,
+        "postsGrowthPct": null,
+        "saturation": null,
+        "relevance": 0,
+        "verticals": [],
+        "stage": "peaking",
+        "verdict": "ride-fast",
+        "runwayDays": 0,
+        "isNew": false,
+        "alerts": [],
+        "sparkline": [
+          {
+            "date": "2026-09-22",
+            "rank": 7
+          },
+          {
+            "date": "2026-11-18",
+            "rank": 10
+          }
+        ]
+      }
+    ],
+    "rising": [],
+    "videos": [],
+    "audioCharts": [],
+    "igSounds": []
+  },
+  "dropouts": {
+    "sounds": [],
+    "hashtags": []
+  },
+  "competitorPanel": [
+    {
+      "key": "igacct:competitor handles",
+      "label": "@competitor handles",
+      "error": "HTTP 400 from graph.facebook.com: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"Ay0B7ABSiSAuJBL2vUR98Mw\"}}",
+      "source": "instagram-business-discovery"
+    },
+    {
+      "key": "igacct:comma-separated",
+      "label": "@comma-separated",
+      "error": "HTTP 400 from graph.facebook.com: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AqZIDBE7Te6k6ySWiwoUdBc\"}}",
+      "source": "instagram-business-discovery"
+    }
+  ],
+  "notes": {
+    "hashtagVideoGeo": "TikTok limits hashtag video lookups to the hashtag's own top-5 countries, so example videos may come from another market. Each example records countryUsed.",
+    "instagram": "Instagram publishes no trending-audio metrics and no country filter, and media objects carry no audio field. IG rows are unranked names; use the manual log for Instagram.",
+    "keywords": "TikTok trending search keywords have no volume and no country parameter. Order only."
+  }
+}
